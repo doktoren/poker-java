@@ -1,0 +1,20 @@
+#Game No : 5055707
+***** Pacific Hand History for Game 5055707 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 00:38:22 2006
+Table Marsh Wheeling (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: macsta ( $2196 )
+Seat 9: nixx23 ( $244.5 )
+nixx23 posts small blind [$10].
+macsta posts big blind [$20].
+** Dealing down cards **
+nixx23 calls [$10].
+macsta raises [$40].
+nixx23 calls [$40].
+** Dealing Flop ** [ 2c, 7d, 5s ]
+nixx23 checks.
+macsta bets [$80].
+nixx23 folds.
+** Summary **
+macsta collected [$196].

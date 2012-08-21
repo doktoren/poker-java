@@ -1,0 +1,16 @@
+#Game No : 5028330
+***** Pacific Hand History for Game 5028330 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 01:45:28 2006
+Table McEwans (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: M8Me ( $1970 )
+Seat 5: dgs281 ( $1940 )
+dgs281 posts small blind [$10].
+M8Me posts big blind [$20].
+** Dealing down cards **
+dgs281 calls [$10].
+M8Me raises [$100].
+dgs281 folds.
+** Summary **
+M8Me collected [$140].

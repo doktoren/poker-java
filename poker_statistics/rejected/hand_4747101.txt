@@ -1,0 +1,25 @@
+#Game No : 4747101
+***** Pacific Hand History for Game 4747101 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 08 07:40:17 2006
+Table Canadian Ale (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: bobb0704 ( $2299.25 )
+Seat 8: scsdms1 ( $1046 )
+scsdms1 posts small blind [$5].
+bobb0704 posts big blind [$10].
+** Dealing down cards **
+scsdms1 calls [$5].
+bobb0704 checks.
+** Dealing Flop ** [ Jd, Jh, 9c ]
+scsdms1 checks.
+bobb0704 checks.
+** Dealing Turn ** [ 10c ]
+scsdms1 checks.
+bobb0704 checks.
+** Dealing River ** [ 4d ]
+scsdms1 checks.
+bobb0704 bets [$49].
+scsdms1 folds.
+** Summary **
+bobb0704 collected [$68].

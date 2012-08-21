@@ -1,0 +1,36 @@
+#Game No : 5179180
+***** Pacific Hand History for Game 5179180 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 20 00:51:39 2006
+Table Fonseca K.D.T. Cadetes (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 10: flopah ( $1000 )
+Seat 1: bollie1 ( $1016.7 )
+Seat 2: Knallaren ( $602.25 )
+Seat 5: rpj111 ( $2270.02 )
+Seat 6: AndraJ ( $799.9 )
+AndraJ posts small blind [$5].
+flopah posts big blind [$10].
+** Dealing down cards **
+bollie1 calls [$10].
+Knallaren folds.
+rpj111 calls [$10].
+AndraJ calls [$5].
+flopah checks.
+** Dealing Flop ** [ 6s, 10d, 3d ]
+AndraJ bets [$10].
+flopah calls [$10].
+bollie1 folds.
+rpj111 calls [$10].
+** Dealing Turn ** [ 7s ]
+AndraJ bets [$10].
+flopah raises [$60].
+rpj111 calls [$60].
+AndraJ folds.
+** Dealing River ** [ 5c ]
+flopah checks.
+flopah bets [$150].
+rpj111 raises [$300].
+flopah folds.
+** Summary **
+rpj111 collected [$646].

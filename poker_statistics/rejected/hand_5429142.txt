@@ -1,0 +1,43 @@
+#Game No : 5429142
+***** Pacific Hand History for Game 5429142 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 26 19:16:43 2006
+Table Gurkha Expedition 1887 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 10: Haschis ( $1788 )
+Seat 1: wooder2 ( $1180.1 )
+Seat 3: spice5 ( $665 )
+Seat 4: bear0350 ( $615 )
+Seat 5: sonval ( $820 )
+Seat 6: Kasperis ( $2044 )
+Seat 7: MAP914 ( $1794.1 )
+Seat 8: EQUINOXE ( $1802 )
+Seat 9: MANDRAKE ( $1758.75 )
+bear0350 posts small blind [$10].
+sonval posts big blind [$20].
+wooder2 posts big blind [$20].
+** Dealing down cards **
+Kasperis folds.
+MAP914 folds.
+EQUINOXE folds.
+Haschis folds.
+wooder2 checks.
+spice5 folds.
+bear0350 calls [$10].
+sonval checks.
+** Dealing Flop ** [ 2h, Qc, Jd ]
+bear0350 checks.
+sonval checks.
+wooder2 checks.
+** Dealing Turn ** [ As ]
+bear0350 checks.
+sonval checks.
+wooder2 checks.
+** Dealing River ** [ 9h ]
+bear0350 checks.
+sonval checks.
+wooder2 bets [$20].
+bear0350 folds.
+sonval folds.
+** Summary **
+wooder2 collected [$77].

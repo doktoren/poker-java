@@ -1,0 +1,18 @@
+#Game No : 5465570
+***** Pacific Hand History for Game 5465570 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 27 18:19:57 2006
+Table Lambic Cassis Ale (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 10: piedi ( $700.09 )
+Seat 2: vilja9 ( $1451.25 )
+Seat 4: scaffold ( $356.5 )
+Seat 8: AndMor ( $1952.5 )
+vilja9 posts small blind [$5].
+scaffold posts big blind [$10].
+** Dealing down cards **
+AndMor raises [$35].
+vilja9 folds.
+scaffold folds.
+** Summary **
+AndMor collected [$50].

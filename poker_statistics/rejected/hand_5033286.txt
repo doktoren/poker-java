@@ -1,0 +1,27 @@
+#Game No : 5033286
+***** Pacific Hand History for Game 5033286 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 05:34:26 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: jtchamp4 ( $3046.24 )
+Seat 2: etown99 ( $368 )
+Seat 5: aatowin ( $397 )
+Seat 6: bleeach ( $1939.88 )
+Seat 7: m8me ( $1920.5 )
+Seat 9: Lmpn ( $1539.21 )
+m8me posts small blind [$10].
+Lmpn posts big blind [$20].
+** Dealing down cards **
+jtchamp4 calls [$20].
+etown99 folds.
+bleeach calls [$20].
+m8me folds.
+Lmpn raises [$60].
+jtchamp4 folds.
+bleeach calls [$60].
+** Dealing Flop ** [ 7d, 4d, 7s ]
+Lmpn bets [$140].
+bleeach folds.
+** Summary **
+Lmpn collected [$326].

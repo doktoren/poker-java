@@ -1,0 +1,28 @@
+#Game No : 4747964
+***** Pacific Hand History for Game 4747964 *****
+#Game No : 4748874
+***** Pacific Hand History for Game 4748874 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 08:36:34 2006
+Table Almodine (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: shafan ( $491 )
+Seat 6: jeter323 ( $2000 )
+jeter323 posts small blind [$10].
+shafan posts big blind [$20].
+** Dealing down cards **
+jeter323 calls [$10].
+shafan checks.
+** Dealing Flop ** [ 3h, Kd, Jh ]
+shafan checks.
+jeter323 checks.
+** Dealing Turn ** [ 7d ]
+shafan bets [$20].
+jeter323 calls [$20].
+** Dealing River ** [ 10d ]
+shafan checks.
+jeter323 checks.
+** Summary **
+shafan shows [ Jd Ac ].
+jeter323 mucks.
+shafan collected [$76].

@@ -1,0 +1,38 @@
+#Game No : 4658647
+***** Pacific Hand History for Game 4658647 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 02:01:45 2006
+Table Planters Punch (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 10: aidannet ( $294 )
+Seat 2: PacMann ( $2253 )
+Seat 4: A604Guy ( $2442 )
+Seat 5: edibben ( $2727.04 )
+Seat 6: RUN1116 ( $1940 )
+Seat 7: zumph ( $4162.5 )
+Seat 8: Chrilles ( $1900 )
+Seat 9: stephank ( $3941.77 )
+edibben posts small blind [$10].
+RUN1116 posts big blind [$20].
+** Dealing down cards **
+Chrilles raises [$75].
+stephank folds.
+aidannet raises [$294].
+PacMann folds.
+A604Guy calls [$294].
+edibben folds.
+RUN1116 folds.
+Chrilles raises [$600].
+A604Guy calls [$381].
+** Dealing Flop ** [ 2h, 9c, Ah ]
+Chrilles bets [$500].
+A604Guy folds.
+** Dealing Turn ** [ 10s ]
+** Dealing River ** [ 9d ]
+** Summary **
+aidannet shows [ Jh 9h ].
+Chrilles shows [ Kh Kc ].
+Chrilles shows [ Kh Kc ].
+aidannet shows [ Jh 9h ].
+aidannet collected [$908].
+Chrilles collected [$1262].

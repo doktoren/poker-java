@@ -1,0 +1,14 @@
+#Game No : 4809435
+***** Pacific Hand History for Game 4809435 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 05:45:09 2006
+Table Zombie (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 10: schada ( $2164 )
+Seat 8: fogden ( $935 )
+schada posts small blind [$10].
+fogden posts big blind [$20].
+** Dealing down cards **
+schada folds.
+** Summary **
+fogden collected [$30].

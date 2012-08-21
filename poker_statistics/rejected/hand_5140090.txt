@@ -1,0 +1,24 @@
+#Game No : 5140090
+***** Pacific Hand History for Game 5140090 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 03:04:36 2006
+Table J.L. Salazar y Hermanos (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 10: fbenoit1 ( $1097 )
+Seat 3: wcjt17 ( $1726 )
+Seat 5: kololina ( $1479.5 )
+Seat 6: BIGC0CK ( $7597.83 )
+Seat 7: Kasperis ( $2392 )
+Seat 8: NLPoker ( $2000 )
+Seat 9: jv8035 ( $1484.5 )
+BIGC0CK posts small blind [$10].
+Kasperis posts big blind [$20].
+** Dealing down cards **
+NLPoker raises [$70].
+jv8035 folds.
+fbenoit1 folds.
+kololina folds.
+BIGC0CK folds.
+Kasperis folds.
+** Summary **
+NLPoker collected [$100].

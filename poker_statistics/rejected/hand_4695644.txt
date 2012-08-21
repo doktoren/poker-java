@@ -1,0 +1,28 @@
+#Game No : 4695644
+***** Pacific Hand History for Game 4695644 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 07 00:43:37 2006
+Table Excalibur 1066 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 10: Phatigue ( $2294 )
+Seat 1: schada ( $1458 )
+Seat 2: skellyb ( $7930.28 )
+Seat 5: oaty66 ( $1986 )
+Seat 6: MWT5 ( $1284 )
+Seat 7: fbenoit1 ( $1220.44 )
+oaty66 posts small blind [$10].
+MWT5 posts big blind [$20].
+** Dealing down cards **
+Phatigue folds.
+schada folds.
+skellyb folds.
+oaty66 calls [$10].
+MWT5 checks.
+** Dealing Flop ** [ Ks, 10h, Qs ]
+oaty66 checks.
+MWT5 checks.
+** Dealing Turn ** [ 4c ]
+oaty66 bets [$40].
+MWT5 folds.
+** Summary **
+oaty66 collected [$78].

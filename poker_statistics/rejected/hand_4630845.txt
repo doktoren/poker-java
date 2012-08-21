@@ -1,0 +1,23 @@
+#Game No : 4630845
+***** Pacific Hand History for Game 4630845 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 05 09:40:30 2006
+Table Indian Tabac Cameroon Legend (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 10: qwiefrgo ( $250 )
+Seat 1: muckfish ( $637.8 )
+Seat 3: theison2 ( $1511.12 )
+Seat 4: timotas ( $392.05 )
+Seat 6: oops2809 ( $135.95 )
+Seat 8: Justyce5 ( $994.22 )
+Justyce5 posts small blind [$3].
+qwiefrgo posts big blind [$6].
+** Dealing down cards **
+muckfish folds.
+theison2 raises [$24].
+timotas raises [$78].
+Justyce5 folds.
+qwiefrgo folds.
+theison2 folds.
+** Summary **
+timotas collected [$111].

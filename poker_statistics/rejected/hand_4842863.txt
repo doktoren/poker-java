@@ -1,0 +1,30 @@
+#Game No : 4842863
+***** Pacific Hand History for Game 4842863 *****
+#Game No : 4845141
+***** Pacific Hand History for Game 4845141 *****
+#Game No : 4845161
+***** Pacific Hand History for Game 4845161 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 06:34:26 2006
+Table Heart Stopper (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: MAP914 ( $1113.5 )
+Seat 6: Mambobam ( $1500 )
+Mambobam posts small blind [$10].
+MAP914 posts big blind [$20].
+** Dealing down cards **
+Mambobam calls [$10].
+MAP914 checks.
+** Dealing Flop ** [ Kc, Ad, 7s ]
+MAP914 checks.
+Mambobam checks.
+** Dealing Turn ** [ Ks ]
+MAP914 checks.
+Mambobam bets [$30].
+MAP914 raises [$60].
+Mambobam calls [$30].
+** Dealing River ** [ 4c ]
+MAP914 bets [$230].
+Mambobam folds.
+** Summary **
+MAP914 collected [$386].

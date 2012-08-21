@@ -1,0 +1,14 @@
+#Game No : 5271510
+***** Pacific Hand History for Game 5271510 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 22 13:59:29 2006
+Table Muddy Water (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 4: stephank ( $1007.45 )
+Seat 8: jahD ( $177.34 )
+stephank posts small blind [$3].
+jahD posts big blind [$6].
+** Dealing down cards **
+stephank folds.
+** Summary **
+jahD collected [$9].

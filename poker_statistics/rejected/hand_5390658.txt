@@ -1,0 +1,34 @@
+#Game No : 5390658
+***** Pacific Hand History for Game 5390658 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 25 21:12:46 2006
+Table Mint Julep (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: jimmydsp ( $1098.4 )
+Seat 1: SirWatts ( $594 )
+Seat 3: CrispinK ( $585 )
+Seat 6: RocketsJ ( $2198.17 )
+Seat 7: uvafred ( $205.3 )
+Seat 8: assemc ( $267.7 )
+SirWatts posts small blind [$3].
+CrispinK posts big blind [$6].
+** Dealing down cards **
+RocketsJ folds.
+uvafred folds.
+assemc calls [$6].
+SirWatts calls [$3].
+CrispinK checks.
+** Dealing Flop ** [ Ac, 9s, Kh ]
+SirWatts checks.
+CrispinK checks.
+assemc checks.
+** Dealing Turn ** [ 6s ]
+SirWatts bets [$12].
+CrispinK calls [$12].
+assemc folds.
+** Dealing River ** [ Ad ]
+SirWatts checks.
+CrispinK bets [$24].
+SirWatts folds.
+** Summary **
+CrispinK collected [$63.9].

@@ -1,0 +1,22 @@
+#Game No : 5154289
+***** Pacific Hand History for Game 5154289 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 10:05:27 2006
+Table Four Wheeler (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 1: cps99 ( $2468 )
+Seat 4: Phatigue ( $7227.27 )
+Seat 8: claireee ( $1701.5 )
+Seat 9: sheaf ( $1978 )
+Phatigue posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+sheaf folds.
+cps99 folds.
+Phatigue raises [$70].
+claireee calls [$60].
+** Dealing Flop ** [ Qs, 6s, 2d ]
+Phatigue bets [$90].
+claireee folds.
+** Summary **
+Phatigue collected [$246].

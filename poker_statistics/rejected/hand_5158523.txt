@@ -1,0 +1,33 @@
+#Game No : 5158523
+***** Pacific Hand History for Game 5158523 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 13:53:09 2006
+Table Italian Stallion (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 10: huijgers ( $1000 )
+Seat 1: flopah ( $613.25 )
+Seat 3: asdeli01 ( $966.25 )
+Seat 4: azukar ( $1126 )
+Seat 5: bababoo1 ( $1323.5 )
+Seat 6: claireee ( $822.25 )
+Seat 9: sucKJs ( $2123.88 )
+sucKJs posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+flopah folds.
+asdeli01 calls [$10].
+azukar calls [$10].
+claireee calls [$10].
+sucKJs calls [$5].
+huijgers checks.
+** Dealing Flop ** [ Kc, Ad, 8d ]
+sucKJs checks.
+huijgers checks.
+asdeli01 checks.
+azukar bets [$30].
+claireee folds.
+sucKJs folds.
+huijgers folds.
+asdeli01 folds.
+** Summary **
+azukar collected [$77.5].

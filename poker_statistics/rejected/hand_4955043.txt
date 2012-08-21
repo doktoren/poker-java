@@ -1,0 +1,27 @@
+#Game No : 4955043
+***** Pacific Hand History for Game 4955043 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 01:45:06 2006
+Table James Bond Martini (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: 2500 ( $1774 )
+Seat 5: jph0424 ( $1990 )
+Seat 6: bgpmp ( $2476 )
+Seat 7: jeter323 ( $4170.5 )
+Seat 8: Saalis ( $2000 )
+jeter323 posts small blind [$10].
+Saalis posts big blind [$20].
+** Dealing down cards **
+2500 folds.
+jph0424 folds.
+jeter323 calls [$10].
+Saalis raises [$60].
+jeter323 calls [$60].
+** Dealing Flop ** [ 4s, 10h, 9d ]
+jeter323 checks.
+Saalis checks.
+** Dealing Turn ** [ 2h ]
+jeter323 bets [$160].
+Saalis folds.
+** Summary **
+jeter323 collected [$316].

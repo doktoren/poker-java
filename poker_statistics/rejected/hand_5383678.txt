@@ -1,0 +1,15 @@
+#Game No : 5383678
+***** Pacific Hand History for Game 5383678 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 25 17:50:16 2006
+Table Michelob Light (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 10: mrgstr ( $1499.9 )
+Seat 7: derv1965 ( $445 )
+mrgstr posts small blind [$5].
+derv1965 posts big blind [$10].
+** Dealing down cards **
+mrgstr raises [$30].
+derv1965 folds.
+** Summary **
+mrgstr collected [$45].

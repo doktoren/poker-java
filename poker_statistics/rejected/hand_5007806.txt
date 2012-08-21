@@ -1,0 +1,17 @@
+#Game No : 5007806
+***** Pacific Hand History for Game 5007806 *****
+#Game No : 5007881
+***** Pacific Hand History for Game 5007881 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 10:16:25 2006
+Table Woodpecker Cider (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Phatigue ( $9327.67 )
+Seat 8: kevynyo ( $1101.5 )
+Phatigue posts small blind [$10].
+kevynyo posts big blind [$20].
+** Dealing down cards **
+Phatigue raises [$50].
+kevynyo folds.
+** Summary **
+Phatigue collected [$80].

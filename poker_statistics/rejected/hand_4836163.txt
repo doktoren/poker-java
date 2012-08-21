@@ -1,0 +1,19 @@
+#Game No : 4836163
+***** Pacific Hand History for Game 4836163 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 11 00:25:10 2006
+Table Churchill Deluxe (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: XiboY ( $461.55 )
+Seat 8: Justyce5 ( $49.4 )
+Justyce5 posts small blind [$3].
+XiboY posts big blind [$6].
+** Dealing down cards **
+Justyce5 calls [$3].
+XiboY checks.
+** Dealing Flop ** [ 3c, Qs, 8s ]
+Justyce5 checks.
+XiboY bets [$12].
+Justyce5 folds.
+** Summary **
+XiboY collected [$23.4].

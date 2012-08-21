@@ -1,0 +1,26 @@
+#Game No : 4865145
+***** Pacific Hand History for Game 4865145 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 22:08:18 2006
+Table Aventinus (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 10: gazza325 ( $1491.67 )
+Seat 1: gtoyne ( $5363.89 )
+Seat 2: bollie1 ( $2120 )
+Seat 3: Kasperis ( $1071 )
+Seat 4: MugOfAle ( $100 )
+Kasperis posts small blind [$5].
+MugOfAle posts big blind [$10].
+** Dealing down cards **
+gtoyne folds.
+bollie1 folds.
+Kasperis calls [$5].
+MugOfAle checks.
+** Dealing Flop ** [ Qs, 3d, 2c ]
+Kasperis checks.
+MugOfAle checks.
+** Dealing Turn ** [ 9h ]
+Kasperis bets [$10].
+MugOfAle folds.
+** Summary **
+Kasperis collected [$29].

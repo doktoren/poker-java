@@ -1,0 +1,37 @@
+#Game No : 5444764
+***** Pacific Hand History for Game 5444764 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 03:47:30 2006
+Table Chi Chi (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 10: oompa3 ( $700 )
+Seat 3: vicstorm ( $898.96 )
+Seat 5: skanis ( $2094.41 )
+Seat 6: kilburgp ( $758 )
+Seat 7: stephank ( $2000 )
+stephank posts small blind [$10].
+oompa3 posts big blind [$20].
+** Dealing down cards **
+skanis calls [$20].
+kilburgp calls [$20].
+stephank calls [$10].
+oompa3 checks.
+** Dealing Flop ** [ 9s, 9h, 4s ]
+stephank checks.
+oompa3 checks.
+skanis checks.
+kilburgp checks.
+** Dealing Turn ** [ 4h ]
+stephank checks.
+oompa3 checks.
+skanis checks.
+kilburgp checks.
+** Dealing River ** [ 7h ]
+stephank bets [$20].
+oompa3 folds.
+skanis folds.
+kilburgp calls [$20].
+** Summary **
+stephank shows [ 3h 5h ].
+kilburgp mucks.
+stephank collected [$116].

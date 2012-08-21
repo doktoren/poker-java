@@ -1,0 +1,30 @@
+#Game No : 5448862
+***** Pacific Hand History for Game 5448862 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 06:15:38 2006
+Table Primo del Rey (Real Money)
+Seat 9 is the button
+Total number of players : 10
+Seat 10: drunkzzz ( $1549 )
+Seat 1: CowGame ( $220 )
+Seat 2: stephank ( $2218.5 )
+Seat 3: fbenoit1 ( $2608 )
+Seat 4: jonutenh ( $2178 )
+Seat 5: scubaste ( $2116.23 )
+Seat 6: xxDRBxx ( $347 )
+Seat 7: sheaf ( $2000 )
+Seat 8: big101 ( $6246 )
+Seat 9: Caito ( $2786 )
+drunkzzz posts small blind [$10].
+CowGame posts big blind [$20].
+** Dealing down cards **
+stephank folds.
+fbenoit1 folds.
+jonutenh folds.
+scubaste folds.
+xxDRBxx folds.
+sheaf folds.
+Caito raises [$80].
+drunkzzz folds.
+CowGame folds.
+** Summary **
+Caito collected [$110].

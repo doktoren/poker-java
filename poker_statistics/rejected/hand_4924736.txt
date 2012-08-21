@@ -1,0 +1,21 @@
+#Game No : 4924736
+***** Pacific Hand History for Game 4924736 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 13 11:16:24 2006
+Table Bunny Hug (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: bilm ( $150 )
+Seat 4: Matrojan ( $221.15 )
+Seat 5: dm59 ( $1204.4 )
+Seat 7: stephank ( $914.3 )
+Seat 8: bluff006 ( $222.18 )
+Matrojan posts small blind [$3].
+dm59 posts big blind [$6].
+** Dealing down cards **
+stephank folds.
+bilm folds.
+Matrojan calls [$3].
+dm59 raises [$12].
+Matrojan folds.
+** Summary **
+dm59 collected [$24].

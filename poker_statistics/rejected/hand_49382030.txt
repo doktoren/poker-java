@@ -1,0 +1,55 @@
+#Game No : 49382030
+***** Pacific Hand History for Game 49382030 *****
+$0.05/$0.1 Limit Hold'em - *** 09 06 22:15:12 2006
+Table AVO Signature (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 10: gigant15 ( $2.83 )
+Seat 1: wakeytom ( $5.77 )
+Seat 2: cahsse ( $19.41 )
+Seat 3: supermc1 ( $3.08 )
+Seat 4: BemBen ( $4.73 )
+Seat 7: HubbieE ( $5.76 )
+Seat 8: atomek ( $19.66 )
+Seat 9: andida ( $3.59 )
+cahsse posts small blind [$0.02].
+supermc1 posts big blind [$0.05].
+** Dealing down cards **
+BemBen calls [$0.05].
+HubbieE folds.
+atomek calls [$0.05].
+andida calls [$0.05].
+gigant15 folds.
+wakeytom calls [$0.05].
+cahsse calls [$0.03].
+supermc1 checks.
+** Dealing Flop ** [ 5s, Jh, 2c ]
+cahsse checks.
+supermc1 checks.
+BemBen checks.
+atomek checks.
+andida checks.
+wakeytom checks.
+** Dealing Turn ** [ 8d ]
+cahsse checks.
+supermc1 checks.
+BemBen checks.
+atomek checks.
+andida checks.
+wakeytom checks.
+** Dealing River ** [ Kd ]
+cahsse checks.
+supermc1 checks.
+BemBen bets [$0.1].
+atomek raises [$0.2].
+andida folds.
+wakeytom raises [$0.3].
+cahsse folds.
+supermc1 calls [$0.3].
+BemBen folds.
+atomek calls [$0.1].
+** Summary **
+wakeytom shows [ 5c Kc ].
+supermc1 mucks.
+atomek shows [ Kh 8h ].
+atomek collected [$1.24].

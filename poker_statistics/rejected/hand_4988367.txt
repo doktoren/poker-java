@@ -1,0 +1,34 @@
+#Game No : 4988367
+***** Pacific Hand History for Game 4988367 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 14 22:33:08 2006
+Table Elephant Lips (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RCJIII ( $863.5 )
+Seat 2: logbil ( $1155.3 )
+Seat 3: jwill950 ( $1348 )
+Seat 5: coopj81 ( $667.2 )
+Seat 7: kraudo ( $1238 )
+Seat 8: RUN1116 ( $50.03 )
+logbil posts small blind [$5].
+jwill950 posts big blind [$10].
+** Dealing down cards **
+coopj81 folds.
+kraudo folds.
+RCJIII folds.
+logbil calls [$5].
+jwill950 checks.
+** Dealing Flop ** [ 2c, 4s, 7s ]
+logbil bets [$10].
+jwill950 calls [$10].
+** Dealing Turn ** [ 6h ]
+logbil checks.
+jwill950 bets [$10].
+logbil calls [$10].
+** Dealing River ** [ 2h ]
+logbil checks.
+jwill950 checks.
+** Summary **
+logbil shows [ Ac 3h ].
+jwill950 shows [ 4h Kh ].
+jwill950 collected [$57].

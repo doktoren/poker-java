@@ -1,0 +1,22 @@
+#Game No : 4848741
+***** Pacific Hand History for Game 4848741 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 09:27:20 2006
+Table Tequila Slammer (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: bollsta ( $1820 )
+Seat 4: bgpmp ( $2756.5 )
+Seat 5: Kasperis ( $2537.5 )
+Seat 6: CowGame ( $200 )
+Seat 8: xxDRBxx ( $1900 )
+Seat 9: edibben ( $3110 )
+bollsta posts small blind [$10].
+bgpmp posts big blind [$20].
+** Dealing down cards **
+CowGame folds.
+xxDRBxx raises [$60].
+edibben folds.
+bollsta folds.
+bgpmp folds.
+** Summary **
+xxDRBxx collected [$90].

@@ -1,0 +1,33 @@
+#Game No : 5036702
+***** Pacific Hand History for Game 5036702 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 07:54:28 2006
+Table Anaconda (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: fbenoit1 ( $351.5 )
+Seat 5: kellie03 ( $646 )
+Seat 6: bleeach ( $3526 )
+Seat 7: m8me ( $5409.48 )
+Seat 8: jtchamp4 ( $1864 )
+Seat 9: kogo9 ( $3186 )
+kellie03 posts small blind [$10].
+bleeach posts big blind [$20].
+** Dealing down cards **
+m8me folds.
+kogo9 folds.
+fbenoit1 folds.
+kellie03 raises [$30].
+bleeach calls [$20].
+** Dealing Flop ** [ 2c, 3d, 7h ]
+kellie03 bets [$60].
+bleeach calls [$60].
+** Dealing Turn ** [ Qh ]
+kellie03 bets [$60].
+bleeach calls [$60].
+** Dealing River ** [ Qc ]
+kellie03 checks.
+bleeach checks.
+** Summary **
+kellie03 shows [ Kc Js ].
+bleeach shows [ 3s Ac ].
+bleeach collected [$316].

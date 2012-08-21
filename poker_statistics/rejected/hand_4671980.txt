@@ -1,0 +1,24 @@
+#Game No : 4671980
+***** Pacific Hand History for Game 4671980 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 10:25:56 2006
+Table Pearl (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 10: lloydie3 ( $1045.5 )
+Seat 1: desx2 ( $492.5 )
+Seat 5: TinyTnks ( $512.07 )
+Seat 9: MrPils ( $889.77 )
+MrPils posts small blind [$5].
+lloydie3 posts big blind [$10].
+** Dealing down cards **
+desx2 folds.
+MrPils raises [$40].
+lloydie3 calls [$35].
+** Dealing Flop ** [ 4h, 10d, 3d ]
+MrPils bets [$60].
+lloydie3 calls [$60].
+** Dealing Turn ** [ 9h ]
+MrPils bets [$140].
+lloydie3 folds.
+** Summary **
+MrPils collected [$346].

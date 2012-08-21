@@ -1,0 +1,21 @@
+#Game No : 5582425
+***** Pacific Hand History for Game 5582425 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 30 22:06:47 2006
+Table Punch Royal Coronations (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: skellyb ( $2622.76 )
+Seat 4: logbil ( $3075.5 )
+logbil posts small blind [$10].
+skellyb posts big blind [$20].
+** Dealing down cards **
+logbil calls [$10].
+skellyb checks.
+** Dealing Flop ** [ 3s, Ah, 5c ]
+logbil checks.
+skellyb checks.
+** Dealing Turn ** [ Qs ]
+logbil checks.
+skellyb folds.
+** Summary **
+logbil collected [$38].

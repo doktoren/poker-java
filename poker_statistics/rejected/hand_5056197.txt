@@ -1,0 +1,18 @@
+#Game No : 5056197
+***** Pacific Hand History for Game 5056197 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 00:56:11 2006
+Table Marsh Wheeling (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: braffer ( $396 )
+Seat 6: macsta ( $3510 )
+macsta posts small blind [$10].
+braffer posts big blind [$20].
+** Dealing down cards **
+macsta raises [$70].
+braffer calls [$60].
+** Dealing Flop ** [ 3h, 8d, 8c ]
+macsta bets [$140].
+braffer folds.
+** Summary **
+macsta collected [$296].

@@ -1,0 +1,21 @@
+#Game No : 4795129
+***** Pacific Hand History for Game 4795129 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 09 20:27:11 2006
+Table Tequila Slammer (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: vanc18 ( $1288.5 )
+Seat 5: jskull ( $1782 )
+jskull posts small blind [$10].
+vanc18 posts big blind [$20].
+** Dealing down cards **
+jskull calls [$10].
+vanc18 checks.
+** Dealing Flop ** [ Jc, 5c, 6h ]
+jskull checks.
+vanc18 checks.
+** Dealing Turn ** [ 8c ]
+jskull bets [$40].
+vanc18 folds.
+** Summary **
+jskull collected [$78].

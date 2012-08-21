@@ -1,0 +1,22 @@
+#Game No : 4957101
+***** Pacific Hand History for Game 4957101 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 02:32:37 2006
+Table Anaconda (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 10: Saalis ( $2573 )
+Seat 1: BIGC0CK ( $10933 )
+Seat 2: Phatigue ( $5306.7 )
+Seat 3: GainM65 ( $266.2 )
+Seat 6: jtchamp4 ( $1716 )
+Seat 9: flopah ( $1075.88 )
+jtchamp4 posts small blind [$10].
+flopah posts big blind [$20].
+** Dealing down cards **
+Saalis folds.
+BIGC0CK folds.
+Phatigue raises [$70].
+jtchamp4 folds.
+flopah folds.
+** Summary **
+Phatigue collected [$100].

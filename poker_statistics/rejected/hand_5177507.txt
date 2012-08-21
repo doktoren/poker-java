@@ -1,0 +1,31 @@
+#Game No : 5177507
+***** Pacific Hand History for Game 5177507 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 23:53:32 2006
+Table Cardinal (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: bgpmp ( $745.68 )
+Seat 2: bollsta ( $1038.25 )
+Seat 3: sucKJs ( $946.5 )
+Seat 4: dgmgrand ( $1172.25 )
+Seat 5: chanwolf ( $1035.6 )
+Seat 6: krisch ( $1101 )
+Seat 8: big101 ( $1766.75 )
+Seat 9: Clute ( $302 )
+big101 posts small blind [$5].
+Clute posts big blind [$10].
+** Dealing down cards **
+bgpmp calls [$10].
+bollsta folds.
+sucKJs folds.
+dgmgrand folds.
+chanwolf folds.
+krisch folds.
+big101 folds.
+Clute checks.
+** Dealing Flop ** [ Kh, Kc, 5s ]
+Clute checks.
+bgpmp bets [$20].
+Clute folds.
+** Summary **
+bgpmp collected [$43.75].

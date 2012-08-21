@@ -1,0 +1,27 @@
+#Game No : 5019624
+***** Pacific Hand History for Game 5019624 *****
+#Game No : 5020041
+***** Pacific Hand History for Game 5020041 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 20:29:38 2006
+Table Punch Gran Coronas (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: jeter323 ( $2000 )
+Seat 6: romain36 ( $300 )
+jeter323 posts small blind [$10].
+romain36 posts big blind [$20].
+** Dealing down cards **
+jeter323 calls [$10].
+romain36 checks.
+** Dealing Flop ** [ 5h, 4c, 7s ]
+romain36 checks.
+jeter323 checks.
+** Dealing Turn ** [ Kh ]
+romain36 bets [$60].
+jeter323 calls [$60].
+** Dealing River ** [ 10h ]
+romain36 checks.
+jeter323 bets [$340].
+romain36 folds.
+** Summary **
+jeter323 collected [$496].

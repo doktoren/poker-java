@@ -1,0 +1,22 @@
+#Game No : 4903555
+***** Pacific Hand History for Game 4903555 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 22:18:42 2006
+Table Stout (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: drjimmyj ( $271 )
+Seat 9: bone11 ( $464.5 )
+drjimmyj posts small blind [$5].
+bone11 posts big blind [$10].
+** Dealing down cards **
+drjimmyj calls [$5].
+bone11 checks.
+** Dealing Flop ** [ Ah, 5d, 5s ]
+drjimmyj checks.
+bone11 checks.
+** Dealing Turn ** [ 6h ]
+drjimmyj checks.
+bone11 bets [$20].
+drjimmyj folds.
+** Summary **
+bone11 collected [$39].

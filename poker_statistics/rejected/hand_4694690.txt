@@ -1,0 +1,40 @@
+#Game No : 4694690
+***** Pacific Hand History for Game 4694690 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 07 00:18:45 2006
+Table Grappa (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 10: Kasperis ( $1000 )
+Seat 1: kim194 ( $489.25 )
+Seat 2: butler22 ( $207 )
+Seat 3: linhos ( $1010 )
+Seat 4: krisch ( $2488.75 )
+Seat 5: xxDRBxx ( $1932.75 )
+Seat 6: AceKckr ( $277 )
+Seat 7: boogjr ( $990 )
+Seat 9: dc0214 ( $604.5 )
+AceKckr posts small blind [$5].
+boogjr posts big blind [$10].
+** Dealing down cards **
+dc0214 folds.
+Kasperis calls [$10].
+butler22 calls [$10].
+linhos calls [$10].
+krisch raises [$65].
+xxDRBxx calls [$65].
+AceKckr folds.
+boogjr folds.
+Kasperis folds.
+butler22 folds.
+linhos folds.
+** Dealing Flop ** [ 2h, 6c, 6d ]
+krisch checks.
+xxDRBxx checks.
+** Dealing Turn ** [ 8s ]
+krisch checks.
+xxDRBxx checks.
+** Dealing River ** [ Kc ]
+krisch bets [$144].
+xxDRBxx folds.
+** Summary **
+krisch collected [$315].

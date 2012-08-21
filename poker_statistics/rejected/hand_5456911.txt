@@ -1,0 +1,14 @@
+#Game No : 5456911
+***** Pacific Hand History for Game 5456911 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 27 11:48:02 2006
+Table Rafael Gonazales Slenderellas (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: atesfull ( $1896.45 )
+Seat 8: RocketsJ ( $1190 )
+RocketsJ posts small blind [$5].
+atesfull posts big blind [$10].
+** Dealing down cards **
+RocketsJ folds.
+** Summary **
+atesfull collected [$15].

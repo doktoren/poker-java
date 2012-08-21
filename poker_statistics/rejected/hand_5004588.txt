@@ -1,0 +1,15 @@
+#Game No : 5004588
+***** Pacific Hand History for Game 5004588 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 06:56:43 2006
+Table McEwans (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $4848 )
+Seat 8: macsta ( $1121.32 )
+macsta posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+macsta raises [$50].
+fbenoit1 folds.
+** Summary **
+macsta collected [$80].

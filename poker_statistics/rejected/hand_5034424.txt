@@ -1,0 +1,24 @@
+#Game No : 5034424
+***** Pacific Hand History for Game 5034424 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 06:28:19 2006
+Table Havannah (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: jwill950 ( $3082.51 )
+Seat 3: boogjr ( $306 )
+Seat 4: ppelican ( $196 )
+Seat 5: docmatt ( $287.42 )
+Seat 6: Ninja027 ( $345.84 )
+jwill950 posts small blind [$5].
+boogjr posts big blind [$10].
+** Dealing down cards **
+docmatt calls [$10].
+Ninja027 folds.
+jwill950 calls [$5].
+boogjr checks.
+** Dealing Flop ** [ 2s, Qc, Ks ]
+jwill950 bets [$20].
+boogjr folds.
+docmatt folds.
+** Summary **
+jwill950 collected [$48.5].

@@ -1,0 +1,33 @@
+#Game No : 5046711
+***** Pacific Hand History for Game 5046711 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 17:46:36 2006
+Table Marsh Wheeling (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 10: nudragon ( $2084 )
+Seat 3: hosen ( $1968 )
+Seat 4: boogjr ( $2002.5 )
+Seat 6: hugo13 ( $1850 )
+Seat 7: avago14 ( $1220 )
+hosen posts small blind [$10].
+boogjr posts big blind [$20].
+** Dealing down cards **
+avago14 calls [$20].
+nudragon calls [$20].
+hosen folds.
+boogjr checks.
+** Dealing Flop ** [ 7d, Js, 2d ]
+boogjr bets [$40].
+avago14 calls [$40].
+nudragon folds.
+** Dealing Turn ** [ Jc ]
+boogjr bets [$80].
+avago14 calls [$80].
+** Dealing River ** [ Kh ]
+boogjr checks.
+avago14 bets [$60].
+boogjr calls [$60].
+** Summary **
+avago14 shows [ Qh Jh ].
+boogjr mucks.
+avago14 collected [$426].

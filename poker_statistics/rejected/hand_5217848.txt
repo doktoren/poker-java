@@ -1,0 +1,14 @@
+#Game No : 5217848
+***** Pacific Hand History for Game 5217848 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 02:11:08 2006
+Table La Flor de Murias (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Church61 ( $1601.52 )
+Seat 5: mpavlou ( $2302.8 )
+mpavlou posts small blind [$10].
+Church61 posts big blind [$20].
+** Dealing down cards **
+mpavlou folds.
+** Summary **
+Church61 collected [$30].

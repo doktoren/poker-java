@@ -1,0 +1,31 @@
+#Game No : 5028278
+***** Pacific Hand History for Game 5028278 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 01:44:15 2006
+Table McEwans (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 10: M8Me ( $1920 )
+Seat 3: MANDRAKE ( $3986 )
+Seat 4: macsta ( $1832 )
+Seat 5: dgs281 ( $2000 )
+Seat 6: mcdouble ( $170 )
+Seat 7: salsolo ( $942 )
+Seat 8: Lmpn ( $2553 )
+Seat 9: justone5 ( $2270.2 )
+salsolo posts small blind [$10].
+Lmpn posts big blind [$20].
+** Dealing down cards **
+justone5 folds.
+M8Me folds.
+MANDRAKE folds.
+dgs281 calls [$20].
+mcdouble folds.
+salsolo calls [$10].
+Lmpn raises [$50].
+dgs281 calls [$50].
+salsolo folds.
+** Dealing Flop ** [ 10h, Qc, 5d ]
+Lmpn bets [$120].
+dgs281 folds.
+** Summary **
+Lmpn collected [$276].

@@ -1,0 +1,15 @@
+#Game No : 5417530
+***** Pacific Hand History for Game 5417530 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 26 10:50:30 2006
+Table Shamira (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: claireee ( $1136 )
+Seat 9: Enecosse ( $2157.25 )
+claireee posts small blind [$5].
+Enecosse posts big blind [$10].
+** Dealing down cards **
+claireee raises [$25].
+Enecosse folds.
+** Summary **
+claireee collected [$40].

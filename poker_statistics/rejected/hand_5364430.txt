@@ -1,0 +1,24 @@
+#Game No : 5364430
+***** Pacific Hand History for Game 5364430 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 03:07:46 2006
+Table Gin and Tonic (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: zojari ( $2658.5 )
+Seat 9: hugo13 ( $6970.42 )
+hugo13 posts small blind [$10].
+zojari posts big blind [$20].
+** Dealing down cards **
+hugo13 calls [$10].
+zojari checks.
+** Dealing Flop ** [ Qh, 4c, 8s ]
+hugo13 checks.
+zojari checks.
+** Dealing Turn ** [ Ks ]
+hugo13 checks.
+zojari checks.
+** Dealing River ** [ Jc ]
+hugo13 bets [$40].
+zojari folds.
+** Summary **
+hugo13 collected [$78].

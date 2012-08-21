@@ -1,0 +1,16 @@
+#Game No : 4849329
+***** Pacific Hand History for Game 4849329 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 09:52:30 2006
+Table Bronx Cocktail (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: muckfish ( $883 )
+Seat 6: bgpmp ( $1830.54 )
+muckfish posts small blind [$5].
+bgpmp posts big blind [$10].
+** Dealing down cards **
+muckfish calls [$5].
+bgpmp raises [$30].
+muckfish folds.
+** Summary **
+bgpmp collected [$50].

@@ -1,0 +1,40 @@
+#Game No : 5377523
+***** Pacific Hand History for Game 5377523 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 25 12:17:28 2006
+Table Shamira (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 10: Gamble91 ( $1083.25 )
+Seat 1: ewass ( $954.2 )
+Seat 2: henry47x ( $1217.39 )
+Seat 3: CowGame ( $95 )
+Seat 4: stephank ( $970 )
+Seat 5: mrgstr ( $2745.18 )
+Seat 6: gotvoip ( $675.5 )
+Seat 7: deda35 ( $510 )
+Seat 8: pyromid ( $1302 )
+deda35 posts small blind [$5].
+pyromid posts big blind [$10].
+** Dealing down cards **
+Gamble91 folds.
+ewass raises [$20].
+henry47x folds.
+CowGame folds.
+stephank folds.
+mrgstr folds.
+gotvoip folds.
+deda35 folds.
+pyromid calls [$10].
+** Dealing Flop ** [ 3c, 5c, Jd ]
+pyromid checks.
+ewass checks.
+** Dealing Turn ** [ Qc ]
+pyromid bets [$20].
+ewass calls [$20].
+** Dealing River ** [ Jc ]
+pyromid checks.
+ewass checks.
+ewass bets [$914.2].
+pyromid folds.
+** Summary **
+ewass collected [$995.2].

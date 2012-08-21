@@ -1,0 +1,36 @@
+#Game No : 4752587
+***** Pacific Hand History for Game 4752587 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 11:45:52 2006
+Table Partagas Lonsdales (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: kiyoshi8 ( $2076 )
+Seat 4: skellyb ( $2716 )
+Seat 6: bustero ( $616.5 )
+Seat 8: allinx2 ( $1019 )
+skellyb posts small blind [$10].
+bustero posts big blind [$20].
+** Dealing down cards **
+allinx2 raises [$40].
+kiyoshi8 calls [$40].
+skellyb calls [$30].
+bustero folds.
+** Dealing Flop ** [ 5s, Qh, 6h ]
+skellyb checks.
+allinx2 bets [$40].
+kiyoshi8 calls [$40].
+skellyb calls [$40].
+** Dealing Turn ** [ Ks ]
+skellyb checks.
+allinx2 bets [$80].
+kiyoshi8 folds.
+skellyb calls [$80].
+** Dealing River ** [ Qc ]
+skellyb checks.
+allinx2 checks.
+allinx2 bets [$20].
+skellyb raises [$200].
+allinx2 raises [$360].
+skellyb folds.
+** Summary **
+allinx2 collected [$996].

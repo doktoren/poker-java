@@ -1,0 +1,14 @@
+#Game No : 5172797
+***** Pacific Hand History for Game 5172797 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 21:26:25 2006
+Table La Herencia Cubana (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HadesAA ( $1990 )
+Seat 7: zumph ( $2166 )
+zumph posts small blind [$10].
+HadesAA posts big blind [$20].
+** Dealing down cards **
+zumph folds.
+** Summary **
+HadesAA collected [$30].

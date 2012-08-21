@@ -1,0 +1,14 @@
+#Game No : 4998413
+***** Pacific Hand History for Game 4998413 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 03:03:40 2006
+Table Hacker-Pschorr (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: feuy07 ( $228 )
+Seat 9: aaronkjo ( $2872.8 )
+feuy07 posts small blind [$10].
+aaronkjo posts big blind [$20].
+** Dealing down cards **
+feuy07 folds.
+** Summary **
+aaronkjo collected [$30].

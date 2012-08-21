@@ -1,0 +1,29 @@
+#Game No : 4843382
+***** Pacific Hand History for Game 4843382 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 05:05:12 2006
+Table Tigers Milk (Real Money)
+Seat 4 is the button
+Total number of players : 10
+Seat 10: R0N7655 ( $859.2 )
+Seat 1: JSTLRNED ( $1014 )
+Seat 2: sleepyyy ( $1705.6 )
+Seat 3: JM1000 ( $654.29 )
+Seat 4: amdrawin ( $487 )
+Seat 5: chanwolf ( $990 )
+Seat 6: mcdouble ( $291 )
+Seat 7: crowba3 ( $940 )
+Seat 8: azukar ( $1755.28 )
+Seat 9: huijgers ( $1046 )
+chanwolf posts small blind [$5].
+mcdouble posts big blind [$10].
+** Dealing down cards **
+crowba3 folds.
+azukar folds.
+huijgers folds.
+JSTLRNED folds.
+sleepyyy folds.
+JM1000 folds.
+amdrawin folds.
+chanwolf folds.
+** Summary **
+mcdouble collected [$15].

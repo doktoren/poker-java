@@ -1,0 +1,43 @@
+#Game No : 4906061
+***** Pacific Hand History for Game 4906061 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 23:42:19 2006
+Table Zircon (Real Money)
+Seat 3 is the button
+Total number of players : 10
+Seat 10: banker77 ( $768 )
+Seat 1: mattb30 ( $980 )
+Seat 2: nocmonky ( $300 )
+Seat 3: 14ALONSO ( $819.9 )
+Seat 4: veldinho ( $380 )
+Seat 5: gotvoip ( $1000 )
+Seat 6: bgpmp ( $990 )
+Seat 7: map914 ( $930 )
+Seat 8: sucKJs ( $992 )
+Seat 9: havaplan ( $863.22 )
+veldinho posts small blind [$5].
+gotvoip posts big blind [$10].
+nocmonky posts big blind [$10].
+** Dealing down cards **
+bgpmp folds.
+map914 folds.
+sucKJs folds.
+banker77 raises [$20].
+mattb30 folds.
+nocmonky folds.
+14ALONSO folds.
+veldinho raises [$35].
+gotvoip folds.
+banker77 calls [$20].
+** Dealing Flop ** [ 3h, Kd, Js ]
+veldinho checks.
+banker77 bets [$134].
+veldinho raises [$340].
+banker77 calls [$206].
+** Dealing Turn ** [ 2h ]
+** Dealing River ** [ 8h ]
+** Summary **
+banker77 shows [ Qs Kh ].
+veldinho shows [ Ah Kc ].
+banker77 shows [ Qs Kh ].
+veldinho shows [ Ah Kc ].
+veldinho collected [$776].

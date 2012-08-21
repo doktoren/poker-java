@@ -1,0 +1,25 @@
+#Game No : 5465494
+***** Pacific Hand History for Game 5465494 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 18:18:21 2006
+Table Guinness Stout (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: zumph ( $4028 )
+Seat 2: Saalis ( $2102 )
+Saalis posts small blind [$10].
+zumph posts big blind [$20].
+** Dealing down cards **
+Saalis raises [$90].
+zumph calls [$80].
+** Dealing Flop ** [ Kd, 3c, Jd ]
+Saalis checks.
+zumph checks.
+** Dealing Turn ** [ 10h ]
+Saalis bets [$140].
+zumph calls [$140].
+** Dealing River ** [ 6d ]
+Saalis checks.
+zumph bets [$350].
+Saalis folds.
+** Summary **
+zumph collected [$826].

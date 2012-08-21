@@ -1,0 +1,15 @@
+#Game No : 4755543
+***** Pacific Hand History for Game 4755543 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 15:16:47 2006
+Table Partagas Lonsdales (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: wooder2 ( $1148 )
+Seat 7: Saalis ( $3052.8 )
+wooder2 posts small blind [$10].
+Saalis posts big blind [$20].
+** Dealing down cards **
+wooder2 raises [$50].
+Saalis folds.
+** Summary **
+wooder2 collected [$80].

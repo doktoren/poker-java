@@ -1,0 +1,28 @@
+#Game No : 4794788
+***** Pacific Hand History for Game 4794788 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 09 20:07:26 2006
+Table Tequila Slammer (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: vanc18 ( $860 )
+Seat 9: MANDRAKE ( $2280 )
+vanc18 posts small blind [$10].
+MANDRAKE posts big blind [$20].
+** Dealing down cards **
+vanc18 calls [$10].
+MANDRAKE checks.
+** Dealing Flop ** [ 4s, 2h, 5s ]
+vanc18 checks.
+MANDRAKE bets [$40].
+vanc18 calls [$40].
+** Dealing Turn ** [ Qh ]
+vanc18 checks.
+MANDRAKE bets [$140].
+vanc18 calls [$140].
+** Dealing River ** [ Ks ]
+vanc18 bets [$100].
+MANDRAKE calls [$100].
+** Summary **
+vanc18 shows [ Qd 9s ].
+MANDRAKE mucks.
+vanc18 collected [$596].

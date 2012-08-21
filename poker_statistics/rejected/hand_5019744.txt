@@ -1,0 +1,27 @@
+#Game No : 5019744
+***** Pacific Hand History for Game 5019744 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 15 20:18:00 2006
+Table Havannah (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: Eve69 ( $1000 )
+Seat 4: stephank ( $1386 )
+Seat 5: bgpmp ( $1144.25 )
+Seat 6: MGM2008 ( $310 )
+Seat 7: veldinho ( $467.25 )
+Seat 9: hansie79 ( $249 )
+veldinho posts small blind [$5].
+hansie79 posts big blind [$10].
+** Dealing down cards **
+Eve69 raises [$30].
+stephank folds.
+bgpmp raises [$70].
+veldinho folds.
+hansie79 folds.
+Eve69 calls [$40].
+** Dealing Flop ** [ 2h, 7d, 8c ]
+Eve69 checks.
+bgpmp bets [$150].
+Eve69 folds.
+** Summary **
+bgpmp collected [$301].

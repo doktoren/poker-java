@@ -1,0 +1,15 @@
+#Game No : 5374531
+***** Pacific Hand History for Game 5374531 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 08:52:29 2006
+Table Gin and Tonic (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: oreida ( $1228 )
+Seat 6: Phatigue ( $1750 )
+Phatigue posts small blind [$10].
+oreida posts big blind [$20].
+** Dealing down cards **
+Phatigue raises [$50].
+oreida folds.
+** Summary **
+Phatigue collected [$80].

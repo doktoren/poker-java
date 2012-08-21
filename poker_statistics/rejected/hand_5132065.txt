@@ -1,0 +1,34 @@
+#Game No : 5132065
+***** Pacific Hand History for Game 5132065 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 18 23:54:33 2006
+Table Pink Kangaroo (Real Money)
+Seat 10 is the button
+Total number of players : 10
+Seat 10: gotvoip ( $955 )
+Seat 1: JM1000 ( $758.04 )
+Seat 2: dc0214 ( $196.5 )
+Seat 3: SNAlpha1 ( $883.65 )
+Seat 4: StackYa ( $861 )
+Seat 5: RocketsJ ( $1327.25 )
+Seat 6: jonutenh ( $1013.75 )
+Seat 7: amdrawin ( $245.75 )
+Seat 8: sucKJs ( $1163.75 )
+Seat 9: weeeMo ( $401.75 )
+JM1000 posts small blind [$5].
+dc0214 posts big blind [$10].
+** Dealing down cards **
+SNAlpha1 folds.
+RocketsJ folds.
+jonutenh folds.
+amdrawin folds.
+sucKJs raises [$44].
+weeeMo folds.
+gotvoip folds.
+JM1000 folds.
+dc0214 calls [$34].
+** Dealing Flop ** [ Ac, Jc, 5h ]
+dc0214 checks.
+sucKJs bets [$77].
+dc0214 folds.
+** Summary **
+sucKJs collected [$166].

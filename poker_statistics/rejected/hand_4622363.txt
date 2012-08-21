@@ -1,0 +1,19 @@
+#Game No : 4622363
+***** Pacific Hand History for Game 4622363 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 03:22:18 2006
+Table Partagas Lonsdales (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jak0007 ( $5225.72 )
+Seat 6: MWT5 ( $3168 )
+MWT5 posts small blind [$10].
+Jak0007 posts big blind [$20].
+** Dealing down cards **
+MWT5 calls [$10].
+Jak0007 checks.
+** Dealing Flop ** [ Qh, 6h, 7h ]
+MWT5 checks.
+Jak0007 bets [$40].
+MWT5 folds.
+** Summary **
+Jak0007 collected [$78].

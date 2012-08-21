@@ -1,0 +1,49 @@
+#Game No : 5371728
+***** Pacific Hand History for Game 5371728 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 06:39:02 2006
+Table Don Carlos (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 10: boogjr ( $4258.4 )
+Seat 1: chamoni7 ( $525.08 )
+Seat 3: sheaf ( $2050 )
+Seat 4: bobb0704 ( $1211.87 )
+Seat 5: wooder2 ( $1738 )
+Seat 6: Flyman17 ( $1088 )
+Seat 7: madmed55 ( $356.88 )
+Seat 8: dao69 ( $2641.91 )
+Seat 9: fbenoit1 ( $1528.1 )
+boogjr posts small blind [$10].
+chamoni7 posts big blind [$20].
+** Dealing down cards **
+sheaf folds.
+bobb0704 folds.
+wooder2 calls [$20].
+Flyman17 calls [$20].
+dao69 folds.
+fbenoit1 calls [$20].
+boogjr calls [$10].
+chamoni7 checks.
+** Dealing Flop ** [ Qc, 8s, 2c ]
+boogjr checks.
+chamoni7 checks.
+wooder2 checks.
+Flyman17 checks.
+fbenoit1 checks.
+** Dealing Turn ** [ 9h ]
+boogjr checks.
+chamoni7 checks.
+wooder2 bets [$80].
+Flyman17 calls [$80].
+fbenoit1 calls [$80].
+boogjr folds.
+chamoni7 folds.
+** Dealing River ** [ Qs ]
+wooder2 checks.
+Flyman17 checks.
+fbenoit1 checks.
+** Summary **
+wooder2 shows [ 9c 8h ].
+Flyman17 mucks.
+fbenoit1 mucks.
+wooder2 collected [$336].

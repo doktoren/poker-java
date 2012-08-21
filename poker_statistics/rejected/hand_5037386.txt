@@ -1,0 +1,33 @@
+#Game No : 5037386
+***** Pacific Hand History for Game 5037386 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 08:23:10 2006
+Table Anaconda (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 10: aaronkjo ( $2486 )
+Seat 1: boogjr ( $1756.5 )
+Seat 3: sazeracs ( $1980 )
+Seat 5: bleeach ( $1063.5 )
+Seat 7: m8me ( $5352.98 )
+Seat 9: kogo9 ( $5067 )
+sazeracs posts small blind [$10].
+bleeach posts big blind [$20].
+** Dealing down cards **
+m8me folds.
+kogo9 folds.
+aaronkjo folds.
+sazeracs calls [$10].
+bleeach checks.
+** Dealing Flop ** [ Kc, Jd, 4s ]
+sazeracs checks.
+bleeach checks.
+** Dealing Turn ** [ 4d ]
+sazeracs checks.
+bleeach checks.
+** Dealing River ** [ Ah ]
+sazeracs checks.
+bleeach checks.
+** Summary **
+sazeracs shows [ 9d 10h ].
+bleeach shows [ Jh 6h ].
+bleeach collected [$38].

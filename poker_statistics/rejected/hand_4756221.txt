@@ -1,0 +1,26 @@
+#Game No : 4756221
+***** Pacific Hand History for Game 4756221 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 15:50:40 2006
+Table Partagas Lonsdales (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 10: neekage ( $531 )
+Seat 7: Saalis ( $3337.8 )
+neekage posts small blind [$10].
+Saalis posts big blind [$20].
+** Dealing down cards **
+neekage calls [$10].
+Saalis checks.
+** Dealing Flop ** [ 7d, Jh, 2c ]
+neekage bets [$40].
+Saalis calls [$40].
+** Dealing Turn ** [ Kh ]
+neekage checks.
+Saalis checks.
+** Dealing River ** [ Kd ]
+neekage bets [$80].
+Saalis calls [$80].
+** Summary **
+neekage shows [ 10d 10h ].
+Saalis mucks.
+neekage collected [$276].

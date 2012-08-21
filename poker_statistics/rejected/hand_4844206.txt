@@ -1,0 +1,35 @@
+#Game No : 4844206
+***** Pacific Hand History for Game 4844206 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 05:46:01 2006
+Table Tequila Slammer (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: CoolWalk ( $530 )
+Seat 2: bleeach ( $2213 )
+Seat 3: fbenoit1 ( $3756.5 )
+Seat 4: marlin11 ( $811.93 )
+Seat 5: M8Me ( $2357 )
+Seat 6: huijgers ( $1990 )
+Seat 7: DNcXVII ( $2884.75 )
+Seat 9: Mrshale ( $4637.15 )
+CoolWalk posts small blind [$10].
+bleeach posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+M8Me folds.
+huijgers folds.
+DNcXVII raises [$40].
+Mrshale folds.
+CoolWalk folds.
+bleeach calls [$20].
+** Dealing Flop ** [ 6s, 7d, 2d ]
+bleeach checks.
+DNcXVII checks.
+** Dealing Turn ** [ 3c ]
+bleeach bets [$20].
+DNcXVII calls [$20].
+** Dealing River ** [ Qs ]
+bleeach bets [$60].
+DNcXVII folds.
+** Summary **
+bleeach collected [$186].

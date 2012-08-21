@@ -1,0 +1,18 @@
+#Game No : 5065886
+***** Pacific Hand History for Game 5065886 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 06:10:49 2006
+Table Anaconda (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: jambrose55 ( $2144 )
+Seat 9: kogo9 ( $2165.5 )
+jambrose55 posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+jambrose55 raises [$60].
+kogo9 calls [$50].
+** Dealing Flop ** [ 2c, 3d, 3c ]
+jambrose55 bets [$90].
+kogo9 folds.
+** Summary **
+jambrose55 collected [$226].

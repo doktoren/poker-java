@@ -1,0 +1,18 @@
+#Game No : 4590350
+***** Pacific Hand History for Game 4590350 *****
+#Game No : 4590369
+***** Pacific Hand History for Game 4590369 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 06:14:18 2006
+Table Excalibur 1066 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Caito ( $313 )
+Seat 2: MWT5 ( $12457.75 )
+MWT5 posts small blind [$10].
+Caito posts big blind [$20].
+** Dealing down cards **
+MWT5 calls [$10].
+Caito raises [$60].
+MWT5 folds.
+** Summary **
+Caito collected [$100].

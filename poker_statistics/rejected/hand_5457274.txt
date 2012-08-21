@@ -1,0 +1,14 @@
+#Game No : 5457274
+***** Pacific Hand History for Game 5457274 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 12:00:40 2006
+Table Chi Chi (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zumph ( $7147 )
+Seat 6: oreida ( $1939 )
+oreida posts small blind [$10].
+zumph posts big blind [$20].
+** Dealing down cards **
+oreida folds.
+** Summary **
+zumph collected [$30].

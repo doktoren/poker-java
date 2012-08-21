@@ -1,0 +1,34 @@
+#Game No : 5073009
+***** Pacific Hand History for Game 5073009 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 11:56:10 2006
+Table Anaconda (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: unglee ( $2182 )
+Seat 1: M8Me ( $1686 )
+Seat 4: rslnt ( $5059.05 )
+Seat 5: Phatigue ( $2199.9 )
+Seat 6: hugo13 ( $3030 )
+Seat 9: dao69 ( $7084 )
+M8Me posts small blind [$10].
+rslnt posts big blind [$20].
+** Dealing down cards **
+hugo13 folds.
+dao69 raises [$80].
+unglee folds.
+M8Me folds.
+rslnt calls [$60].
+** Dealing Flop ** [ Js, 4h, Jd ]
+rslnt checks.
+dao69 bets [$200].
+rslnt calls [$200].
+** Dealing Turn ** [ 5c ]
+rslnt checks.
+dao69 checks.
+** Dealing River ** [ Qc ]
+rslnt bets [$400].
+dao69 calls [$400].
+** Summary **
+rslnt shows [ Kd Qh ].
+dao69 mucks.
+rslnt collected [$1366].

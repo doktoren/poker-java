@@ -1,0 +1,19 @@
+#Game No : 5157535
+***** Pacific Hand History for Game 5157535 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 12:46:05 2006
+Table Punch Gran Puro (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: claireee ( $1846 )
+Seat 6: oreida ( $764 )
+oreida posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+oreida calls [$10].
+claireee checks.
+** Dealing Flop ** [ 10s, 10d, Jc ]
+oreida checks.
+claireee bets [$40].
+oreida folds.
+** Summary **
+claireee collected [$78].

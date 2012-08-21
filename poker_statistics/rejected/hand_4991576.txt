@@ -1,0 +1,29 @@
+#Game No : 4991576
+***** Pacific Hand History for Game 4991576 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 23:48:05 2006
+Table Tropical Breeze (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 10: sucKJs ( $1750 )
+Seat 1: big101 ( $2283 )
+Seat 2: karski21 ( $280 )
+Seat 4: Five8ss ( $2246 )
+Seat 5: hugo13 ( $2277.5 )
+Seat 6: cps99 ( $1838 )
+Seat 7: dfinney ( $1707 )
+Seat 9: Chrilles ( $2297 )
+karski21 posts small blind [$10].
+Five8ss posts big blind [$20].
+** Dealing down cards **
+hugo13 raises [$80].
+cps99 folds.
+Chrilles folds.
+sucKJs calls [$80].
+big101 folds.
+karski21 folds.
+Five8ss folds.
+** Dealing Flop ** [ 10h, 3c, Js ]
+hugo13 bets [$120].
+sucKJs folds.
+** Summary **
+hugo13 collected [$306].

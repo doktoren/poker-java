@@ -1,0 +1,18 @@
+#Game No : 4658925
+***** Pacific Hand History for Game 4658925 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 02:10:41 2006
+Table Excalibur 1066 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Jak0007 ( $1380 )
+Seat 6: kiyoshi8 ( $2178.16 )
+kiyoshi8 posts small blind [$10].
+Jak0007 posts big blind [$20].
+** Dealing down cards **
+kiyoshi8 calls [$10].
+Jak0007 checks.
+** Dealing Flop ** [ 10d, 3c, 4s ]
+kiyoshi8 bets [$60].
+Jak0007 folds.
+** Summary **
+kiyoshi8 collected [$98].

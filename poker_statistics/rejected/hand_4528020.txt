@@ -1,0 +1,24 @@
+#Game No : 4528020
+***** Pacific Hand History for Game 4528020 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 17:05:41 2006
+Table Camacho SLR (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: CPS99 ( $1105.15 )
+Seat 8: JTA82 ( $869.1 )
+JTA82 posts small blind [$5].
+CPS99 posts big blind [$10].
+** Dealing down cards **
+JTA82 calls [$5].
+CPS99 raises [$10].
+JTA82 calls [$10].
+** Dealing Flop ** [ 10c, 7d, 4d ]
+JTA82 checks.
+CPS99 bets [$10].
+JTA82 calls [$10].
+** Dealing Turn ** [ 9s ]
+JTA82 checks.
+CPS99 bets [$30].
+JTA82 folds.
+** Summary **
+CPS99 collected [$87].

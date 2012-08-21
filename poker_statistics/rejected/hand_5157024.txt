@@ -1,0 +1,25 @@
+#Game No : 5157024
+***** Pacific Hand History for Game 5157024 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 12:00:45 2006
+Table Italian Stallion (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 10: huijgers ( $1000 )
+Seat 3: PRLS ( $361.55 )
+Seat 8: NZL10 ( $973.25 )
+Seat 9: claireee ( $810 )
+PRLS posts small blind [$5].
+NZL10 posts big blind [$10].
+huijgers posts big blind [$10].
+** Dealing down cards **
+claireee calls [$10].
+huijgers checks.
+PRLS calls [$5].
+NZL10 checks.
+** Dealing Flop ** [ Qc, Qh, As ]
+PRLS bets [$10].
+NZL10 folds.
+claireee folds.
+huijgers folds.
+** Summary **
+PRLS collected [$48].

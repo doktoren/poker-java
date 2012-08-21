@@ -1,0 +1,21 @@
+#Game No : 4750142
+***** Pacific Hand History for Game 4750142 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 09:26:40 2006
+Table Excalibur 1066 (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: Lydia86 ( $3884.5 )
+Seat 9: Phatigue ( $8137.84 )
+Lydia86 posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+Lydia86 calls [$10].
+Phatigue checks.
+** Dealing Flop ** [ 2c, 6h, 4d ]
+Lydia86 checks.
+Phatigue checks.
+** Dealing Turn ** [ As ]
+Lydia86 bets [$40].
+Phatigue folds.
+** Summary **
+Lydia86 collected [$78].

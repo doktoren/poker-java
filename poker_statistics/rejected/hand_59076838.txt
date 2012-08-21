@@ -1,0 +1,22 @@
+#Game No : 59076838
+***** Pacific Hand History for Game 59076838 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 05 10:08:23 2006
+Table Screwdriver (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: Flamez13 ( $419.5 )
+Seat 2: brainj ( $385 )
+Seat 3: THEMACEO ( $69.7 )
+Seat 4: bgpmp ( $378.2 )
+Seat 5: AndMor ( $400 )
+Seat 9: RUN1116 ( $1053.6 )
+bgpmp posts small blind [$2].
+AndMor posts big blind [$4].
+** Dealing down cards **
+RUN1116 folds.
+Flamez13 folds.
+THEMACEO folds.
+bgpmp raises [$10].
+AndMor folds.
+** Summary **
+bgpmp collected [$16].

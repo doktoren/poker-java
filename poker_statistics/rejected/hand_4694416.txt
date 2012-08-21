@@ -1,0 +1,21 @@
+#Game No : 4694416
+***** Pacific Hand History for Game 4694416 *****
+#Game No : 4695165
+***** Pacific Hand History for Game 4695165 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 07 00:32:00 2006
+Table Cusano Corojo 97 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: jeter323 ( $1000 )
+Seat 5: baserapp ( $338.26 )
+jeter323 posts small blind [$5].
+baserapp posts big blind [$10].
+** Dealing down cards **
+jeter323 calls [$5].
+baserapp raises [$20].
+jeter323 calls [$20].
+** Dealing Flop ** [ 7d, Ah, 9d ]
+baserapp bets [$50].
+jeter323 folds.
+** Summary **
+baserapp collected [$107].

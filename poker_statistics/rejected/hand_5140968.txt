@@ -1,0 +1,33 @@
+#Game No : 5140968
+***** Pacific Hand History for Game 5140968 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 03:33:07 2006
+Table J.L. Salazar y Hermanos (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: gazza325 ( $1208 )
+Seat 2: dlvaile ( $777 )
+Seat 3: gpauto ( $709 )
+Seat 4: jnkydawg ( $1487 )
+Seat 5: wooder2 ( $546 )
+Seat 6: big101 ( $2046 )
+Seat 7: Kasperis ( $2000 )
+Seat 8: CowGame ( $200 )
+Seat 9: jv8035 ( $1466.5 )
+dlvaile posts small blind [$10].
+gpauto posts big blind [$20].
+** Dealing down cards **
+jnkydawg folds.
+big101 calls [$20].
+Kasperis folds.
+CowGame folds.
+jv8035 calls [$20].
+gazza325 folds.
+dlvaile folds.
+gpauto checks.
+** Dealing Flop ** [ 6c, Ks, 7s ]
+gpauto checks.
+big101 bets [$40].
+jv8035 folds.
+gpauto folds.
+** Summary **
+big101 collected [$106.5].

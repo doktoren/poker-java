@@ -1,0 +1,25 @@
+#Game No : 5369401
+***** Pacific Hand History for Game 5369401 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 05:22:31 2006
+Table Don Carlos (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 10: boogjr ( $1422.2 )
+Seat 1: jjli818 ( $2169 )
+Seat 3: vicstorm ( $428.1 )
+Seat 6: curieu ( $1606 )
+Seat 8: madmed55 ( $210.88 )
+Seat 9: fbenoit1 ( $628.5 )
+madmed55 posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+boogjr folds.
+vicstorm folds.
+curieu folds.
+madmed55 calls [$10].
+fbenoit1 checks.
+** Dealing Flop ** [ 7c, 9d, 5h ]
+madmed55 bets [$20].
+fbenoit1 folds.
+** Summary **
+madmed55 collected [$58].

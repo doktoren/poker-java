@@ -1,0 +1,22 @@
+#Game No : 5032259
+***** Pacific Hand History for Game 5032259 *****
+#Game No : 5032371
+***** Pacific Hand History for Game 5032371 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 04:45:50 2006
+Table Havannah (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jarett21 ( $500 )
+Seat 5: iftapias ( $300 )
+jarett21 posts small blind [$5].
+iftapias posts big blind [$10].
+** Dealing down cards **
+jarett21 raises [$15].
+iftapias calls [$10].
+** Dealing Flop ** [ 2h, Qh, 9h ]
+iftapias checks.
+jarett21 bets [$30].
+iftapias raises [$60].
+jarett21 folds.
+** Summary **
+iftapias collected [$126].

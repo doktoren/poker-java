@@ -1,0 +1,21 @@
+#Game No : 4865811
+***** Pacific Hand History for Game 4865811 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 22:25:21 2006
+Table Smirnoff Ice (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kiyoshi8 ( $1326.53 )
+Seat 7: CPS99 ( $400.5 )
+CPS99 posts small blind [$5].
+kiyoshi8 posts big blind [$10].
+** Dealing down cards **
+CPS99 calls [$5].
+kiyoshi8 checks.
+** Dealing Flop ** [ 4s, Ad, 9c ]
+CPS99 checks.
+kiyoshi8 checks.
+** Dealing Turn ** [ 5d ]
+CPS99 bets [$10].
+kiyoshi8 folds.
+** Summary **
+CPS99 collected [$29].

@@ -1,0 +1,14 @@
+#Game No : 4852243
+***** Pacific Hand History for Game 4852243 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 14:17:01 2006
+Table Tigers Milk (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: srpromo ( $688.8 )
+Seat 9: bollsta ( $936 )
+bollsta posts small blind [$5].
+srpromo posts big blind [$10].
+** Dealing down cards **
+bollsta folds.
+** Summary **
+srpromo collected [$15].

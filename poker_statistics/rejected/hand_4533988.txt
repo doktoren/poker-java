@@ -1,0 +1,18 @@
+#Game No : 4533988
+***** Pacific Hand History for Game 4533988 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 02 20:32:24 2006
+Table Sunset Island (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: MWT5 ( $3124.5 )
+Seat 8: Haschis ( $2007.5 )
+Haschis posts small blind [$10].
+MWT5 posts big blind [$20].
+** Dealing down cards **
+Haschis raises [$50].
+MWT5 calls [$40].
+** Dealing Flop ** [ 3d, 6h, Jc ]
+Haschis bets [$100].
+MWT5 folds.
+** Summary **
+Haschis collected [$216].

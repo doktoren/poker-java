@@ -1,0 +1,36 @@
+#Game No : 4914687
+***** Pacific Hand History for Game 4914687 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 13 04:33:09 2006
+Table Zircon (Real Money)
+Seat 8 is the button
+Total number of players : 9
+Seat 10: bxlefty ( $1151 )
+Seat 1: bababoo1 ( $959.25 )
+Seat 2: Ringer ( $1546 )
+Seat 3: sleepyyy ( $985 )
+Seat 4: m8me ( $955 )
+Seat 6: bgpmp ( $1167.5 )
+Seat 7: gpauto ( $862.98 )
+Seat 8: SCL1955 ( $2449.9 )
+Seat 9: PacMann ( $2092 )
+PacMann posts small blind [$5].
+bxlefty posts big blind [$10].
+** Dealing down cards **
+bababoo1 raises [$36].
+Ringer folds.
+sleepyyy folds.
+m8me calls [$36].
+gpauto folds.
+SCL1955 folds.
+PacMann folds.
+bxlefty folds.
+** Dealing Flop ** [ 7d, Jd, Qc ]
+bababoo1 bets [$40].
+m8me calls [$40].
+** Dealing Turn ** [ 5s ]
+bababoo1 checks.
+m8me bets [$110].
+bababoo1 raises [$266].
+m8me folds.
+** Summary **
+bababoo1 collected [$539].

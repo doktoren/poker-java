@@ -1,0 +1,19 @@
+#Game No : 5573470
+***** Pacific Hand History for Game 5573470 *****
+#Game No : 5573488
+***** Pacific Hand History for Game 5573488 *****
+#Game No : 5573887
+***** Pacific Hand History for Game 5573887 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 30 15:38:06 2006
+Table Taviano (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hugo13 ( $2605 )
+Seat 6: nofearbt ( $860 )
+hugo13 posts small blind [$10].
+nofearbt posts big blind [$20].
+** Dealing down cards **
+hugo13 raises [$50].
+nofearbt folds.
+** Summary **
+hugo13 collected [$80].

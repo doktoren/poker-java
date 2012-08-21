@@ -1,0 +1,33 @@
+#Game No : 5579046
+***** Pacific Hand History for Game 5579046 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 20:26:58 2006
+Table Cats-Eye (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 10: rcjiii ( $447 )
+Seat 2: lee1961 ( $302.31 )
+Seat 4: CCCNUTS ( $730.95 )
+Seat 5: JSTLRNED ( $594 )
+Seat 6: SwayC ( $673.4 )
+Seat 7: galifian ( $1148 )
+JSTLRNED posts small blind [$3].
+SwayC posts big blind [$6].
+** Dealing down cards **
+galifian folds.
+rcjiii folds.
+CCCNUTS calls [$6].
+JSTLRNED raises [$15].
+SwayC calls [$12].
+CCCNUTS calls [$12].
+** Dealing Flop ** [ 6d, 9c, Qs ]
+JSTLRNED bets [$6].
+SwayC calls [$6].
+CCCNUTS folds.
+** Dealing Turn ** [ Jc ]
+JSTLRNED bets [$24].
+SwayC calls [$24].
+** Dealing River ** [ 4c ]
+JSTLRNED bets [$30].
+SwayC folds.
+** Summary **
+JSTLRNED collected [$140].

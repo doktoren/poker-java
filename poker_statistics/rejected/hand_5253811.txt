@@ -1,0 +1,32 @@
+#Game No : 5253811
+***** Pacific Hand History for Game 5253811 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 22 00:42:45 2006
+Table Creamy Orange (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: AndMor ( $538 )
+Seat 3: glosmicr ( $685.78 )
+Seat 4: Jane67 ( $59.15 )
+Seat 5: djigga ( $127.75 )
+Seat 6: JLSmith8 ( $100 )
+Seat 7: chri2510 ( $179 )
+chri2510 posts small blind [$3].
+AndMor posts big blind [$6].
+** Dealing down cards **
+glosmicr calls [$6].
+Jane67 folds.
+djigga calls [$6].
+JLSmith8 calls [$6].
+chri2510 calls [$3].
+AndMor checks.
+AndMor checks.
+** Dealing Flop ** [ 6s, 8h, 4c ]
+chri2510 checks.
+AndMor checks.
+glosmicr bets [$6].
+djigga folds.
+JLSmith8 folds.
+chri2510 folds.
+AndMor folds.
+** Summary **
+glosmicr collected [$34.5].

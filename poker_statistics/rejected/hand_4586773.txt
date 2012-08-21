@@ -1,0 +1,28 @@
+#Game No : 4586773
+***** Pacific Hand History for Game 4586773 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 03:35:07 2006
+Table Excalibur 1066 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 2: MWT5 ( $8384.5 )
+Seat 4: toml70 ( $6218 )
+Seat 5: kiyoshi8 ( $6867.5 )
+Seat 6: kogo9 ( $10008.53 )
+Seat 7: 2500 ( $1800 )
+kogo9 posts small blind [$10].
+2500 posts big blind [$20].
+** Dealing down cards **
+MWT5 folds.
+toml70 raises [$40].
+kogo9 folds.
+2500 calls [$20].
+** Dealing Flop ** [ 2c, 10c, Kh ]
+2500 checks.
+toml70 bets [$60].
+2500 calls [$60].
+** Dealing Turn ** [ 6d ]
+2500 checks.
+toml70 bets [$160].
+2500 folds.
+** Summary **
+toml70 collected [$366].

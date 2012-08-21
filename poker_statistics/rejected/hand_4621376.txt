@@ -1,0 +1,20 @@
+#Game No : 4621376
+***** Pacific Hand History for Game 4621376 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 02:48:28 2006
+Table Bandita (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gaffel3 ( $1962 )
+Seat 4: tire444 ( $1735.88 )
+tire444 posts small blind [$10].
+gaffel3 posts big blind [$20].
+** Dealing down cards **
+tire444 raises [$50].
+gaffel3 raises [$160].
+tire444 calls [$120].
+** Dealing Flop ** [ Qh, 5s, 7c ]
+tire444 checks.
+gaffel3 bets [$251].
+tire444 folds.
+** Summary **
+gaffel3 collected [$607].

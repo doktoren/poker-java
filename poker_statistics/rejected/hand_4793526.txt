@@ -1,0 +1,14 @@
+#Game No : 4793526
+***** Pacific Hand History for Game 4793526 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 09 19:08:26 2006
+Table Oliveros Long Lady (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: demonbo2 ( $238.75 )
+Seat 6: CrispinK ( $781.7 )
+CrispinK posts small blind [$3].
+demonbo2 posts big blind [$6].
+** Dealing down cards **
+CrispinK folds.
+** Summary **
+demonbo2 collected [$9].

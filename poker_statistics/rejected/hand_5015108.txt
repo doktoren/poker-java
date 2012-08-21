@@ -1,0 +1,16 @@
+#Game No : 5015108
+***** Pacific Hand History for Game 5015108 *****
+#Game No : 5015123
+***** Pacific Hand History for Game 5015123 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 16:56:26 2006
+Table Anaconda (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 3: macsta ( $2000 )
+Seat 8: fbenoit1 ( $408 )
+fbenoit1 posts small blind [$10].
+macsta posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+** Summary **
+macsta collected [$30].

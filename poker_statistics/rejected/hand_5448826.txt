@@ -1,0 +1,26 @@
+#Game No : 5448826
+***** Pacific Hand History for Game 5448826 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 06:13:52 2006
+Table Chi Chi (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 10: jonutenh ( $2746 )
+Seat 3: bodaph ( $985.04 )
+Seat 4: 2500 ( $2591 )
+Seat 7: boogie10 ( $6412 )
+Seat 8: big101 ( $662 )
+Seat 9: atesfull ( $6420 )
+2500 posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+atesfull folds.
+jonutenh raises [$80].
+bodaph folds.
+2500 calls [$70].
+boogie10 folds.
+** Dealing Flop ** [ 8c, 6s, 5c ]
+2500 checks.
+jonutenh bets [$160].
+2500 folds.
+** Summary **
+jonutenh collected [$336].

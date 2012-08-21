@@ -1,0 +1,25 @@
+#Game No : 5065714
+***** Pacific Hand History for Game 5065714 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 06:05:55 2006
+Table Anaconda (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: PacMann ( $2975 )
+Seat 9: kogo9 ( $2301.5 )
+PacMann posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+PacMann calls [$10].
+kogo9 checks.
+** Dealing Flop ** [ 7h, Qs, 4h ]
+PacMann checks.
+kogo9 checks.
+** Dealing Turn ** [ 3c ]
+PacMann checks.
+kogo9 checks.
+** Dealing River ** [ 9c ]
+PacMann checks.
+kogo9 bets [$40].
+PacMann folds.
+** Summary **
+kogo9 collected [$78].

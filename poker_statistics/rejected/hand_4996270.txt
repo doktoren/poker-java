@@ -1,0 +1,19 @@
+#Game No : 4996270
+***** Pacific Hand History for Game 4996270 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 01:56:55 2006
+Table Hacker-Pschorr (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dogspot ( $1773.6 )
+Seat 6: feuy07 ( $200 )
+feuy07 posts small blind [$10].
+dogspot posts big blind [$20].
+** Dealing down cards **
+feuy07 calls [$10].
+dogspot checks.
+** Dealing Flop ** [ Jc, Qd, 4c ]
+feuy07 bets [$20].
+dogspot raises [$66].
+feuy07 folds.
+** Summary **
+dogspot collected [$122].

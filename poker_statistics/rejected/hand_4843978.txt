@@ -1,0 +1,22 @@
+#Game No : 4843978
+***** Pacific Hand History for Game 4843978 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 05:33:50 2006
+Table Bronx Cocktail (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: wcjt17 ( $461 )
+Seat 3: cooljok3 ( $1391.74 )
+Seat 4: darby09 ( $344.62 )
+Seat 5: huijgers ( $1522 )
+Seat 6: REHTO ( $545.64 )
+Seat 8: Justyce5 ( $253 )
+cooljok3 posts small blind [$5].
+darby09 posts big blind [$10].
+** Dealing down cards **
+huijgers folds.
+Justyce5 folds.
+wcjt17 raises [$40].
+cooljok3 folds.
+darby09 folds.
+** Summary **
+wcjt17 collected [$55].

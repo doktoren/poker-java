@@ -1,0 +1,28 @@
+#Game No : 5577714
+***** Pacific Hand History for Game 5577714 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 19:25:41 2006
+Table Cats-Eye (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 10: peteben ( $234 )
+Seat 1: stephank ( $911.3 )
+Seat 2: propunt ( $126.2 )
+Seat 4: CCCNUTS ( $988.8 )
+Seat 7: galifian ( $726.4 )
+Seat 8: bingo123 ( $112 )
+CCCNUTS posts small blind [$3].
+galifian posts big blind [$6].
+** Dealing down cards **
+bingo123 folds.
+peteben folds.
+propunt folds.
+CCCNUTS calls [$3].
+galifian checks.
+** Dealing Flop ** [ 5c, 8d, 7h ]
+CCCNUTS checks.
+galifian checks.
+** Dealing Turn ** [ 10h ]
+CCCNUTS bets [$6].
+galifian folds.
+** Summary **
+CCCNUTS collected [$17.4].

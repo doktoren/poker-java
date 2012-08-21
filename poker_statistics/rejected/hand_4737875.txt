@@ -1,0 +1,14 @@
+#Game No : 4737875
+***** Pacific Hand History for Game 4737875 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 08 01:33:05 2006
+Table Sancho Panza Tronquitos (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: jwill950 ( $210.2 )
+Seat 8: BoFisk ( $673.6 )
+BoFisk posts small blind [$3].
+jwill950 posts big blind [$6].
+** Dealing down cards **
+BoFisk folds.
+** Summary **
+jwill950 collected [$9].

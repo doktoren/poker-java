@@ -1,0 +1,18 @@
+#Game No : 5430919
+***** Pacific Hand History for Game 5430919 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 26 20:37:53 2006
+Table Golden Glow Punch (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: gazza325 ( $591 )
+Seat 5: RCJIII ( $648.9 )
+Seat 6: AndMor ( $687.85 )
+Seat 8: b4rr40 ( $509.55 )
+RCJIII posts small blind [$3].
+AndMor posts big blind [$6].
+** Dealing down cards **
+b4rr40 raises [$18].
+RCJIII folds.
+AndMor folds.
+** Summary **
+b4rr40 collected [$27].

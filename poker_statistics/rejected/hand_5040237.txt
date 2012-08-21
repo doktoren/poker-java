@@ -1,0 +1,14 @@
+#Game No : 5040237
+***** Pacific Hand History for Game 5040237 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 11:18:27 2006
+Table Havannah (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: lo0621 ( $714.24 )
+Seat 8: oreida ( $981.05 )
+oreida posts small blind [$5].
+lo0621 posts big blind [$10].
+** Dealing down cards **
+oreida folds.
+** Summary **
+lo0621 collected [$15].

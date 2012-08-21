@@ -1,0 +1,29 @@
+#Game No : 14345645
+***** Pacific Hand History for Game 14345645 *****
+#Game No : 14348037
+***** Pacific Hand History for Game 14348037 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 12 17:25:57 2006
+Table Le Hoyo du Gourmet (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: rosie74 ( $40 )
+Seat 6: 2filthy ( $150 )
+2filthy posts small blind [$2].
+rosie74 posts big blind [$4].
+** Dealing down cards **
+2filthy calls [$2].
+rosie74 raises [$4].
+2filthy calls [$4].
+** Dealing Flop ** [ 9s, 5c, 2d ]
+rosie74 bets [$4].
+2filthy calls [$4].
+** Dealing Turn ** [ 3d ]
+rosie74 bets [$12].
+2filthy calls [$12].
+** Dealing River ** [ 8h ]
+rosie74 bets [$8].
+2filthy calls [$8].
+** Summary **
+rosie74 shows [ Ad 9c ].
+2filthy mucks.
+rosie74 collected [$60.8].

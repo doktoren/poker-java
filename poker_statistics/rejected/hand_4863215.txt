@@ -1,0 +1,26 @@
+#Game No : 4863215
+***** Pacific Hand History for Game 4863215 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 21:08:06 2006
+Table Tigers Milk (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: qazqaz14 ( $107.25 )
+Seat 8: machx ( $642.75 )
+machx posts small blind [$5].
+qazqaz14 posts big blind [$10].
+** Dealing down cards **
+machx calls [$5].
+qazqaz14 checks.
+** Dealing Flop ** [ 8s, 9c, Ks ]
+machx checks.
+qazqaz14 checks.
+** Dealing Turn ** [ 5s ]
+machx checks.
+qazqaz14 checks.
+** Dealing River ** [ Jc ]
+machx checks.
+qazqaz14 checks.
+** Summary **
+machx shows [ 10c 3s ].
+qazqaz14 shows [ Qc 3d ].
+qazqaz14 collected [$19].

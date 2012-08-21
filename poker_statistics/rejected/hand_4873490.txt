@@ -1,0 +1,41 @@
+#Game No : 4873490
+***** Pacific Hand History for Game 4873490 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 02:01:34 2006
+Table Gilligans Island (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: atair ( $890 )
+Seat 2: oaty66 ( $976 )
+Seat 3: bollie1 ( $996.5 )
+Seat 5: quasco ( $1370.5 )
+Seat 6: galifian ( $1142.5 )
+Seat 9: flopah ( $1429 )
+bollie1 posts small blind [$5].
+quasco posts big blind [$10].
+** Dealing down cards **
+galifian folds.
+flopah calls [$10].
+atair calls [$10].
+bollie1 calls [$5].
+quasco checks.
+** Dealing Flop ** [ 10h, 10s, 7s ]
+bollie1 checks.
+quasco checks.
+flopah checks.
+atair checks.
+** Dealing Turn ** [ 4d ]
+bollie1 checks.
+quasco checks.
+flopah checks.
+atair checks.
+** Dealing River ** [ Jh ]
+bollie1 checks.
+quasco checks.
+flopah bets [$20].
+atair calls [$20].
+bollie1 folds.
+quasco folds.
+** Summary **
+flopah shows [ 5c Qc ].
+atair shows [ Jd 3d ].
+atair collected [$76].

@@ -1,0 +1,17 @@
+#Game No : 5456992
+***** Pacific Hand History for Game 5456992 *****
+#Game No : 5457041
+***** Pacific Hand History for Game 5457041 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 11:53:15 2006
+Table Cinnamon Toast (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: zumph ( $4195 )
+Seat 5: oreida ( $1966 )
+oreida posts small blind [$10].
+zumph posts big blind [$20].
+** Dealing down cards **
+oreida raises [$70].
+zumph folds.
+** Summary **
+oreida collected [$100].

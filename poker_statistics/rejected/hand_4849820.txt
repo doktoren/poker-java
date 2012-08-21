@@ -1,0 +1,27 @@
+#Game No : 4849820
+***** Pacific Hand History for Game 4849820 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 10:34:10 2006
+Table Flor de los Reyes (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 2: dao69 ( $772 )
+Seat 4: evalu8r ( $1148 )
+Seat 5: ewass ( $1074.75 )
+Seat 6: Mambobam ( $4898.24 )
+Seat 7: skrinsky ( $2000 )
+Mambobam posts small blind [$10].
+skrinsky posts big blind [$20].
+** Dealing down cards **
+dao69 folds.
+ewass raises [$120].
+Mambobam folds.
+skrinsky calls [$100].
+** Dealing Flop ** [ Ad, Js, 6c ]
+skrinsky checks.
+ewass checks.
+** Dealing Turn ** [ Kd ]
+skrinsky checks.
+ewass bets [$200].
+skrinsky folds.
+** Summary **
+ewass collected [$446].

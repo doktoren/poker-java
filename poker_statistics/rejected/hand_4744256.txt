@@ -1,0 +1,29 @@
+#Game No : 4744256
+***** Pacific Hand History for Game 4744256 *****
+#Game No : 4744390
+***** Pacific Hand History for Game 4744390 *****
+#Game No : 4744397
+***** Pacific Hand History for Game 4744397 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 08 05:47:23 2006
+Table Canadian Ale (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $1000 )
+Seat 6: neekage ( $300 )
+fbenoit1 posts small blind [$5].
+neekage posts big blind [$10].
+** Dealing down cards **
+fbenoit1 raises [$15].
+neekage calls [$10].
+** Dealing Flop ** [ 8s, 9d, 10h ]
+neekage checks.
+fbenoit1 bets [$35].
+neekage calls [$35].
+** Dealing Turn ** [ 3c ]
+neekage checks.
+fbenoit1 checks.
+** Dealing River ** [ 2c ]
+neekage bets [$60].
+fbenoit1 folds.
+** Summary **
+neekage collected [$166].

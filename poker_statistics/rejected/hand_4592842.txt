@@ -1,0 +1,36 @@
+#Game No : 4592842
+***** Pacific Hand History for Game 4592842 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 08:45:48 2006
+Table Amethyst (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 10: fbenoit1 ( $522 )
+Seat 1: Caito ( $1637.6 )
+Seat 5: StackYa ( $2222 )
+Seat 6: hugo13 ( $3167 )
+Seat 7: boogie10 ( $3633.58 )
+Seat 9: MWT5 ( $1996 )
+boogie10 posts small blind [$10].
+MWT5 posts big blind [$20].
+** Dealing down cards **
+Caito calls [$20].
+StackYa calls [$20].
+hugo13 raises [$100].
+boogie10 folds.
+MWT5 calls [$80].
+Caito folds.
+StackYa folds.
+** Dealing Flop ** [ 9h, 3s, 5c ]
+MWT5 checks.
+hugo13 checks.
+** Dealing Turn ** [ 4s ]
+MWT5 bets [$160].
+hugo13 calls [$160].
+** Dealing River ** [ Kd ]
+MWT5 checks.
+hugo13 bets [$380].
+MWT5 calls [$380].
+** Summary **
+hugo13 shows [ Ks Js ].
+MWT5 mucks.
+hugo13 collected [$1326].

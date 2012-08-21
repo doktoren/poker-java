@@ -1,0 +1,26 @@
+#Game No : 4733202
+***** Pacific Hand History for Game 4733202 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 07 23:28:45 2006
+Table Canadian Ale (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: jeter323 ( $2247 )
+Seat 6: MWT5 ( $956 )
+jeter323 posts small blind [$5].
+MWT5 posts big blind [$10].
+** Dealing down cards **
+jeter323 calls [$5].
+MWT5 checks.
+** Dealing Flop ** [ Jh, 6d, 8h ]
+jeter323 bets [$10].
+MWT5 calls [$10].
+** Dealing Turn ** [ 3s ]
+jeter323 bets [$10].
+MWT5 calls [$10].
+** Dealing River ** [ 3d ]
+jeter323 checks.
+MWT5 checks.
+** Summary **
+jeter323 shows [ 10d 8c ].
+MWT5 mucks.
+jeter323 collected [$57].

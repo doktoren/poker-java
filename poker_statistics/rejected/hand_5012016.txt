@@ -1,0 +1,26 @@
+#Game No : 5012016
+***** Pacific Hand History for Game 5012016 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 15 14:11:03 2006
+Table Chocolate Banana (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: stargazer ( $879 )
+Seat 8: Eve69 ( $905 )
+Eve69 posts small blind [$5].
+stargazer posts big blind [$10].
+** Dealing down cards **
+Eve69 calls [$5].
+stargazer checks.
+** Dealing Flop ** [ Js, 5h, 9d ]
+Eve69 checks.
+stargazer checks.
+** Dealing Turn ** [ 8h ]
+Eve69 bets [$13].
+stargazer calls [$13].
+** Dealing River ** [ Kh ]
+Eve69 checks.
+stargazer checks.
+** Summary **
+Eve69 shows [ 2d 10d ].
+stargazer shows [ Ad Jd ].
+stargazer collected [$43.7].

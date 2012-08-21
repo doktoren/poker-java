@@ -1,0 +1,29 @@
+#Game No : 5069756
+***** Pacific Hand History for Game 5069756 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 08:44:43 2006
+Table Anaconda (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: eddster7 ( $514 )
+Seat 6: hugo13 ( $1768 )
+hugo13 posts small blind [$10].
+eddster7 posts big blind [$20].
+** Dealing down cards **
+hugo13 calls [$10].
+eddster7 checks.
+** Dealing Flop ** [ 10s, 6c, 2c ]
+hugo13 checks.
+eddster7 bets [$20].
+hugo13 raises [$60].
+eddster7 calls [$40].
+** Dealing Turn ** [ 2h ]
+hugo13 bets [$106].
+eddster7 calls [$106].
+** Dealing River ** [ 9c ]
+hugo13 checks.
+eddster7 checks.
+** Summary **
+hugo13 shows [ 8h 10d ].
+eddster7 shows [ 5s 10c ].
+hugo13 collected [$184].
+eddster7 collected [$184].

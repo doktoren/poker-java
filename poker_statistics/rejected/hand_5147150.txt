@@ -1,0 +1,26 @@
+#Game No : 5147150
+***** Pacific Hand History for Game 5147150 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 06:22:01 2006
+Table Pink Kangaroo (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: amdrawin ( $271.25 )
+Seat 2: tmac99 ( $388.75 )
+Seat 3: huijgers ( $965 )
+Seat 4: stephank ( $1311.75 )
+Seat 5: hedodave ( $320 )
+Seat 7: xxDRBxx ( $1164.5 )
+Seat 8: bgpmp ( $1092 )
+Seat 9: 8675321 ( $870.65 )
+hedodave posts small blind [$5].
+xxDRBxx posts big blind [$10].
+** Dealing down cards **
+bgpmp folds.
+8675321 folds.
+amdrawin raises [$30].
+tmac99 folds.
+huijgers folds.
+hedodave folds.
+xxDRBxx folds.
+** Summary **
+amdrawin collected [$45].

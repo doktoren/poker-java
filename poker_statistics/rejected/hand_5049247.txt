@@ -1,0 +1,19 @@
+#Game No : 5049247
+***** Pacific Hand History for Game 5049247 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 20:03:29 2006
+Table Elephant Lips (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mayer199 ( $1444.75 )
+Seat 7: avago14 ( $1375.75 )
+avago14 posts small blind [$5].
+mayer199 posts big blind [$10].
+** Dealing down cards **
+avago14 calls [$5].
+mayer199 checks.
+** Dealing Flop ** [ 7s, 6h, 4s ]
+avago14 checks.
+mayer199 bets [$12].
+avago14 folds.
+** Summary **
+mayer199 collected [$31].

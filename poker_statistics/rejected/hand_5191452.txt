@@ -1,0 +1,47 @@
+#Game No : 5191452
+***** Pacific Hand History for Game 5191452 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 09:30:33 2006
+Table Bourbon Highball (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 10: Mambobam ( $2346 )
+Seat 1: gotvoip ( $1675.89 )
+Seat 2: erndog21 ( $1346 )
+Seat 4: Antito ( $2298 )
+Seat 5: oreida ( $3405.06 )
+Seat 6: zumph ( $2828.5 )
+Seat 7: sheaf ( $1212 )
+Seat 8: huijgers ( $2000 )
+Seat 9: dao69 ( $1996 )
+Mambobam posts small blind [$10].
+gotvoip posts big blind [$20].
+huijgers posts big blind [$20].
+** Dealing down cards **
+erndog21 folds.
+Antito calls [$20].
+zumph folds.
+sheaf calls [$20].
+huijgers checks.
+dao69 folds.
+Mambobam calls [$10].
+gotvoip checks.
+** Dealing Flop ** [ Kh, 5d, 3c ]
+Mambobam checks.
+gotvoip checks.
+Antito checks.
+sheaf checks.
+huijgers checks.
+** Dealing Turn ** [ 3h ]
+Mambobam checks.
+gotvoip checks.
+Antito checks.
+sheaf bets [$40].
+huijgers folds.
+Mambobam folds.
+gotvoip calls [$40].
+Antito folds.
+** Dealing River ** [ 9h ]
+gotvoip bets [$60].
+sheaf folds.
+** Summary **
+gotvoip collected [$236].

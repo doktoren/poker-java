@@ -1,0 +1,21 @@
+#Game No : 4983904
+***** Pacific Hand History for Game 4983904 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 14 20:38:48 2006
+Table Elephant Lips (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: Jenog142 ( $1346.25 )
+Seat 4: canuchy ( $435.5 )
+canuchy posts small blind [$5].
+Jenog142 posts big blind [$10].
+** Dealing down cards **
+canuchy calls [$5].
+Jenog142 checks.
+** Dealing Flop ** [ 7c, Ac, Ah ]
+canuchy checks.
+Jenog142 checks.
+** Dealing Turn ** [ Kc ]
+canuchy bets [$20].
+Jenog142 folds.
+** Summary **
+canuchy collected [$39].

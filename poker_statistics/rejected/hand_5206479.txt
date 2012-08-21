@@ -1,0 +1,14 @@
+#Game No : 5206479
+***** Pacific Hand History for Game 5206479 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 20:45:56 2006
+Table La Flor de Murias (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $198 )
+Seat 9: Doktor24 ( $466.3 )
+fbenoit1 posts small blind [$10].
+Doktor24 posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+** Summary **
+Doktor24 collected [$30].

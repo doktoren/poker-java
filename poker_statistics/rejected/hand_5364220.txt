@@ -1,0 +1,33 @@
+#Game No : 5364220
+***** Pacific Hand History for Game 5364220 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 03:02:03 2006
+Table Don-De-Dieu (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 10: sonval ( $362 )
+Seat 1: Kasperis ( $1920 )
+Seat 3: jonutenh ( $2096 )
+Seat 4: madmed55 ( $264 )
+Seat 5: hugo13 ( $6089.5 )
+Seat 6: starshal ( $1130 )
+Seat 9: fbenoit1 ( $514 )
+fbenoit1 posts small blind [$10].
+sonval posts big blind [$20].
+** Dealing down cards **
+jonutenh raises [$80].
+madmed55 folds.
+hugo13 calls [$80].
+starshal folds.
+fbenoit1 folds.
+sonval raises [$342].
+jonutenh raises [$2016].
+hugo13 folds.
+** Dealing Flop ** [ 10c, 8s, 9h ]
+** Dealing Turn ** [ Qh ]
+** Dealing River ** [ Qs ]
+** Summary **
+sonval shows [ Kc Ks ].
+jonutenh shows [ Kd Ah ].
+sonval shows [ Kc Ks ].
+sonval collected [$810].
+jonutenh collected [$1734].

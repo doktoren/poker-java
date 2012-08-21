@@ -1,0 +1,20 @@
+#Game No : 5392136
+***** Pacific Hand History for Game 5392136 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 25 21:46:39 2006
+Table Mint Julep (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 10: sheaf ( $707.05 )
+Seat 1: SirWatts ( $700.25 )
+Seat 3: CrispinK ( $573 )
+Seat 6: RocketsJ ( $2158.57 )
+Seat 7: DCA1987 ( $576 )
+RocketsJ posts small blind [$3].
+DCA1987 posts big blind [$6].
+** Dealing down cards **
+sheaf folds.
+CrispinK raises [$18].
+RocketsJ folds.
+DCA1987 folds.
+** Summary **
+CrispinK collected [$27].

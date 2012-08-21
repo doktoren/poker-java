@@ -1,0 +1,29 @@
+#Game No : 15482223
+***** Pacific Hand History for Game 15482223 *****
+$1/$2 Blinds No Limit Hold'em - *** 09 30 22:01:23 2006
+Table Old Fashioned (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: killiya ( $242.74 )
+Seat 1: erlorain ( $259.32 )
+Seat 4: brent37 ( $68.12 )
+Seat 5: doktoren ( $159.69 )
+Seat 6: kboduch3 ( $50.91 )
+Seat 8: tacker14 ( $101.95 )
+erlorain posts small blind [$1].
+brent37 posts big blind [$2].
+** Dealing down cards **
+Dealt to doktoren [ 2d Js ]
+doktoren folds.
+kboduch3 folds.
+tacker14 calls [$2].
+erlorain folds.
+brent37 checks.
+** Dealing Flop ** [ 8c, Jc, 7c ]
+brent37 checks.
+tacker14 checks.
+** Dealing Turn ** [ Qd ]
+brent37 bets [$2].
+tacker14 folds.
+** Summary **
+brent37 collected [$6.75].

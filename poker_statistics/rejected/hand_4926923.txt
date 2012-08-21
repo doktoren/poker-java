@@ -1,0 +1,27 @@
+#Game No : 4926923
+***** Pacific Hand History for Game 4926923 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 13:23:26 2006
+Table Anaconda (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 10: PixFrank ( $2786.82 )
+Seat 6: Snowland ( $600 )
+Seat 7: SCL1955 ( $1419.5 )
+Seat 8: BIGC0CK ( $8914.78 )
+Seat 9: alsmith4 ( $4537.2 )
+PixFrank posts small blind [$10].
+Snowland posts big blind [$20].
+** Dealing down cards **
+SCL1955 calls [$20].
+BIGC0CK raises [$100].
+PixFrank folds.
+Snowland calls [$80].
+SCL1955 folds.
+** Dealing Flop ** [ Qc, 7d, 2s ]
+Snowland checks.
+BIGC0CK checks.
+** Dealing Turn ** [ 4h ]
+Snowland bets [$100].
+BIGC0CK folds.
+** Summary **
+Snowland collected [$326].

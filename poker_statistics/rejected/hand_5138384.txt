@@ -1,0 +1,14 @@
+#Game No : 5138384
+***** Pacific Hand History for Game 5138384 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 02:25:26 2006
+Table BMW (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: BIGC0CK ( $2435 )
+Seat 1: NLPoker ( $7730 )
+NLPoker posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+NLPoker folds.
+** Summary **
+BIGC0CK collected [$30].

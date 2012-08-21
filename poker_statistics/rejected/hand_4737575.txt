@@ -1,0 +1,30 @@
+#Game No : 4737575
+***** Pacific Hand History for Game 4737575 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 08 01:27:12 2006
+Table Sancho Panza Tronquitos (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 10: lezgo8 ( $526.45 )
+Seat 4: rsberty1 ( $282.9 )
+Seat 5: md8668 ( $118.8 )
+Seat 6: maffu ( $62.1 )
+Seat 8: BoFisk ( $594 )
+Seat 9: fedehans ( $300 )
+BoFisk posts small blind [$3].
+fedehans posts big blind [$6].
+** Dealing down cards **
+lezgo8 calls [$6].
+rsberty1 folds.
+md8668 calls [$6].
+BoFisk folds.
+fedehans checks.
+** Dealing Flop ** [ 6s, Qd, 9h ]
+fedehans checks.
+lezgo8 checks.
+md8668 checks.
+** Dealing Turn ** [ 10h ]
+fedehans bets [$18].
+lezgo8 folds.
+md8668 folds.
+** Summary **
+fedehans collected [$37.95].

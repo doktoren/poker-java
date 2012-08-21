@@ -1,0 +1,18 @@
+#Game No : 4805244
+***** Pacific Hand History for Game 4805244 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 02:54:55 2006
+Table Leffe Belgium (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: rtp3007 ( $552.47 )
+Seat 9: cps99 ( $578 )
+cps99 posts small blind [$5].
+rtp3007 posts big blind [$10].
+** Dealing down cards **
+cps99 calls [$5].
+rtp3007 checks.
+** Dealing Flop ** [ 5c, Ah, 2c ]
+cps99 bets [$10].
+rtp3007 folds.
+** Summary **
+cps99 collected [$29].

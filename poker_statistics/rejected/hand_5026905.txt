@@ -1,0 +1,36 @@
+#Game No : 5026905
+***** Pacific Hand History for Game 5026905 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 00:42:58 2006
+Table McEwans (Real Money)
+Seat 8 is the button
+Total number of players : 10
+Seat 10: M8Me ( $2190.5 )
+Seat 1: kielbax ( $2902 )
+Seat 2: bgpmp ( $2306 )
+Seat 3: MANDRAKE ( $3097 )
+Seat 4: hosen ( $2289.5 )
+Seat 5: fbenoit1 ( $512.5 )
+Seat 6: CPS99 ( $513 )
+Seat 7: sucKJs ( $2281 )
+Seat 8: Lmpn ( $2008 )
+Seat 9: hugo13 ( $2226 )
+hugo13 posts small blind [$10].
+M8Me posts big blind [$20].
+** Dealing down cards **
+kielbax folds.
+bgpmp folds.
+MANDRAKE folds.
+hosen folds.
+fbenoit1 folds.
+CPS99 folds.
+Lmpn calls [$20].
+hugo13 calls [$10].
+M8Me checks.
+** Dealing Flop ** [ Jh, 9d, 7s ]
+hugo13 checks.
+M8Me checks.
+Lmpn bets [$60].
+hugo13 folds.
+M8Me folds.
+** Summary **
+Lmpn collected [$117].

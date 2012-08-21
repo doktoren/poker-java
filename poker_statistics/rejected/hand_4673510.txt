@@ -1,0 +1,14 @@
+#Game No : 4673510
+***** Pacific Hand History for Game 4673510 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 11:42:58 2006
+Table Pearl (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Glad ( $1038.25 )
+Seat 9: timotas ( $626.74 )
+timotas posts small blind [$5].
+Glad posts big blind [$10].
+** Dealing down cards **
+timotas folds.
+** Summary **
+Glad collected [$15].

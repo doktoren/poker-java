@@ -1,0 +1,28 @@
+#Game No : 4907654
+***** Pacific Hand History for Game 4907654 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 13 00:41:00 2006
+Table Zircon (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: M8Me ( $2324.65 )
+Seat 2: xxDRBxx ( $833 )
+Seat 4: chanwolf ( $1032 )
+Seat 6: shel48 ( $783.5 )
+Seat 7: sonval ( $232 )
+Seat 8: sucKJs ( $1201 )
+Seat 9: dc0214 ( $333.4 )
+sucKJs posts small blind [$5].
+dc0214 posts big blind [$10].
+** Dealing down cards **
+M8Me folds.
+xxDRBxx folds.
+chanwolf raises [$32].
+sonval folds.
+sucKJs folds.
+dc0214 calls [$22].
+** Dealing Flop ** [ 4h, 5s, Jd ]
+dc0214 bets [$36].
+chanwolf raises [$89].
+dc0214 folds.
+** Summary **
+chanwolf collected [$190].

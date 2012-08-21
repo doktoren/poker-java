@@ -1,0 +1,16 @@
+#Game No : 4801457
+***** Pacific Hand History for Game 4801457 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 00:32:20 2006
+Table Almond Candy (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 3: JkrDub ( $1423.07 )
+Seat 9: jambrose55 ( $1257.98 )
+JkrDub posts small blind [$5].
+jambrose55 posts big blind [$10].
+** Dealing down cards **
+JkrDub calls [$5].
+jambrose55 raises [$30].
+JkrDub folds.
+** Summary **
+jambrose55 collected [$50].

@@ -1,0 +1,28 @@
+#Game No : 4813451
+***** Pacific Hand History for Game 4813451 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 08:55:48 2006
+Table Citron Dream (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 10: Corn2Dog ( $418.2 )
+Seat 3: NZL10 ( $601.4 )
+Corn2Dog posts small blind [$5].
+NZL10 posts big blind [$10].
+** Dealing down cards **
+Corn2Dog calls [$5].
+NZL10 checks.
+** Dealing Flop ** [ 6h, 9s, Kd ]
+Corn2Dog checks.
+NZL10 checks.
+** Dealing Turn ** [ Qd ]
+Corn2Dog checks.
+NZL10 bets [$10].
+Corn2Dog raises [$20].
+NZL10 calls [$10].
+** Dealing River ** [ 2s ]
+Corn2Dog bets [$30].
+NZL10 calls [$30].
+** Summary **
+Corn2Dog shows [ 5h Kc ].
+NZL10 mucks.
+Corn2Dog collected [$116].

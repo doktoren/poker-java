@@ -1,0 +1,35 @@
+#Game No : 5143318
+***** Pacific Hand History for Game 5143318 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 04:36:56 2006
+Table Pink Kangaroo (Real Money)
+Seat 2 is the button
+Total number of players : 10
+Seat 10: Gamble91 ( $515 )
+Seat 1: clownuck ( $952.75 )
+Seat 2: PacMann ( $1947 )
+Seat 3: mcdouble ( $332 )
+Seat 4: stephank ( $1426.25 )
+Seat 5: sleepyyy ( $950 )
+Seat 6: zen2win ( $1225 )
+Seat 7: CowGame ( $186 )
+Seat 8: big101 ( $1136 )
+Seat 9: sonval ( $246 )
+mcdouble posts small blind [$5].
+stephank posts big blind [$10].
+** Dealing down cards **
+sleepyyy folds.
+CowGame calls [$10].
+big101 folds.
+sonval folds.
+Gamble91 calls [$10].
+clownuck folds.
+PacMann folds.
+mcdouble folds.
+stephank checks.
+** Dealing Flop ** [ Jc, 5c, Ah ]
+stephank checks.
+CowGame bets [$35].
+Gamble91 folds.
+stephank folds.
+** Summary **
+CowGame collected [$68.25].

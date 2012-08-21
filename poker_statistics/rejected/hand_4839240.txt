@@ -1,0 +1,32 @@
+#Game No : 4839240
+***** Pacific Hand History for Game 4839240 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 02:04:16 2006
+Table Tigers Milk (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 10: NGUYENHT ( $354.09 )
+Seat 1: AceKckr ( $250 )
+Seat 5: trb05 ( $60 )
+Seat 6: grimes14 ( $275 )
+Seat 8: TMac99 ( $224.85 )
+NGUYENHT posts small blind [$5].
+AceKckr posts big blind [$10].
+** Dealing down cards **
+trb05 folds.
+grimes14 calls [$10].
+NGUYENHT calls [$5].
+AceKckr checks.
+** Dealing Flop ** [ Kd, 3c, Qh ]
+NGUYENHT bets [$20].
+AceKckr folds.
+grimes14 calls [$20].
+** Dealing Turn ** [ 10c ]
+NGUYENHT checks.
+grimes14 checks.
+** Dealing River ** [ 9d ]
+NGUYENHT checks.
+grimes14 checks.
+** Summary **
+NGUYENHT shows [ Kc 7h ].
+grimes14 mucks.
+NGUYENHT collected [$66.5].

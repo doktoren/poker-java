@@ -1,0 +1,18 @@
+#Game No : 4597049
+***** Pacific Hand History for Game 4597049 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 12:36:42 2006
+Table Excalibur 1066 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 3: MWT5 ( $8167.95 )
+Seat 5: boogie10 ( $1884 )
+Seat 7: toml70 ( $7381.22 )
+Seat 8: carbons ( $645.5 )
+toml70 posts small blind [$10].
+carbons posts big blind [$20].
+** Dealing down cards **
+MWT5 folds.
+toml70 raises [$50].
+carbons folds.
+** Summary **
+toml70 collected [$80].

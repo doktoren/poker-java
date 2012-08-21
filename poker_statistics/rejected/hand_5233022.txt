@@ -1,0 +1,19 @@
+#Game No : 5233022
+***** Pacific Hand History for Game 5233022 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 21 12:09:18 2006
+Table Apple Fizz (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: maiolo55 ( $888.14 )
+Seat 4: gazza325 ( $985 )
+Seat 8: huijgers ( $850.25 )
+huijgers posts small blind [$5].
+maiolo55 posts big blind [$10].
+** Dealing down cards **
+huijgers raises [$35].
+maiolo55 calls [$30].
+** Dealing Flop ** [ 5c, Kc, 2h ]
+huijgers bets [$60].
+maiolo55 folds.
+** Summary **
+huijgers collected [$136].

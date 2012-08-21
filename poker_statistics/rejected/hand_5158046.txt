@@ -1,0 +1,32 @@
+#Game No : 5158046
+***** Pacific Hand History for Game 5158046 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 13:21:30 2006
+Table Baccarat Dominican (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 10: NZL10 ( $465.91 )
+Seat 3: monied ( $352.5 )
+Seat 4: yes7no ( $232 )
+Seat 9: AndMor ( $1211 )
+AndMor posts small blind [$5].
+NZL10 posts big blind [$10].
+yes7no posts big blind [$10].
+** Dealing down cards **
+monied calls [$10].
+yes7no checks.
+AndMor folds.
+NZL10 checks.
+** Dealing Flop ** [ 2s, 10s, 9d ]
+NZL10 bets [$30].
+monied calls [$30].
+yes7no folds.
+** Dealing Turn ** [ Ad ]
+NZL10 checks.
+monied bets [$40].
+NZL10 calls [$40].
+** Dealing River ** [ Jc ]
+NZL10 checks.
+monied bets [$100].
+NZL10 folds.
+** Summary **
+monied collected [$271].

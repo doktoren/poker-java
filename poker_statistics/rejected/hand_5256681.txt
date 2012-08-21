@@ -1,0 +1,18 @@
+#Game No : 5256681
+***** Pacific Hand History for Game 5256681 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 22 02:17:08 2006
+Table Creamy Orange (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AndMor ( $1311.95 )
+Seat 4: mittl ( $452.1 )
+mittl posts small blind [$3].
+AndMor posts big blind [$6].
+** Dealing down cards **
+mittl calls [$3].
+AndMor checks.
+** Dealing Flop ** [ 7c, 6d, Qc ]
+mittl bets [$6].
+AndMor folds.
+** Summary **
+mittl collected [$17.4].

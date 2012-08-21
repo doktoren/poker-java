@@ -1,0 +1,40 @@
+#Game No : 5572310
+***** Pacific Hand History for Game 5572310 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 30 13:39:49 2006
+Table Taviano (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: hakker ( $536 )
+Seat 4: monybag4 ( $1303.17 )
+Seat 5: claireee ( $1076 )
+Seat 6: nofearbt ( $1139 )
+monybag4 posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+nofearbt folds.
+hakker calls [$20].
+monybag4 calls [$10].
+claireee checks.
+** Dealing Flop ** [ 9d, Ad, 9h ]
+monybag4 checks.
+claireee checks.
+hakker checks.
+** Dealing Turn ** [ 10h ]
+claireee checks.
+hakker checks.
+claireee checks.
+hakker checks.
+claireee checks.
+hakker checks.
+claireee checks.
+hakker checks.
+claireee bets [$20].
+hakker calls [$20].
+** Dealing River ** [ Kc ]
+claireee bets [$20].
+hakker calls [$20].
+** Summary **
+claireee shows [ Kh 4s ].
+hakker shows [ Kd Jh ].
+claireee collected [$68].
+hakker collected [$68].

@@ -1,0 +1,28 @@
+#Game No : 4755093
+***** Pacific Hand History for Game 4755093 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 14:49:40 2006
+Table Partagas Lonsdales (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 10: kiyoshi8 ( $2000 )
+Seat 4: pcmg ( $1910 )
+Seat 6: wooder2 ( $2000 )
+Seat 7: Saalis ( $2372 )
+pcmg posts small blind [$10].
+wooder2 posts big blind [$20].
+** Dealing down cards **
+Saalis raises [$60].
+pcmg folds.
+wooder2 calls [$40].
+** Dealing Flop ** [ Jh, Qh, 2d ]
+wooder2 checks.
+Saalis checks.
+** Dealing Turn ** [ 4c ]
+wooder2 checks.
+Saalis checks.
+** Dealing River ** [ Kc ]
+wooder2 checks.
+Saalis bets [$160].
+wooder2 folds.
+** Summary **
+Saalis collected [$286].

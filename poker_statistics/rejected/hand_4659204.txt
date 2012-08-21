@@ -1,0 +1,18 @@
+#Game No : 4659204
+***** Pacific Hand History for Game 4659204 *****
+#Game No : 4662362
+***** Pacific Hand History for Game 4662362 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 04:23:37 2006
+Table Planters Punch (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: wkujosh ( $300 )
+Seat 7: mrdbg1 ( $200 )
+wkujosh posts small blind [$10].
+mrdbg1 posts big blind [$20].
+** Dealing down cards **
+wkujosh calls [$10].
+mrdbg1 raises [$100].
+wkujosh folds.
+** Summary **
+mrdbg1 collected [$140].

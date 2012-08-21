@@ -1,0 +1,32 @@
+#Game No : 5222245
+***** Pacific Hand History for Game 5222245 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 04:29:46 2006
+Table Unibroue (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 10: fogden ( $1963.44 )
+Seat 1: kogo9 ( $2000 )
+Seat 4: dagent44 ( $1580 )
+Seat 5: jv8035 ( $1161 )
+Seat 6: Brayss ( $2533 )
+fogden posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+dagent44 calls [$20].
+jv8035 folds.
+Brayss folds.
+fogden folds.
+kogo9 checks.
+** Dealing Flop ** [ 5c, 7d, 8h ]
+kogo9 checks.
+dagent44 checks.
+** Dealing Turn ** [ Qc ]
+kogo9 checks.
+dagent44 checks.
+** Dealing River ** [ 5s ]
+kogo9 checks.
+kogo9 checks.
+dagent44 bets [$200].
+kogo9 folds.
+** Summary **
+dagent44 collected [$247.5].

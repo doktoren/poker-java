@@ -1,0 +1,21 @@
+#Game No : 4805783
+***** Pacific Hand History for Game 4805783 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 03:20:13 2006
+Table Citron Dream (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 10: wcjt17 ( $81 )
+Seat 5: lucaszzz ( $277.39 )
+wcjt17 posts small blind [$5].
+lucaszzz posts big blind [$10].
+** Dealing down cards **
+wcjt17 calls [$5].
+lucaszzz checks.
+** Dealing Flop ** [ 7d, Qc, 10d ]
+wcjt17 bets [$10].
+lucaszzz calls [$10].
+** Dealing Turn ** [ 5d ]
+wcjt17 bets [$20].
+lucaszzz folds.
+** Summary **
+wcjt17 collected [$58].

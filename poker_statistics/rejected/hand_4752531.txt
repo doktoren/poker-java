@@ -1,0 +1,20 @@
+#Game No : 4752531
+***** Pacific Hand History for Game 4752531 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 11:38:31 2006
+Table Partagas Lonsdales (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: skellyb ( $1980 )
+Seat 8: allinx2 ( $943 )
+allinx2 posts small blind [$10].
+skellyb posts big blind [$20].
+** Dealing down cards **
+allinx2 calls [$10].
+skellyb raises [$60].
+allinx2 calls [$60].
+** Dealing Flop ** [ 8d, 4s, Qs ]
+allinx2 checks.
+skellyb bets [$100].
+allinx2 folds.
+** Summary **
+skellyb collected [$256].

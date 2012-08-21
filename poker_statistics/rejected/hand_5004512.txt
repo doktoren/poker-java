@@ -1,0 +1,27 @@
+#Game No : 5004512
+***** Pacific Hand History for Game 5004512 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 06:53:44 2006
+Table McEwans (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $5540 )
+Seat 5: aaronkjo ( $5250.96 )
+fbenoit1 posts small blind [$10].
+aaronkjo posts big blind [$20].
+** Dealing down cards **
+fbenoit1 raises [$30].
+aaronkjo calls [$20].
+** Dealing Flop ** [ 4c, Qh, 9d ]
+fbenoit1 checks.
+aaronkjo checks.
+** Dealing Turn ** [ 7s ]
+fbenoit1 checks.
+aaronkjo checks.
+** Dealing River ** [ 7h ]
+fbenoit1 checks.
+aaronkjo bets [$80].
+fbenoit1 calls [$80].
+** Summary **
+aaronkjo shows [ 7d Ah ].
+fbenoit1 mucks.
+aaronkjo collected [$236].

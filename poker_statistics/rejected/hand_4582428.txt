@@ -1,0 +1,47 @@
+#Game No : 4582428
+***** Pacific Hand History for Game 4582428 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 01:25:45 2006
+Table Hennepin Ale (Real Money)
+Seat 5 is the button
+Total number of players : 10
+Seat 10: wrexk ( $915.24 )
+Seat 1: trupl1 ( $514 )
+Seat 2: Cappage ( $425 )
+Seat 3: jefbond ( $132.9 )
+Seat 4: linhos ( $1333.6 )
+Seat 5: robardic ( $1493.5 )
+Seat 6: xxDRBxx ( $990 )
+Seat 7: huijgers ( $990 )
+Seat 8: Clute ( $1013.7 )
+Seat 9: chanwolf ( $1151 )
+xxDRBxx posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+Clute folds.
+chanwolf folds.
+wrexk calls [$10].
+trupl1 folds.
+Cappage calls [$10].
+linhos folds.
+robardic folds.
+xxDRBxx calls [$5].
+huijgers checks.
+** Dealing Flop ** [ 2s, 7c, 9h ]
+xxDRBxx checks.
+huijgers checks.
+wrexk checks.
+Cappage checks.
+** Dealing Turn ** [ 3d ]
+xxDRBxx checks.
+huijgers checks.
+wrexk checks.
+Cappage checks.
+** Dealing River ** [ Kh ]
+xxDRBxx checks.
+huijgers checks.
+wrexk bets [$30].
+Cappage folds.
+xxDRBxx folds.
+huijgers folds.
+** Summary **
+wrexk collected [$68].

@@ -1,0 +1,30 @@
+#Game No : 5358886
+***** Pacific Hand History for Game 5358886 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 00:20:22 2006
+Table Don Carlos (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: Saalis ( $4451 )
+Seat 4: Mambobam ( $2000 )
+Seat 5: vicstorm ( $937.3 )
+Seat 6: ck911 ( $331.5 )
+Saalis posts small blind [$10].
+Mambobam posts big blind [$20].
+** Dealing down cards **
+ck911 folds.
+Saalis raises [$70].
+Mambobam calls [$60].
+** Dealing Flop ** [ 7s, Jd, 6d ]
+Saalis checks.
+Mambobam bets [$120].
+Saalis calls [$120].
+** Dealing Turn ** [ 5d ]
+Saalis checks.
+Mambobam checks.
+** Dealing River ** [ 9d ]
+Saalis checks.
+Mambobam checks.
+** Summary **
+Saalis shows [ Js 10c ].
+Mambobam mucks.
+Saalis collected [$396].

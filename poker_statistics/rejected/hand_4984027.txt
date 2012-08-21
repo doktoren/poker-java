@@ -1,0 +1,27 @@
+#Game No : 4984027
+***** Pacific Hand History for Game 4984027 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 14 20:43:33 2006
+Table Gurkha Centurian Double-X (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: kielbax ( $1008.75 )
+Seat 2: mjoy ( $1250 )
+Seat 3: bollsta ( $980 )
+Seat 4: chanwolf ( $1707.6 )
+Seat 5: huijgers ( $1000 )
+Seat 6: Razz117 ( $1014.25 )
+Seat 7: dgmgrand ( $1246.75 )
+Seat 8: 12cents ( $2651.25 )
+Seat 9: edibben ( $1267.5 )
+huijgers posts small blind [$5].
+Razz117 posts big blind [$10].
+** Dealing down cards **
+dgmgrand folds.
+12cents folds.
+edibben folds.
+kielbax folds.
+mjoy folds.
+bollsta folds.
+huijgers folds.
+** Summary **
+Razz117 collected [$15].

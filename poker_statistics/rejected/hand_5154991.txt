@@ -1,0 +1,27 @@
+#Game No : 5154991
+***** Pacific Hand History for Game 5154991 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 10:32:50 2006
+Table Burgerbrau (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 10: 8675321 ( $203 )
+Seat 1: sheaf ( $1736.67 )
+Seat 2: 12cents ( $985 )
+Seat 3: lktotoke ( $930.73 )
+Seat 5: huijgers ( $2890.07 )
+Seat 6: M8Me ( $2033.66 )
+Seat 8: sonval ( $127 )
+Seat 9: Lydia86 ( $1639 )
+huijgers posts small blind [$5].
+M8Me posts big blind [$10].
+** Dealing down cards **
+sonval folds.
+Lydia86 raises [$40].
+8675321 folds.
+sheaf folds.
+12cents folds.
+lktotoke folds.
+huijgers folds.
+M8Me folds.
+** Summary **
+Lydia86 collected [$55].

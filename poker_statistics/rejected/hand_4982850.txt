@@ -1,0 +1,30 @@
+#Game No : 4982850
+***** Pacific Hand History for Game 4982850 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 14 20:04:34 2006
+Table Gurkha Centurian Double-X (Real Money)
+Seat 8 is the button
+Total number of players : 10
+Seat 10: niteboy ( $186 )
+Seat 1: TheFist2 ( $803.35 )
+Seat 2: mjoy ( $993.25 )
+Seat 3: big101 ( $1123 )
+Seat 4: chanwolf ( $975 )
+Seat 5: huijgers ( $978 )
+Seat 6: RCJIII ( $1166.05 )
+Seat 7: dgmgrand ( $1066 )
+Seat 8: 12cents ( $2773.25 )
+Seat 9: edibben ( $1030 )
+edibben posts small blind [$5].
+niteboy posts big blind [$10].
+** Dealing down cards **
+TheFist2 folds.
+mjoy folds.
+big101 folds.
+chanwolf folds.
+huijgers folds.
+dgmgrand folds.
+12cents raises [$40].
+edibben folds.
+niteboy folds.
+** Summary **
+12cents collected [$55].

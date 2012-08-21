@@ -1,0 +1,15 @@
+#Game No : 4822184
+***** Pacific Hand History for Game 4822184 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 16:00:50 2006
+Table Cuban Cooler (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NrAjOvIc ( $3852.41 )
+Seat 2: BIGC0CK ( $2000 )
+BIGC0CK posts small blind [$10].
+NrAjOvIc posts big blind [$20].
+** Dealing down cards **
+BIGC0CK raises [$70].
+NrAjOvIc folds.
+** Summary **
+BIGC0CK collected [$100].

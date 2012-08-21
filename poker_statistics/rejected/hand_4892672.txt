@@ -1,0 +1,25 @@
+#Game No : 4892672
+***** Pacific Hand History for Game 4892672 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 12 15:18:22 2006
+Table Blue Lady (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 10: tashalee ( $731.25 )
+Seat 1: hakker ( $2012 )
+Seat 3: kogo9 ( $2416 )
+Seat 7: karski21 ( $1144 )
+Seat 8: claireee ( $3109.55 )
+karski21 posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+tashalee folds.
+hakker calls [$20].
+kogo9 folds.
+karski21 folds.
+claireee checks.
+** Dealing Flop ** [ Kh, 10s, 4h ]
+claireee checks.
+hakker bets [$20].
+claireee folds.
+** Summary **
+hakker collected [$67.5].

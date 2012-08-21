@@ -1,0 +1,27 @@
+#Game No : 5435335
+***** Pacific Hand History for Game 5435335 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 26 22:54:29 2006
+Table Cranberry Bramble (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: wmwmw ( $903.88 )
+Seat 2: SirWatts ( $1416 )
+Seat 3: bollsta ( $1257.5 )
+Seat 4: bear0350 ( $441 )
+Seat 6: RocketsJ ( $1299.5 )
+Seat 7: 9Tommy9 ( $465.5 )
+Seat 8: dgmgrand ( $1032.75 )
+RocketsJ posts small blind [$5].
+9Tommy9 posts big blind [$10].
+** Dealing down cards **
+dgmgrand calls [$10].
+SirWatts calls [$10].
+bollsta folds.
+bear0350 raises [$40].
+RocketsJ raises [$150].
+9Tommy9 folds.
+dgmgrand folds.
+SirWatts folds.
+bear0350 folds.
+** Summary **
+RocketsJ collected [$225].

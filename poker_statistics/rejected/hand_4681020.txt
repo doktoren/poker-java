@@ -1,0 +1,21 @@
+#Game No : 4681020
+***** Pacific Hand History for Game 4681020 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 17:10:27 2006
+Table Partagas Lonsdales (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: stephank ( $2216 )
+Seat 6: skellyb ( $3599 )
+stephank posts small blind [$10].
+skellyb posts big blind [$20].
+** Dealing down cards **
+stephank calls [$10].
+skellyb checks.
+** Dealing Flop ** [ 10d, 3h, 10c ]
+stephank checks.
+skellyb checks.
+** Dealing Turn ** [ 9h ]
+stephank bets [$20].
+skellyb folds.
+** Summary **
+stephank collected [$58].

@@ -1,0 +1,19 @@
+#Game No : 5470177
+***** Pacific Hand History for Game 5470177 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 27 20:54:55 2006
+Table Hoegaarden (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: CrispinK ( $585.1 )
+Seat 6: RCJIII ( $762.67 )
+CrispinK posts small blind [$3].
+RCJIII posts big blind [$6].
+** Dealing down cards **
+CrispinK calls [$3].
+RCJIII checks.
+** Dealing Flop ** [ Ks, 10h, 3c ]
+CrispinK checks.
+RCJIII bets [$12].
+CrispinK folds.
+** Summary **
+RCJIII collected [$23.4].

@@ -1,0 +1,20 @@
+#Game No : 4984039
+***** Pacific Hand History for Game 4984039 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 20:43:39 2006
+Table Anaconda (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Phatigue ( $2508 )
+Seat 6: Magran ( $1109 )
+Magran posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+Magran calls [$10].
+Phatigue raises [$80].
+Magran raises [$160].
+Phatigue calls [$80].
+** Dealing Flop ** [ 10s, 2s, 6c ]
+Magran bets [$208].
+Phatigue folds.
+** Summary **
+Magran collected [$564].

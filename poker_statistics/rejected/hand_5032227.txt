@@ -1,0 +1,19 @@
+#Game No : 5032227
+***** Pacific Hand History for Game 5032227 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 04:38:54 2006
+Table Havannah (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 10: rcjiii ( $1521.77 )
+Seat 4: MANDRAKE ( $908.5 )
+rcjiii posts small blind [$5].
+MANDRAKE posts big blind [$10].
+** Dealing down cards **
+rcjiii calls [$5].
+MANDRAKE checks.
+** Dealing Flop ** [ 4c, 10d, 6h ]
+rcjiii checks.
+MANDRAKE bets [$21].
+rcjiii folds.
+** Summary **
+MANDRAKE collected [$40].

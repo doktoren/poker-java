@@ -1,0 +1,34 @@
+#Game No : 4994141
+***** Pacific Hand History for Game 4994141 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 00:52:15 2006
+Table Hacker-Pschorr (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Chrilles ( $1613.5 )
+Seat 2: dogspot ( $1970 )
+Seat 3: big101 ( $2561 )
+Seat 4: karski21 ( $552.5 )
+Seat 5: sucKJs ( $827 )
+Seat 6: kiyoshi8 ( $1970 )
+Seat 8: krisch ( $2591.5 )
+Seat 9: shirazi2 ( $984 )
+krisch posts small blind [$10].
+shirazi2 posts big blind [$20].
+** Dealing down cards **
+Chrilles folds.
+dogspot folds.
+big101 folds.
+karski21 calls [$20].
+kiyoshi8 folds.
+krisch calls [$10].
+shirazi2 checks.
+** Dealing Flop ** [ Kc, 2c, Kd ]
+krisch bets [$60].
+shirazi2 calls [$60].
+karski21 folds.
+** Dealing Turn ** [ 4c ]
+krisch bets [$120].
+shirazi2 raises [$240].
+krisch folds.
+** Summary **
+shirazi2 collected [$536].

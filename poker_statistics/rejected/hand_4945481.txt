@@ -1,0 +1,25 @@
+#Game No : 4945481
+***** Pacific Hand History for Game 4945481 *****
+#Game No : 4945507
+***** Pacific Hand History for Game 4945507 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 22:28:39 2006
+Table Scorpion (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $350 )
+Seat 3: kogo9 ( $2000 )
+fbenoit1 posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+fbenoit1 calls [$10].
+kogo9 checks.
+** Dealing Flop ** [ 2c, 4h, Ks ]
+kogo9 bets [$20].
+fbenoit1 calls [$20].
+** Dealing Turn ** [ 10h ]
+kogo9 checks.
+fbenoit1 bets [$40].
+kogo9 raises [$100].
+fbenoit1 folds.
+** Summary **
+kogo9 collected [$216].

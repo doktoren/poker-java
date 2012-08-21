@@ -1,0 +1,18 @@
+#Game No : 4996756
+***** Pacific Hand History for Game 4996756 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 02:10:46 2006
+Table Woodpecker Cider (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Phatigue ( $10039.3 )
+Seat 2: mbadoo ( $712 )
+mbadoo posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+mbadoo calls [$10].
+Phatigue checks.
+** Dealing Flop ** [ Qs, 5s, 2h ]
+mbadoo bets [$50].
+Phatigue folds.
+** Summary **
+mbadoo collected [$88].

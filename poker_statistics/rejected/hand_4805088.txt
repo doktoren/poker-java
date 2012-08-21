@@ -1,0 +1,17 @@
+#Game No : 4805088
+***** Pacific Hand History for Game 4805088 *****
+#Game No : 4805153
+***** Pacific Hand History for Game 4805153 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 02:51:34 2006
+Table Leffe Belgium (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: nrajovic ( $7907 )
+Seat 6: boogie10 ( $1000 )
+boogie10 posts small blind [$5].
+nrajovic posts big blind [$10].
+** Dealing down cards **
+boogie10 raises [$995].
+nrajovic folds.
+** Summary **
+boogie10 collected [$1010].

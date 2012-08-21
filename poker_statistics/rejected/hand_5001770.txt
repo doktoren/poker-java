@@ -1,0 +1,26 @@
+#Game No : 5001770
+***** Pacific Hand History for Game 5001770 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 04:52:02 2006
+Table Woodpecker Cider (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: Phatigue ( $8178 )
+Seat 4: jnkydawg ( $1000 )
+Seat 5: bababoo1 ( $686 )
+Seat 6: sandago ( $279.82 )
+Seat 9: kiffjr65 ( $1756.5 )
+sandago posts small blind [$10].
+kiffjr65 posts big blind [$20].
+jnkydawg posts big blind [$20].
+** Dealing down cards **
+Phatigue folds.
+jnkydawg raises [$20].
+sandago folds.
+kiffjr65 calls [$20].
+** Dealing Flop ** [ 9d, 3h, 6d ]
+kiffjr65 checks.
+jnkydawg bets [$50].
+kiffjr65 raises [$140].
+jnkydawg folds.
+** Summary **
+kiffjr65 collected [$276].

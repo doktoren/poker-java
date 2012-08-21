@@ -1,0 +1,22 @@
+#Game No : 5063817
+***** Pacific Hand History for Game 5063817 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 05:01:31 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 1: dgs281 ( $1943.96 )
+Seat 6: Phatigue ( $5059.02 )
+Seat 7: Lopponen ( $2000 )
+Phatigue posts small blind [$10].
+Lopponen posts big blind [$20].
+** Dealing down cards **
+dgs281 calls [$20].
+Phatigue calls [$10].
+Lopponen checks.
+** Dealing Flop ** [ Kc, Kh, Kd ]
+Lopponen checks.
+dgs281 bets [$20].
+Phatigue folds.
+Lopponen folds.
+** Summary **
+dgs281 collected [$77].

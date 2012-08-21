@@ -1,0 +1,27 @@
+#Game No : 4731433
+***** Pacific Hand History for Game 4731433 *****
+#Game No : 4731736
+***** Pacific Hand History for Game 4731736 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 07 22:49:50 2006
+Table Excalibur 1066 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: NLPoker ( $2807 )
+Seat 5: braffer ( $400 )
+NLPoker posts small blind [$10].
+braffer posts big blind [$20].
+** Dealing down cards **
+NLPoker raises [$56].
+braffer calls [$46].
+** Dealing Flop ** [ Qd, 8s, 8h ]
+braffer checks.
+NLPoker bets [$99].
+braffer calls [$99].
+** Dealing Turn ** [ 9s ]
+braffer checks.
+NLPoker checks.
+** Dealing River ** [ 3c ]
+braffer bets [$235].
+NLPoker folds.
+** Summary **
+braffer collected [$561].

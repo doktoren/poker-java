@@ -1,0 +1,40 @@
+#Game No : 4868613
+***** Pacific Hand History for Game 4868613 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 23:43:41 2006
+Table Gilligans Island (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: atair ( $945 )
+Seat 2: NLJesus ( $2747.15 )
+Seat 4: bgpmp ( $2729.75 )
+Seat 5: SCALEB ( $463.75 )
+Seat 7: Kasperis ( $1002.1 )
+Seat 9: NERIDA ( $343.4 )
+NLJesus posts small blind [$5].
+bgpmp posts big blind [$10].
+** Dealing down cards **
+SCALEB raises [$20].
+Kasperis calls [$20].
+atair calls [$20].
+NLJesus calls [$15].
+bgpmp calls [$10].
+** Dealing Flop ** [ 8c, 7h, As ]
+NLJesus checks.
+bgpmp checks.
+SCALEB checks.
+Kasperis checks.
+atair checks.
+** Dealing Turn ** [ 3c ]
+NLJesus checks.
+bgpmp bets [$103].
+SCALEB calls [$103].
+Kasperis folds.
+atair folds.
+NLJesus folds.
+** Dealing River ** [ 10d ]
+bgpmp bets [$189].
+SCALEB calls [$189].
+** Summary **
+bgpmp shows [ 3d Ac ].
+SCALEB mucks.
+bgpmp collected [$680].

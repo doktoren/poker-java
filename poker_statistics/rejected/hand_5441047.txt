@@ -1,0 +1,27 @@
+#Game No : 5441047
+***** Pacific Hand History for Game 5441047 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 01:33:44 2006
+Table Chi Chi (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 10: Chrilles ( $2023 )
+Seat 8: tuanh06 ( $2139.5 )
+Chrilles posts small blind [$10].
+tuanh06 posts big blind [$20].
+** Dealing down cards **
+Chrilles raises [$70].
+tuanh06 calls [$60].
+** Dealing Flop ** [ Jd, 5s, 4c ]
+tuanh06 checks.
+Chrilles bets [$120].
+tuanh06 calls [$120].
+** Dealing Turn ** [ Qc ]
+tuanh06 checks.
+Chrilles checks.
+** Dealing River ** [ 6s ]
+tuanh06 checks.
+Chrilles checks.
+** Summary **
+tuanh06 shows [ 3h 6h ].
+Chrilles mucks.
+tuanh06 collected [$396].

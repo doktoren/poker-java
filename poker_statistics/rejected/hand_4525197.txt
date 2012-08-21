@@ -1,0 +1,27 @@
+#Game No : 4525197
+***** Pacific Hand History for Game 4525197 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 15:13:58 2006
+Table Camacho SLR (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 10: ltse76 ( $1000 )
+Seat 2: mjoy ( $985 )
+Seat 3: sucKJs ( $1025 )
+Seat 4: Eve69 ( $1264 )
+Seat 5: RBW1982 ( $1134.99 )
+Seat 6: rwillie ( $500.25 )
+Seat 7: Ceasar27 ( $138 )
+Ceasar27 posts small blind [$5].
+ltse76 posts big blind [$10].
+** Dealing down cards **
+mjoy folds.
+sucKJs folds.
+Eve69 raises [$40].
+rwillie calls [$40].
+Ceasar27 folds.
+ltse76 folds.
+** Dealing Flop ** [ 2d, Ac, Js ]
+Eve69 bets [$70].
+rwillie folds.
+** Summary **
+Eve69 collected [$161].

@@ -1,0 +1,29 @@
+#Game No : 4830099
+***** Pacific Hand History for Game 4830099 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 21:29:36 2006
+Table Tequila Slammer (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: gillo20 ( $187.5 )
+Seat 2: demonbo2 ( $596 )
+Seat 3: GainM65 ( $386 )
+Seat 4: JThomsen ( $1393 )
+Seat 5: Caito ( $3126 )
+Seat 6: jonutenh ( $3222 )
+Seat 7: wsplay ( $448.1 )
+Seat 8: Kasperis ( $2116 )
+Seat 9: logbil ( $783 )
+gillo20 posts small blind [$10].
+demonbo2 posts big blind [$20].
+** Dealing down cards **
+GainM65 folds.
+JThomsen calls [$20].
+jonutenh folds.
+wsplay folds.
+Kasperis folds.
+logbil folds.
+gillo20 raises [$177.5].
+demonbo2 folds.
+JThomsen folds.
+** Summary **
+gillo20 collected [$227.5].

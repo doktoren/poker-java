@@ -1,0 +1,27 @@
+#Game No : 4664781
+***** Pacific Hand History for Game 4664781 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 06:04:37 2006
+Table Pearl (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: MrPils ( $1016 )
+Seat 3: dgs281 ( $990 )
+Seat 5: weiser2 ( $1547.75 )
+Seat 6: sandago ( $156.25 )
+MrPils posts small blind [$5].
+dgs281 posts big blind [$10].
+** Dealing down cards **
+weiser2 calls [$10].
+sandago folds.
+MrPils folds.
+dgs281 checks.
+** Dealing Flop ** [ 9c, 10h, 6c ]
+dgs281 checks.
+dgs281 checks.
+weiser2 checks.
+** Dealing Turn ** [ Jc ]
+dgs281 checks.
+weiser2 bets [$20].
+dgs281 folds.
+** Summary **
+weiser2 collected [$43.75].

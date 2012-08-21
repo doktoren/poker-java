@@ -1,0 +1,30 @@
+#Game No : 4589062
+***** Pacific Hand History for Game 4589062 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 05:15:38 2006
+Table Hennepin Ale (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: awaara ( $235 )
+Seat 4: SAMMYNJ ( $807.25 )
+SAMMYNJ posts small blind [$5].
+awaara posts big blind [$10].
+** Dealing down cards **
+SAMMYNJ calls [$5].
+awaara checks.
+** Dealing Flop ** [ 2h, 10h, 3s ]
+SAMMYNJ checks.
+awaara bets [$20].
+SAMMYNJ calls [$20].
+** Dealing Turn ** [ Ac ]
+SAMMYNJ checks.
+awaara bets [$50].
+SAMMYNJ calls [$50].
+** Dealing River ** [ 4h ]
+SAMMYNJ bets [$70].
+awaara raises [$155].
+SAMMYNJ calls [$85].
+** Summary **
+awaara shows [ Ah 5h ].
+SAMMYNJ shows [ 5d 6h ].
+awaara shows [ Ah 5h ].
+awaara collected [$466].

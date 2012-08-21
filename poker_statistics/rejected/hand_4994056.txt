@@ -1,0 +1,23 @@
+#Game No : 4994056
+***** Pacific Hand History for Game 4994056 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 00:49:35 2006
+Table McEwans (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 10: kiyoshi8 ( $2037 )
+Seat 1: Chrilles ( $2273 )
+Seat 2: gfb222 ( $432 )
+Seat 3: logbil ( $2101 )
+Seat 6: krisch ( $2231 )
+Seat 7: sucKJs ( $1421.5 )
+Seat 9: claireee ( $3881 )
+claireee posts small blind [$10].
+kiyoshi8 posts big blind [$20].
+** Dealing down cards **
+Chrilles folds.
+gfb222 folds.
+logbil folds.
+krisch folds.
+claireee folds.
+** Summary **
+kiyoshi8 collected [$30].

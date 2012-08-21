@@ -1,0 +1,31 @@
+#Game No : 4905691
+***** Pacific Hand History for Game 4905691 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 12 23:28:17 2006
+Table Scorpion (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 10: sazeracs ( $3594.5 )
+Seat 2: Kasperis ( $2000 )
+Seat 4: kiyoshi8 ( $3576.6 )
+Seat 5: veldinho ( $447.5 )
+Seat 6: bgpmp ( $1980 )
+bgpmp posts small blind [$10].
+sazeracs posts big blind [$20].
+** Dealing down cards **
+kiyoshi8 folds.
+veldinho folds.
+bgpmp calls [$10].
+sazeracs checks.
+** Dealing Flop ** [ 9c, 7c, Jh ]
+bgpmp checks.
+sazeracs checks.
+** Dealing Turn ** [ 8c ]
+bgpmp checks.
+sazeracs checks.
+** Dealing River ** [ Kd ]
+bgpmp checks.
+sazeracs checks.
+** Summary **
+bgpmp shows [ 2s 8s ].
+sazeracs mucks.
+bgpmp collected [$38].

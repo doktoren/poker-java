@@ -1,0 +1,43 @@
+#Game No : 4788590
+***** Pacific Hand History for Game 4788590 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 09 14:38:32 2006
+Table Romeo y Julieta 1875 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 10: Kasperis ( $1814 )
+Seat 1: sucKJs ( $1305 )
+Seat 2: stephank ( $721.25 )
+Seat 4: JThomsen ( $995.25 )
+Seat 5: nocmonky ( $495.56 )
+Seat 6: krisch ( $1859 )
+Seat 8: denniso2 ( $1247 )
+Seat 9: galifian ( $801.25 )
+JThomsen posts small blind [$5].
+nocmonky posts big blind [$10].
+** Dealing down cards **
+krisch folds.
+denniso2 folds.
+galifian calls [$10].
+Kasperis folds.
+sucKJs raises [$44].
+JThomsen folds.
+nocmonky calls [$34].
+galifian calls [$34].
+** Dealing Flop ** [ Qc, 10d, As ]
+nocmonky checks.
+galifian checks.
+sucKJs bets [$77].
+nocmonky folds.
+galifian calls [$77].
+** Dealing Turn ** [ 3h ]
+galifian checks.
+sucKJs bets [$144].
+galifian calls [$144].
+** Dealing River ** [ 6h ]
+galifian checks.
+sucKJs bets [$347].
+galifian calls [$347].
+** Summary **
+sucKJs shows [ Jh Kc ].
+galifian mucks.
+sucKJs collected [$1269].

@@ -1,0 +1,21 @@
+#Game No : 4874444
+***** Pacific Hand History for Game 4874444 *****
+#Game No : 4874451
+***** Pacific Hand History for Game 4874451 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 02:37:54 2006
+Table Gilligans Island (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: SCALEB ( $100 )
+Seat 6: ALWAL11 ( $100 )
+SCALEB posts small blind [$5].
+ALWAL11 posts big blind [$10].
+** Dealing down cards **
+SCALEB calls [$5].
+ALWAL11 checks.
+** Dealing Flop ** [ 10c, Ac, 9c ]
+ALWAL11 checks.
+SCALEB bets [$10].
+ALWAL11 folds.
+** Summary **
+SCALEB collected [$29].

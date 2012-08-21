@@ -1,0 +1,18 @@
+#Game No : 4922060
+***** Pacific Hand History for Game 4922060 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 09:16:30 2006
+Table Woodpecker Cider (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: spirt ( $804.64 )
+Seat 9: mdiskin ( $581 )
+mdiskin posts small blind [$10].
+spirt posts big blind [$20].
+** Dealing down cards **
+mdiskin calls [$10].
+spirt checks.
+** Dealing Flop ** [ 5s, Kh, Ah ]
+mdiskin bets [$20].
+spirt folds.
+** Summary **
+mdiskin collected [$58].

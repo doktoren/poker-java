@@ -1,0 +1,23 @@
+#Game No : 5075328
+***** Pacific Hand History for Game 5075328 *****
+#Game No : 5075699
+***** Pacific Hand History for Game 5075699 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 13:56:54 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Hymn43 ( $2000 )
+Seat 7: boogie10 ( $2000 )
+Hymn43 posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+Hymn43 calls [$10].
+boogie10 checks.
+** Dealing Flop ** [ 10h, 7h, Kh ]
+boogie10 bets [$40].
+Hymn43 calls [$40].
+** Dealing Turn ** [ Ac ]
+boogie10 bets [$120].
+Hymn43 folds.
+** Summary **
+boogie10 collected [$236].

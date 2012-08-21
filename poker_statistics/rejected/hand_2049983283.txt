@@ -1,0 +1,25 @@
+#Game No : 2049983283
+***** Pacific Hand History for Game 2049983283 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 25 22:31:09 2006
+Table Molson Excel (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 10: dgmgrand ( $909.9 )
+Seat 1: mjoy ( $392.1 )
+Seat 3: jokest ( $183 )
+Seat 4: Russ888 ( $201.3 )
+Seat 5: Mabuse ( $125.9 )
+Seat 6: bird1900 ( $135.3 )
+Seat 7: wmwmw ( $632.9 )
+Seat 9: gotvoip ( $532.8 )
+Russ888 posts small blind [$2].
+Mabuse posts big blind [$4].
+** Dealing down cards **
+bird1900 folds.
+wmwmw folds.
+gotvoip folds.
+dgmgrand folds.
+jokest folds.
+Russ888 folds.
+** Summary **
+Mabuse collected [$6].

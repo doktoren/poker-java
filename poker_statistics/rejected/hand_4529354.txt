@@ -1,0 +1,23 @@
+#Game No : 4529354
+***** Pacific Hand History for Game 4529354 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 18:01:34 2006
+Table Camacho SLR (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 6: bobbybo ( $425.25 )
+Seat 8: TafaT ( $1015 )
+bobbybo posts small blind [$5].
+TafaT posts big blind [$10].
+** Dealing down cards **
+bobbybo calls [$5].
+TafaT raises [$40].
+bobbybo calls [$40].
+** Dealing Flop ** [ 4s, 5d, 3s ]
+bobbybo checks.
+TafaT bets [$70].
+bobbybo calls [$70].
+** Dealing Turn ** [ Kd ]
+bobbybo bets [$305.25].
+TafaT folds.
+** Summary **
+bobbybo collected [$541.25].

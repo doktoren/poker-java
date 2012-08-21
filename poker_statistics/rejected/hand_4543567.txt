@@ -1,0 +1,39 @@
+#Game No : 4543567
+***** Pacific Hand History for Game 4543567 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 03 02:13:21 2006
+Table Celestial (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: lureli ( $3633 )
+Seat 2: 77je ( $714.25 )
+Seat 5: hugo13 ( $2309 )
+Seat 6: Kasperis ( $2000 )
+Seat 7: doktoren ( $4564 )
+Seat 9: eastroem ( $890 )
+Kasperis posts small blind [$10].
+doktoren posts big blind [$20].
+** Dealing down cards **
+Dealt to doktoren [ 9c 6d ]
+eastroem calls [$20].
+lureli calls [$20].
+hugo13 folds.
+Kasperis calls [$10].
+doktoren checks.
+** Dealing Flop ** [ 9h, 3c, 10c ]
+Kasperis checks.
+doktoren checks.
+eastroem bets [$55].
+lureli folds.
+Kasperis calls [$55].
+doktoren folds.
+** Dealing Turn ** [ 4h ]
+Kasperis checks.
+eastroem bets [$65].
+Kasperis calls [$65].
+** Dealing River ** [ 2s ]
+Kasperis checks.
+eastroem checks.
+** Summary **
+Kasperis shows [ 8s 10h ].
+eastroem mucks.
+Kasperis collected [$316].

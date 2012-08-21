@@ -1,0 +1,26 @@
+#Game No : 4620106
+***** Pacific Hand History for Game 4620106 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 05 02:15:06 2006
+Table Peppermint Perth (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: kiyoshi8 ( $7973.81 )
+Seat 7: stitch42 ( $593.5 )
+kiyoshi8 posts small blind [$5].
+stitch42 posts big blind [$10].
+** Dealing down cards **
+kiyoshi8 calls [$5].
+stitch42 checks.
+** Dealing Flop ** [ 6s, 6c, Ah ]
+kiyoshi8 checks.
+stitch42 checks.
+** Dealing Turn ** [ 5c ]
+kiyoshi8 checks.
+stitch42 checks.
+** Dealing River ** [ Jd ]
+kiyoshi8 checks.
+stitch42 checks.
+** Summary **
+kiyoshi8 shows [ 8h 9c ].
+stitch42 mucks.
+kiyoshi8 collected [$19].

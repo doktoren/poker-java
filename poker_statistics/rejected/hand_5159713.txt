@@ -1,0 +1,26 @@
+#Game No : 5159713
+***** Pacific Hand History for Game 5159713 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 15:07:42 2006
+Table Punch Gran Puro (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mambobam ( $3368 )
+Seat 7: oreida ( $200 )
+oreida posts small blind [$10].
+Mambobam posts big blind [$20].
+** Dealing down cards **
+oreida calls [$10].
+Mambobam checks.
+** Dealing Flop ** [ Ac, 4s, As ]
+oreida checks.
+Mambobam checks.
+** Dealing Turn ** [ Jd ]
+oreida checks.
+Mambobam checks.
+** Dealing River ** [ 6h ]
+oreida checks.
+Mambobam checks.
+** Summary **
+oreida shows [ 6d 7h ].
+Mambobam mucks.
+oreida collected [$38].

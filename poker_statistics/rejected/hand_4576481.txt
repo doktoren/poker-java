@@ -1,0 +1,22 @@
+#Game No : 4576481
+***** Pacific Hand History for Game 4576481 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 03 23:01:11 2006
+Table Cuaba Divinos (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 10: wrexk ( $961.75 )
+Seat 2: Saalis ( $1683.75 )
+Seat 3: timotas ( $510.25 )
+Seat 5: CyRus13 ( $2248.5 )
+Seat 6: kiffjr65 ( $406.75 )
+Seat 7: TinyTnks ( $998 )
+wrexk posts small blind [$5].
+Saalis posts big blind [$10].
+** Dealing down cards **
+timotas folds.
+kiffjr65 raises [$40].
+TinyTnks folds.
+wrexk folds.
+Saalis folds.
+** Summary **
+kiffjr65 collected [$55].

@@ -1,0 +1,23 @@
+#Game No : 4795896
+***** Pacific Hand History for Game 4795896 *****
+#Game No : 4795904
+***** Pacific Hand History for Game 4795904 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 09 21:09:07 2006
+Table Acapulco (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: DrinkNow ( $1000 )
+Seat 1: Phatigue ( $2000 )
+DrinkNow posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+DrinkNow raises [$70].
+Phatigue calls [$60].
+** Dealing Flop ** [ 4c, 7c, 8c ]
+Phatigue checks.
+DrinkNow checks.
+** Dealing Turn ** [ 10d ]
+Phatigue bets [$150].
+DrinkNow folds.
+** Summary **
+Phatigue collected [$306].

@@ -1,0 +1,15 @@
+#Game No : 4889553
+***** Pacific Hand History for Game 4889553 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 12:57:40 2006
+Table Gilligans Island (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Kasperis ( $1091 )
+Seat 6: hugo13 ( $1209.25 )
+hugo13 posts small blind [$5].
+Kasperis posts big blind [$10].
+** Dealing down cards **
+hugo13 raises [$25].
+Kasperis folds.
+** Summary **
+hugo13 collected [$40].

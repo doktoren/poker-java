@@ -1,0 +1,38 @@
+#Game No : 5445255
+***** Pacific Hand History for Game 5445255 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 27 04:07:53 2006
+Table Cranberry Bramble (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 10: skinjim ( $993.5 )
+Seat 1: TheHazem ( $1168 )
+Seat 2: crowba3 ( $1542.5 )
+Seat 3: gpauto ( $533.5 )
+Seat 4: mrlambo ( $674.8 )
+Seat 5: 8675321 ( $282 )
+Seat 7: Gamble91 ( $1498 )
+Seat 8: sheaf ( $900 )
+Seat 9: sleepyyy ( $968.5 )
+sheaf posts small blind [$5].
+sleepyyy posts big blind [$10].
+** Dealing down cards **
+TheHazem folds.
+crowba3 folds.
+gpauto calls [$10].
+mrlambo folds.
+8675321 folds.
+Gamble91 folds.
+sheaf folds.
+sleepyyy checks.
+** Dealing Flop ** [ 10h, 6d, 2d ]
+sleepyyy checks.
+gpauto bets [$10].
+sleepyyy calls [$10].
+** Dealing Turn ** [ 9d ]
+sleepyyy checks.
+gpauto checks.
+** Dealing River ** [ Jc ]
+sleepyyy bets [$30].
+gpauto folds.
+** Summary **
+sleepyyy collected [$72.75].

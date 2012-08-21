@@ -1,0 +1,22 @@
+#Game No : 4747654
+***** Pacific Hand History for Game 4747654 *****
+#Game No : 4747663
+***** Pacific Hand History for Game 4747663 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 08 07:57:12 2006
+Table Canadian Ale (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 10: jeter323 ( $1252 )
+Seat 1: mgdlphie ( $569.1 )
+Seat 6: Carl10 ( $200 )
+Carl10 posts small blind [$5].
+jeter323 posts big blind [$10].
+** Dealing down cards **
+mgdlphie folds.
+Carl10 calls [$5].
+jeter323 checks.
+** Dealing Flop ** [ Qs, 9d, 4c ]
+Carl10 bets [$10].
+jeter323 folds.
+** Summary **
+Carl10 collected [$29].

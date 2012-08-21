@@ -1,0 +1,21 @@
+#Game No : 5191567
+***** Pacific Hand History for Game 5191567 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 20 09:37:11 2006
+Table Courage (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 10: nika9 ( $565 )
+Seat 2: liclic ( $421.08 )
+Seat 5: infinnt ( $345 )
+Seat 8: nevous87 ( $102.35 )
+Seat 9: Metlica ( $603.7 )
+nika9 posts small blind [$3].
+liclic posts big blind [$6].
+** Dealing down cards **
+infinnt folds.
+Metlica calls [$6].
+nika9 raises [$21].
+liclic folds.
+Metlica folds.
+** Summary **
+nika9 collected [$36].

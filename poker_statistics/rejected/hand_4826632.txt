@@ -1,0 +1,34 @@
+#Game No : 4826632
+***** Pacific Hand History for Game 4826632 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 19:26:21 2006
+Table Tequila Slammer (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 10: hokok ( $316 )
+Seat 1: bleeach ( $438 )
+Seat 3: tigger6 ( $526 )
+Seat 4: sonval ( $388 )
+Seat 5: MugOfAle ( $386 )
+Seat 6: sheaf ( $2224.5 )
+Seat 7: huijgers ( $2036 )
+Seat 8: lionsxv ( $1212.68 )
+Seat 9: DNcXVII ( $2020 )
+tigger6 posts small blind [$10].
+sonval posts big blind [$20].
+** Dealing down cards **
+MugOfAle folds.
+sheaf folds.
+huijgers folds.
+lionsxv raises [$61].
+DNcXVII calls [$61].
+hokok folds.
+tigger6 folds.
+sonval folds.
+** Dealing Flop ** [ 2s, 9c, 5h ]
+lionsxv bets [$83].
+DNcXVII calls [$83].
+** Dealing Turn ** [ 3c ]
+lionsxv bets [$188].
+DNcXVII folds.
+** Summary **
+lionsxv collected [$502].

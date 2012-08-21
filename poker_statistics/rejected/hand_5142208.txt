@@ -1,0 +1,17 @@
+#Game No : 5142208
+***** Pacific Hand History for Game 5142208 *****
+#Game No : 5142220
+***** Pacific Hand History for Game 5142220 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 04:09:20 2006
+Table Molson Excel (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 10: jeter323 ( $2000 )
+Seat 4: shotsy ( $2000 )
+shotsy posts small blind [$10].
+jeter323 posts big blind [$20].
+** Dealing down cards **
+shotsy raises [$64].
+jeter323 folds.
+** Summary **
+shotsy collected [$94].

@@ -1,0 +1,21 @@
+#Game No : 5381308
+***** Pacific Hand History for Game 5381308 *****
+#Game No : 5382012
+***** Pacific Hand History for Game 5382012 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 25 16:55:56 2006
+Table Shamira (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JENUTTS ( $300 )
+Seat 6: jeter323 ( $1000 )
+jeter323 posts small blind [$5].
+JENUTTS posts big blind [$10].
+** Dealing down cards **
+jeter323 calls [$5].
+JENUTTS checks.
+** Dealing Flop ** [ 6h, Qs, 6s ]
+JENUTTS checks.
+jeter323 bets [$10].
+JENUTTS folds.
+** Summary **
+jeter323 collected [$29].

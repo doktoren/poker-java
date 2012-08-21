@@ -1,0 +1,26 @@
+#Game No : 4912918
+***** Pacific Hand History for Game 4912918 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 13 03:23:59 2006
+Table Stout (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 10: bobbybo ( $1091.23 )
+Seat 1: Caito ( $964.22 )
+Seat 2: flopah ( $1024 )
+Caito posts small blind [$5].
+flopah posts big blind [$10].
+** Dealing down cards **
+Caito calls [$5].
+flopah checks.
+** Dealing Flop ** [ 6c, 6d, As ]
+Caito checks.
+flopah checks.
+** Dealing Turn ** [ Jd ]
+Caito checks.
+flopah checks.
+** Dealing River ** [ 10d ]
+Caito checks.
+flopah bets [$10].
+Caito folds.
+** Summary **
+flopah collected [$29].

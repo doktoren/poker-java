@@ -1,0 +1,36 @@
+#Game No : 5027659
+***** Pacific Hand History for Game 5027659 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 01:17:33 2006
+Table Elephant Lips (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Lmpn ( $786.5 )
+Seat 2: Caito ( $911 )
+Seat 4: bgpmp ( $1838.83 )
+Seat 5: ToeKnee0 ( $536 )
+Seat 6: huijgers ( $1095.05 )
+Seat 8: PPELICAN ( $537.5 )
+bgpmp posts small blind [$5].
+ToeKnee0 posts big blind [$10].
+** Dealing down cards **
+PPELICAN folds.
+Lmpn raises [$40].
+Caito folds.
+bgpmp calls [$35].
+ToeKnee0 folds.
+** Dealing Flop ** [ 4c, 10s, Ah ]
+bgpmp checks.
+Lmpn bets [$60].
+bgpmp calls [$60].
+** Dealing Turn ** [ Jc ]
+bgpmp checks.
+Lmpn bets [$120].
+bgpmp calls [$120].
+** Dealing River ** [ 7s ]
+bgpmp checks.
+Lmpn bets [$100].
+bgpmp calls [$100].
+** Summary **
+Lmpn shows [ Ks Ac ].
+bgpmp mucks.
+Lmpn collected [$646].

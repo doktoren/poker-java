@@ -1,0 +1,25 @@
+#Game No : 4662822
+***** Pacific Hand History for Game 4662822 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 04:41:38 2006
+Table Planters Punch (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: shafan ( $2069 )
+Seat 6: wkujosh ( $834.95 )
+Seat 8: mrdbg1 ( $516 )
+mrdbg1 posts small blind [$10].
+shafan posts big blind [$20].
+** Dealing down cards **
+mrdbg1 calls [$10].
+shafan checks.
+** Dealing Flop ** [ 3d, Kc, As ]
+mrdbg1 bets [$20].
+shafan calls [$20].
+** Dealing Turn ** [ Jd ]
+mrdbg1 bets [$20].
+shafan calls [$20].
+** Dealing River ** [ 8d ]
+mrdbg1 bets [$20].
+shafan folds.
+** Summary **
+mrdbg1 collected [$136].

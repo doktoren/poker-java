@@ -1,0 +1,23 @@
+#Game No : 5463589
+***** Pacific Hand History for Game 5463589 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 17:16:24 2006
+Table La Rica (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $386 )
+Seat 6: claireee ( $1450 )
+fbenoit1 posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+fbenoit1 raises [$30].
+claireee calls [$20].
+** Dealing Flop ** [ 7s, 4h, Jh ]
+fbenoit1 bets [$20].
+claireee raises [$80].
+fbenoit1 calls [$60].
+** Dealing Turn ** [ 4s ]
+fbenoit1 checks.
+claireee bets [$108].
+fbenoit1 folds.
+** Summary **
+claireee collected [$344].

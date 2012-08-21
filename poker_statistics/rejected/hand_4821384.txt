@@ -1,0 +1,15 @@
+#Game No : 4821384
+***** Pacific Hand History for Game 4821384 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 15:37:20 2006
+Table Acapulco (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NrAjOvIc ( $1998 )
+Seat 8: BIGC0CK ( $3782 )
+BIGC0CK posts small blind [$10].
+NrAjOvIc posts big blind [$20].
+** Dealing down cards **
+BIGC0CK raises [$90].
+NrAjOvIc folds.
+** Summary **
+BIGC0CK collected [$120].

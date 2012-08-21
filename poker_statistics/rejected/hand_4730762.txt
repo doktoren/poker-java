@@ -1,0 +1,18 @@
+#Game No : 4730762
+***** Pacific Hand History for Game 4730762 *****
+#Game No : 4730808
+***** Pacific Hand History for Game 4730808 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 07 22:27:33 2006
+Table Canadian Ale (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 10: jeter323 ( $1366.75 )
+Seat 4: Eve69 ( $1196.55 )
+Seat 8: kbywjra ( $436.85 )
+Eve69 posts small blind [$5].
+kbywjra posts big blind [$10].
+** Dealing down cards **
+jeter323 folds.
+Eve69 folds.
+** Summary **
+kbywjra collected [$15].

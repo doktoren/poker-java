@@ -1,0 +1,17 @@
+#Game No : 4532951
+***** Pacific Hand History for Game 4532951 *****
+#Game No : 4532986
+***** Pacific Hand History for Game 4532986 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 19:59:09 2006
+Table Kamikaze (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: hugo13 ( $990 )
+Seat 6: richk98 ( $465.45 )
+hugo13 posts small blind [$5].
+richk98 posts big blind [$10].
+** Dealing down cards **
+hugo13 raises [$25].
+richk98 folds.
+** Summary **
+hugo13 collected [$40].

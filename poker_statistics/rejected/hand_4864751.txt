@@ -1,0 +1,37 @@
+#Game No : 4864751
+***** Pacific Hand History for Game 4864751 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 21:58:03 2006
+Table Mikes Lemonade (Real Money)
+Seat 6 is the button
+Total number of players : 10
+Seat 10: WintersC ( $96.9 )
+Seat 1: kielbax ( $1029.75 )
+Seat 2: JM1000 ( $990 )
+Seat 3: hakker ( $876.5 )
+Seat 4: claireee ( $2008.75 )
+Seat 5: nocmonky ( $270 )
+Seat 6: oreida ( $1129.5 )
+Seat 7: mike7846 ( $1647.25 )
+Seat 8: bitchy11 ( $1004 )
+Seat 9: mjoy ( $750.75 )
+mike7846 posts small blind [$5].
+bitchy11 posts big blind [$10].
+** Dealing down cards **
+mjoy folds.
+WintersC folds.
+kielbax folds.
+JM1000 folds.
+hakker calls [$10].
+claireee folds.
+nocmonky folds.
+mike7846 folds.
+bitchy11 checks.
+** Dealing Flop ** [ As, 5s, 4d ]
+bitchy11 checks.
+hakker checks.
+** Dealing Turn ** [ Ks ]
+bitchy11 checks.
+hakker bets [$10].
+bitchy11 folds.
+** Summary **
+hakker collected [$33.75].

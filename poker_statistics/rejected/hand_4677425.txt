@@ -1,0 +1,17 @@
+#Game No : 4677425
+***** Pacific Hand History for Game 4677425 *****
+#Game No : 4677546
+***** Pacific Hand History for Game 4677546 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 15:02:39 2006
+Table Partagas Lonsdales (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 5: sabadeen ( $1116.88 )
+Seat 8: kogo9 ( $2000 )
+kogo9 posts small blind [$10].
+sabadeen posts big blind [$20].
+** Dealing down cards **
+kogo9 raises [$70].
+sabadeen folds.
+** Summary **
+kogo9 collected [$100].

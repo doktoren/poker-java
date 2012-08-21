@@ -1,0 +1,27 @@
+#Game No : 5572452
+***** Pacific Hand History for Game 5572452 *****
+#Game No : 5572455
+***** Pacific Hand History for Game 5572455 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 13:47:39 2006
+Table Magic Hat (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: XiboY ( $585.3 )
+Seat 5: hathot ( $234.2 )
+hathot posts small blind [$3].
+XiboY posts big blind [$6].
+** Dealing down cards **
+hathot calls [$3].
+XiboY checks.
+** Dealing Flop ** [ 2h, 6h, 8s ]
+XiboY checks.
+hathot bets [$18].
+XiboY raises [$42].
+hathot calls [$24].
+** Dealing Turn ** [ 9c ]
+XiboY checks.
+hathot checks.
+** Dealing River ** [ 3c ]
+XiboY folds.
+** Summary **
+hathot collected [$92].

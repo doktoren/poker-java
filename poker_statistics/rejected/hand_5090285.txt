@@ -1,0 +1,14 @@
+#Game No : 5090285
+***** Pacific Hand History for Game 5090285 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 18 00:34:47 2006
+Table Anaconda (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dogspot ( $2259.5 )
+Seat 5: boogie10 ( $2070.5 )
+boogie10 posts small blind [$10].
+dogspot posts big blind [$20].
+** Dealing down cards **
+boogie10 folds.
+** Summary **
+dogspot collected [$30].

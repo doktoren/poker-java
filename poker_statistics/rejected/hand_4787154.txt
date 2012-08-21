@@ -1,0 +1,19 @@
+#Game No : 4787154
+***** Pacific Hand History for Game 4787154 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 09 12:27:49 2006
+Table Partagas Lonsdales (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 7: boogie10 ( $4814.9 )
+Seat 8: miniphat ( $293.46 )
+boogie10 posts small blind [$10].
+miniphat posts big blind [$20].
+** Dealing down cards **
+boogie10 raises [$70].
+miniphat calls [$60].
+** Dealing Flop ** [ Qs, 5h, 7d ]
+boogie10 checks.
+miniphat bets [$213.46].
+boogie10 folds.
+** Summary **
+miniphat collected [$369.46].

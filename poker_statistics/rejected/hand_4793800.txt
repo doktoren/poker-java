@@ -1,0 +1,14 @@
+#Game No : 4793800
+***** Pacific Hand History for Game 4793800 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 09 19:20:40 2006
+Table Acapulco (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 6: bobbybo ( $1611 )
+Seat 8: fbenoit1 ( $3861.8 )
+bobbybo posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+bobbybo folds.
+** Summary **
+fbenoit1 collected [$30].

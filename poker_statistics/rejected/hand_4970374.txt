@@ -1,0 +1,14 @@
+#Game No : 4970374
+***** Pacific Hand History for Game 4970374 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 14 09:44:04 2006
+Table Christmas Cake (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: brianac ( $133.27 )
+Seat 3: xxDRBxx ( $1058.7 )
+xxDRBxx posts small blind [$3].
+brianac posts big blind [$6].
+** Dealing down cards **
+xxDRBxx folds.
+** Summary **
+brianac collected [$9].

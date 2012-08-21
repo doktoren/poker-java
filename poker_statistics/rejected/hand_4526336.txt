@@ -1,0 +1,22 @@
+#Game No : 4526336
+***** Pacific Hand History for Game 4526336 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 15:56:39 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 10: JThomsen ( $2965.87 )
+Seat 1: nrajovic ( $975 )
+Seat 2: Kasperis ( $3444.75 )
+Seat 3: dogspot ( $983.5 )
+Seat 8: muralt ( $2774.21 )
+Seat 9: snavsi ( $4315.5 )
+Kasperis posts small blind [$5].
+dogspot posts big blind [$10].
+** Dealing down cards **
+snavsi folds.
+JThomsen folds.
+nrajovic raises [$41].
+Kasperis folds.
+dogspot folds.
+** Summary **
+nrajovic collected [$56].

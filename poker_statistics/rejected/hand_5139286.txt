@@ -1,0 +1,21 @@
+#Game No : 5139286
+***** Pacific Hand History for Game 5139286 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 02:44:05 2006
+Table J.L. Salazar y Hermanos (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $500 )
+Seat 6: BIGC0CK ( $7753.83 )
+fbenoit1 posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+fbenoit1 calls [$10].
+BIGC0CK checks.
+** Dealing Flop ** [ Qh, 8h, Kc ]
+fbenoit1 checks.
+BIGC0CK checks.
+** Dealing Turn ** [ 4c ]
+fbenoit1 bets [$20].
+BIGC0CK folds.
+** Summary **
+fbenoit1 collected [$58].

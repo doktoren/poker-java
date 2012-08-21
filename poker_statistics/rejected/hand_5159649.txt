@@ -1,0 +1,23 @@
+#Game No : 5159649
+***** Pacific Hand History for Game 5159649 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 15:04:18 2006
+Table Punch Gran Puro (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 1: Mambobam ( $3474 )
+Seat 2: MugOfAle ( $206 )
+Seat 6: Kasperis ( $2000 )
+Seat 7: oreida ( $390 )
+Seat 8: MAP914 ( $1399.5 )
+Mambobam posts small blind [$10].
+MugOfAle posts big blind [$20].
+** Dealing down cards **
+oreida folds.
+MAP914 folds.
+Mambobam calls [$10].
+MugOfAle checks.
+** Dealing Flop ** [ Jc, 10h, 4c ]
+Mambobam bets [$30].
+MugOfAle folds.
+** Summary **
+Mambobam collected [$68].

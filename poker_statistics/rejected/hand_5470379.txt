@@ -1,0 +1,34 @@
+#Game No : 5470379
+***** Pacific Hand History for Game 5470379 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 21:00:48 2006
+Table Chi Chi (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 10: vicstorm ( $1600.35 )
+Seat 5: BUSTY17 ( $3361 )
+Seat 6: oreida ( $373.5 )
+Seat 7: reneok ( $1663 )
+Seat 8: Kasperis ( $2000 )
+Seat 9: Saalis ( $2948 )
+oreida posts small blind [$10].
+reneok posts big blind [$20].
+** Dealing down cards **
+Kasperis folds.
+Saalis folds.
+BUSTY17 calls [$20].
+oreida calls [$10].
+reneok checks.
+** Dealing Flop ** [ 5s, Kh, Kd ]
+oreida bets [$20].
+reneok folds.
+BUSTY17 calls [$20].
+** Dealing Turn ** [ 3h ]
+oreida checks.
+BUSTY17 bets [$20].
+oreida calls [$20].
+** Dealing River ** [ Qs ]
+oreida checks.
+BUSTY17 bets [$100].
+oreida folds.
+** Summary **
+BUSTY17 collected [$236].

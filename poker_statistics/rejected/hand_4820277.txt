@@ -1,0 +1,29 @@
+#Game No : 4820277
+***** Pacific Hand History for Game 4820277 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 15:04:16 2006
+Table Acapulco (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: drew1257 ( $2052 )
+Seat 8: BIGC0CK ( $2630 )
+BIGC0CK posts small blind [$10].
+drew1257 posts big blind [$20].
+** Dealing down cards **
+BIGC0CK raises [$70].
+drew1257 raises [$160].
+BIGC0CK calls [$100].
+** Dealing Flop ** [ Jd, 5c, 10h ]
+BIGC0CK checks.
+drew1257 bets [$100].
+BIGC0CK calls [$100].
+** Dealing Turn ** [ 8c ]
+BIGC0CK checks.
+drew1257 bets [$100].
+BIGC0CK calls [$100].
+** Dealing River ** [ 5d ]
+BIGC0CK checks.
+drew1257 checks.
+** Summary **
+BIGC0CK shows [ 8d 9h ].
+drew1257 mucks.
+BIGC0CK collected [$756].

@@ -1,0 +1,49 @@
+#Game No : 5177999
+***** Pacific Hand History for Game 5177999 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 20 00:13:44 2006
+Table Cardinal (Real Money)
+Seat 10 is the button
+Total number of players : 10
+Seat 10: xxDRBxx ( $1163 )
+Seat 1: bgpmp ( $1042.43 )
+Seat 2: bollsta ( $1039 )
+Seat 3: sucKJs ( $1194.5 )
+Seat 4: dgmgrand ( $1189.25 )
+Seat 5: chanwolf ( $995.6 )
+Seat 6: krisch ( $1136 )
+Seat 7: wmwmw ( $940 )
+Seat 8: big101 ( $1832.75 )
+Seat 9: minshik ( $158.45 )
+bgpmp posts small blind [$5].
+bollsta posts big blind [$10].
+** Dealing down cards **
+sucKJs folds.
+dgmgrand folds.
+chanwolf folds.
+krisch folds.
+big101 folds.
+minshik calls [$10].
+xxDRBxx calls [$10].
+bgpmp calls [$5].
+bollsta checks.
+** Dealing Flop ** [ 3s, 10s, 10h ]
+bgpmp checks.
+bollsta checks.
+minshik checks.
+xxDRBxx checks.
+** Dealing Turn ** [ 5c ]
+bgpmp checks.
+bollsta checks.
+minshik checks.
+xxDRBxx checks.
+** Dealing River ** [ 7h ]
+bgpmp checks.
+bollsta checks.
+minshik checks.
+xxDRBxx checks.
+** Summary **
+bgpmp shows [ 5s 9d ].
+bollsta mucks.
+minshik mucks.
+xxDRBxx mucks.
+bgpmp collected [$38].

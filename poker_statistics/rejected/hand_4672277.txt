@@ -1,0 +1,36 @@
+#Game No : 4672277
+***** Pacific Hand History for Game 4672277 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 10:44:45 2006
+Table Excalibur 1066 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: shafan ( $3272 )
+Seat 5: Jak0007 ( $9598.39 )
+Seat 6: MrPils ( $5068 )
+Seat 7: Lydia86 ( $4404 )
+Seat 8: kogo9 ( $8954.4 )
+Jak0007 posts small blind [$10].
+MrPils posts big blind [$20].
+** Dealing down cards **
+Lydia86 folds.
+kogo9 folds.
+shafan calls [$20].
+Jak0007 calls [$10].
+MrPils checks.
+** Dealing Flop ** [ 8c, 10h, 4d ]
+Jak0007 checks.
+MrPils checks.
+shafan checks.
+** Dealing Turn ** [ Jd ]
+Jak0007 checks.
+MrPils checks.
+shafan checks.
+** Dealing River ** [ Kc ]
+Jak0007 checks.
+MrPils checks.
+shafan checks.
+** Summary **
+Jak0007 shows [ Qs 3s ].
+MrPils mucks.
+shafan mucks.
+Jak0007 collected [$57].

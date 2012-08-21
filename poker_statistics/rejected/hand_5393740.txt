@@ -1,0 +1,24 @@
+#Game No : 5393740
+***** Pacific Hand History for Game 5393740 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 22:24:32 2006
+Table Harpoon Summer (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: braffer ( $966 )
+Seat 6: jeter323 ( $3182.43 )
+jeter323 posts small blind [$10].
+braffer posts big blind [$20].
+** Dealing down cards **
+jeter323 calls [$10].
+braffer checks.
+** Dealing Flop ** [ Kc, Qh, 3s ]
+jeter323 checks.
+braffer bets [$20].
+jeter323 calls [$20].
+** Dealing Turn ** [ 8d ]
+jeter323 checks.
+braffer bets [$20].
+jeter323 raises [$80].
+braffer folds.
+** Summary **
+jeter323 collected [$176].

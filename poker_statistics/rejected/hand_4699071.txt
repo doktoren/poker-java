@@ -1,0 +1,40 @@
+#Game No : 4699071
+***** Pacific Hand History for Game 4699071 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 07 02:30:43 2006
+Table Cusano Corojo 97 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 10: fbenoit1 ( $340 )
+Seat 1: NZL10 ( $519.5 )
+Seat 5: interrr ( $381.72 )
+Seat 6: canuchy ( $520.61 )
+Seat 8: Justyce5 ( $190 )
+Seat 9: logbil ( $1156 )
+fbenoit1 posts small blind [$5].
+NZL10 posts big blind [$10].
+Justyce5 posts big blind [$10].
+** Dealing down cards **
+interrr folds.
+canuchy folds.
+Justyce5 raises [$10].
+logbil folds.
+fbenoit1 calls [$15].
+NZL10 calls [$10].
+** Dealing Flop ** [ Ad, Ks, 2d ]
+fbenoit1 checks.
+NZL10 checks.
+Justyce5 checks.
+** Dealing Turn ** [ Qs ]
+fbenoit1 checks.
+NZL10 checks.
+Justyce5 checks.
+** Dealing River ** [ 5d ]
+fbenoit1 checks.
+NZL10 checks.
+NZL10 checks.
+Justyce5 checks.
+** Summary **
+fbenoit1 shows [ 6h 6c ].
+NZL10 mucks.
+Justyce5 mucks.
+fbenoit1 collected [$57].

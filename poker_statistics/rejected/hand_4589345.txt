@@ -1,0 +1,25 @@
+#Game No : 4589345
+***** Pacific Hand History for Game 4589345 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 05:27:52 2006
+Table Hennepin Ale (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: wrexk ( $1043 )
+Seat 5: muckfish ( $1585.45 )
+muckfish posts small blind [$5].
+wrexk posts big blind [$10].
+** Dealing down cards **
+muckfish calls [$5].
+wrexk checks.
+** Dealing Flop ** [ Ac, 3c, Ah ]
+muckfish checks.
+wrexk bets [$10].
+muckfish calls [$10].
+** Dealing Turn ** [ 4c ]
+muckfish checks.
+wrexk checks.
+** Dealing River ** [ 6c ]
+muckfish bets [$55].
+wrexk folds.
+** Summary **
+muckfish collected [$93].

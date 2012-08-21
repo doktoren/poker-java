@@ -1,0 +1,23 @@
+#Game No : 4564706
+***** Pacific Hand History for Game 4564706 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 03 16:51:50 2006
+Table Frambozenbier (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: wuschel5 ( $137.05 )
+Seat 9: OBigO ( $668.2 )
+wuschel5 posts small blind [$3].
+OBigO posts big blind [$6].
+** Dealing down cards **
+wuschel5 calls [$3].
+OBigO checks.
+** Dealing Flop ** [ Kh, 2h, 10s ]
+wuschel5 checks.
+OBigO bets [$12].
+wuschel5 calls [$12].
+** Dealing Turn ** [ 7h ]
+wuschel5 checks.
+OBigO bets [$18].
+wuschel5 folds.
+** Summary **
+OBigO collected [$52.2].

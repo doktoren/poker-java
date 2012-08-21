@@ -1,0 +1,29 @@
+#Game No : 4855440
+***** Pacific Hand History for Game 4855440 *****
+#Game No : 4855452
+***** Pacific Hand History for Game 4855452 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 16:57:56 2006
+Table Tigers Milk (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: tonio73 ( $150 )
+Seat 7: SP42 ( $950 )
+SP42 posts small blind [$5].
+tonio73 posts big blind [$10].
+** Dealing down cards **
+SP42 calls [$5].
+tonio73 checks.
+** Dealing Flop ** [ 6s, 8c, Qs ]
+tonio73 checks.
+SP42 checks.
+** Dealing Turn ** [ 10c ]
+tonio73 bets [$10].
+SP42 raises [$35].
+tonio73 calls [$25].
+** Dealing River ** [ 5c ]
+tonio73 checks.
+SP42 checks.
+** Summary **
+tonio73 shows [ Js 8h ].
+SP42 mucks.
+tonio73 collected [$86].

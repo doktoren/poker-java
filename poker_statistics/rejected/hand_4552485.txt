@@ -1,0 +1,14 @@
+#Game No : 4552485
+***** Pacific Hand History for Game 4552485 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 03 06:48:23 2006
+Table Sunset Island (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: mesaman1 ( $2774.48 )
+Seat 7: Haschis ( $1943 )
+Haschis posts small blind [$10].
+mesaman1 posts big blind [$20].
+** Dealing down cards **
+Haschis folds.
+** Summary **
+mesaman1 collected [$30].

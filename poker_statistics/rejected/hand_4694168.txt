@@ -1,0 +1,24 @@
+#Game No : 4694168
+***** Pacific Hand History for Game 4694168 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 23:59:50 2006
+Table Daiquiri (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 10: Kasperis ( $2571 )
+Seat 7: fbenoit1 ( $634.22 )
+Kasperis posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+Kasperis calls [$10].
+fbenoit1 checks.
+** Dealing Flop ** [ Jc, 10s, Kh ]
+Kasperis checks.
+fbenoit1 checks.
+** Dealing Turn ** [ 9s ]
+Kasperis checks.
+fbenoit1 checks.
+** Dealing River ** [ Jh ]
+Kasperis bets [$20].
+fbenoit1 folds.
+** Summary **
+Kasperis collected [$58].

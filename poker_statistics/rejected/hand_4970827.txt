@@ -1,0 +1,21 @@
+#Game No : 4970827
+***** Pacific Hand History for Game 4970827 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 10:07:55 2006
+Table Woodpecker Cider (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 10: kiyoshi8 ( $2114 )
+Seat 4: oreida ( $556 )
+Seat 5: BIGC0CK ( $27253.9 )
+Seat 7: aaronkjo ( $5257.5 )
+BIGC0CK posts small blind [$10].
+aaronkjo posts big blind [$20].
+** Dealing down cards **
+kiyoshi8 folds.
+BIGC0CK raises [$70].
+aaronkjo calls [$60].
+** Dealing Flop ** [ Jh, Kd, 9s ]
+BIGC0CK bets [$150].
+aaronkjo folds.
+** Summary **
+BIGC0CK collected [$306].

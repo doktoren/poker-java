@@ -1,0 +1,15 @@
+#Game No : 5228057
+***** Pacific Hand History for Game 5228057 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 21 08:01:01 2006
+Table Fidels (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: liclic ( $577.5 )
+Seat 9: ANIKIN75 ( $828.4 )
+ANIKIN75 posts small blind [$5].
+liclic posts big blind [$10].
+** Dealing down cards **
+ANIKIN75 raises [$35].
+liclic folds.
+** Summary **
+ANIKIN75 collected [$50].

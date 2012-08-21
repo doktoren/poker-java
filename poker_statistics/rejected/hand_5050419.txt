@@ -1,0 +1,21 @@
+#Game No : 5050419
+***** Pacific Hand History for Game 5050419 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 20:46:06 2006
+Table Elephant Lips (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: Aces999 ( $418.74 )
+Seat 4: oreida ( $245.54 )
+Seat 5: braffer ( $60 )
+Seat 7: Squamou ( $427 )
+Seat 8: avago14 ( $424.25 )
+braffer posts small blind [$5].
+Squamou posts big blind [$10].
+** Dealing down cards **
+avago14 calls [$10].
+Aces999 folds.
+braffer raises [$55].
+Squamou folds.
+avago14 folds.
+** Summary **
+braffer collected [$80].

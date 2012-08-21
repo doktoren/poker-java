@@ -1,0 +1,15 @@
+#Game No : 4664629
+***** Pacific Hand History for Game 4664629 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 05:56:22 2006
+Table Pearl (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: MrPils ( $1250 )
+Seat 9: TinyTnks ( $1641.5 )
+MrPils posts small blind [$5].
+TinyTnks posts big blind [$10].
+** Dealing down cards **
+MrPils raises [$30].
+TinyTnks folds.
+** Summary **
+MrPils collected [$45].

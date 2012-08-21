@@ -1,0 +1,14 @@
+#Game No : 4873571
+***** Pacific Hand History for Game 4873571 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 12 02:03:12 2006
+Table Flor de los Reyes (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Phatigue ( $3019 )
+Seat 5: Saalis ( $2000 )
+Saalis posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+Saalis folds.
+** Summary **
+Phatigue collected [$30].

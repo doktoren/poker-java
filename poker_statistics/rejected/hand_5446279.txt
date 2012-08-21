@@ -1,0 +1,25 @@
+#Game No : 5446279
+***** Pacific Hand History for Game 5446279 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 04:45:20 2006
+Table Chi Chi (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: bodaph ( $1878 )
+Seat 4: 2500 ( $1970 )
+Seat 5: jtchamp4 ( $1090.5 )
+Seat 6: mcdubb ( $2000 )
+Seat 7: jcc88 ( $117 )
+Seat 9: atesfull ( $2715 )
+jcc88 posts small blind [$10].
+atesfull posts big blind [$20].
+** Dealing down cards **
+bodaph folds.
+2500 folds.
+jtchamp4 folds.
+jcc88 calls [$10].
+atesfull checks.
+** Dealing Flop ** [ 6c, 2c, Jd ]
+jcc88 bets [$40].
+atesfull folds.
+** Summary **
+jcc88 collected [$78].

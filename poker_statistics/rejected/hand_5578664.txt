@@ -1,0 +1,41 @@
+#Game No : 5578664
+***** Pacific Hand History for Game 5578664 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 20:07:41 2006
+Table White Cloud (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 10: R0N7655 ( $549 )
+Seat 1: MSK78 ( $283.7 )
+Seat 3: Minibank ( $600 )
+Seat 5: Hackney1 ( $436.45 )
+Seat 6: dagent44 ( $40.65 )
+Seat 7: lazbay ( $766.44 )
+Seat 8: galifian ( $527.95 )
+Seat 9: Ph1984 ( $268.4 )
+R0N7655 posts small blind [$3].
+MSK78 posts big blind [$6].
+** Dealing down cards **
+Minibank folds.
+Hackney1 calls [$6].
+dagent44 raises [$12].
+lazbay folds.
+galifian folds.
+R0N7655 folds.
+MSK78 calls [$6].
+Hackney1 calls [$6].
+** Dealing Flop ** [ 10h, 5h, 4s ]
+MSK78 bets [$6].
+Hackney1 calls [$6].
+dagent44 calls [$6].
+** Dealing Turn ** [ 8c ]
+MSK78 bets [$6].
+Hackney1 folds.
+dagent44 raises [$22.65].
+MSK78 calls [$16.65].
+** Dealing River ** [ As ]
+** Summary **
+MSK78 shows [ 5d Qs ].
+dagent44 shows [ 7d 8d ].
+MSK78 shows [ 5d Qs ].
+dagent44 shows [ 7d 8d ].
+dagent44 collected [$98.3].

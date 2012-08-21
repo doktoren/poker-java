@@ -1,0 +1,19 @@
+#Game No : 4868098
+***** Pacific Hand History for Game 4868098 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 23:28:47 2006
+Table Aventinus (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 2: bollie1 ( $2666.25 )
+Seat 3: Kasperis ( $1071 )
+Seat 7: NERIDA ( $158.15 )
+Seat 9: snavsi ( $1788.75 )
+NERIDA posts small blind [$5].
+snavsi posts big blind [$10].
+** Dealing down cards **
+bollie1 raises [$30].
+NERIDA raises [$153.15].
+snavsi folds.
+bollie1 folds.
+** Summary **
+NERIDA collected [$198.15].

@@ -1,0 +1,21 @@
+#Game No : 4582031
+***** Pacific Hand History for Game 4582031 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 01:15:01 2006
+Table Black Eyed Susan (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: kogo9 ( $4428.77 )
+Seat 6: bigflush ( $573 )
+bigflush posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+bigflush calls [$10].
+kogo9 checks.
+** Dealing Flop ** [ Kc, 8h, As ]
+bigflush checks.
+kogo9 checks.
+** Dealing Turn ** [ 5h ]
+bigflush bets [$20].
+kogo9 folds.
+** Summary **
+bigflush collected [$58].

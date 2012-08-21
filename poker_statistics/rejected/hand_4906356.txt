@@ -1,0 +1,28 @@
+#Game No : 4906356
+***** Pacific Hand History for Game 4906356 *****
+#Game No : 4907283
+***** Pacific Hand History for Game 4907283 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 00:28:56 2006
+Table Scorpion (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: PixFrank ( $2000 )
+Seat 6: jeter323 ( $2000 )
+jeter323 posts small blind [$10].
+PixFrank posts big blind [$20].
+** Dealing down cards **
+jeter323 calls [$10].
+PixFrank checks.
+** Dealing Flop ** [ Jd, 4c, 8d ]
+PixFrank checks.
+jeter323 checks.
+** Dealing Turn ** [ 8s ]
+PixFrank checks.
+jeter323 checks.
+** Dealing River ** [ Ad ]
+PixFrank checks.
+jeter323 checks.
+** Summary **
+PixFrank shows [ Kd 3s ].
+jeter323 mucks.
+PixFrank collected [$38].

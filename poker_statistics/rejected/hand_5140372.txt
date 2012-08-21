@@ -1,0 +1,21 @@
+#Game No : 5140372
+***** Pacific Hand History for Game 5140372 *****
+#Game No : 5140382
+***** Pacific Hand History for Game 5140382 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 03:12:29 2006
+Table Punch Gran Puro (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: shotsy ( $2000 )
+Seat 9: BIGC0CK ( $7340.45 )
+shotsy posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+shotsy raises [$30].
+BIGC0CK raises [$100].
+shotsy calls [$80].
+** Dealing Flop ** [ 6s, 4h, 5s ]
+BIGC0CK bets [$170].
+shotsy folds.
+** Summary **
+BIGC0CK collected [$406].

@@ -1,0 +1,45 @@
+#Game No : 4983827
+***** Pacific Hand History for Game 4983827 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 20:37:08 2006
+Table Tropical Breeze (Real Money)
+Seat 7 is the button
+Total number of players : 10
+Seat 10: braffer ( $1288.77 )
+Seat 1: kielbax ( $1970 )
+Seat 2: aaronkjo ( $2749.24 )
+Seat 3: mjoy ( $1970 )
+Seat 4: tru2m2 ( $718 )
+Seat 5: pei2son ( $1030.52 )
+Seat 6: sarasola ( $887 )
+Seat 7: reneok ( $1970 )
+Seat 8: edibben ( $1980 )
+Seat 9: Lopponen ( $3731 )
+edibben posts small blind [$10].
+Lopponen posts big blind [$20].
+** Dealing down cards **
+kielbax raises [$70].
+aaronkjo calls [$70].
+mjoy folds.
+tru2m2 folds.
+pei2son folds.
+sarasola calls [$70].
+reneok folds.
+edibben calls [$60].
+Lopponen folds.
+** Dealing Flop ** [ 3d, Ad, 10h ]
+edibben checks.
+kielbax bets [$250].
+aaronkjo calls [$250].
+sarasola folds.
+edibben folds.
+** Dealing Turn ** [ 9d ]
+kielbax checks.
+aaronkjo bets [$360].
+kielbax calls [$360].
+** Dealing River ** [ 7d ]
+kielbax checks.
+aaronkjo checks.
+** Summary **
+kielbax shows [ 10d 10c ].
+aaronkjo mucks.
+kielbax collected [$1516].

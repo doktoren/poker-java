@@ -1,0 +1,29 @@
+#Game No : 50683123
+***** Pacific Hand History for Game 50683123 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 09 13:21:04 2006
+Table Robins Nest (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: munin ( $803.5 )
+Seat 5: gabbe78 ( $252 )
+Seat 6: khazdul ( $383.9 )
+Seat 7: bobbob75 ( $380 )
+Seat 8: NZL10 ( $359.6 )
+Seat 9: gus14 ( $146.78 )
+gabbe78 posts small blind [$2].
+khazdul posts big blind [$4].
+gus14 posts big blind [$4].
+** Dealing down cards **
+bobbob75 raises [$16].
+gus14 calls [$12].
+munin folds.
+gabbe78 folds.
+khazdul folds.
+** Dealing Flop ** [ Js, 9d, Ah ]
+bobbob75 bets [$20].
+gus14 calls [$20].
+** Dealing Turn ** [ 4d ]
+bobbob75 bets [$60].
+gus14 folds.
+** Summary **
+bobbob75 collected [$134.1].

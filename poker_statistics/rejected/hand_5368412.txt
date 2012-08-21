@@ -1,0 +1,22 @@
+#Game No : 5368412
+***** Pacific Hand History for Game 5368412 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 04:54:24 2006
+Table Don-De-Dieu (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 10: big101 ( $847 )
+Seat 3: jonutenh ( $4312 )
+Seat 5: hugo13 ( $6937.75 )
+Seat 6: liclic ( $533.5 )
+Seat 7: wooder2 ( $2192 )
+Seat 9: fbenoit1 ( $1204.5 )
+liclic posts small blind [$10].
+wooder2 posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+jonutenh raises [$80].
+hugo13 folds.
+liclic folds.
+wooder2 folds.
+** Summary **
+jonutenh collected [$110].

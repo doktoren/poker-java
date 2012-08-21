@@ -1,0 +1,19 @@
+#Game No : 5250456
+***** Pacific Hand History for Game 5250456 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 21 23:12:41 2006
+Table Muddy Water (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 10: dipollo ( $232.5 )
+Seat 1: dukies34 ( $500 )
+Seat 3: jahD ( $246.65 )
+Seat 5: reggy ( $870.1 )
+Seat 6: RCJIII ( $701.58 )
+dipollo posts small blind [$3].
+dukies34 posts big blind [$6].
+** Dealing down cards **
+jahD folds.
+RCJIII folds.
+dipollo folds.
+** Summary **
+dukies34 collected [$9].

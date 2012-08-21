@@ -1,0 +1,17 @@
+#Game No : 5205115
+***** Pacific Hand History for Game 5205115 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 20:02:06 2006
+Table Tootsie Roll (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: jtchamp4 ( $1976 )
+Seat 3: ck911 ( $592 )
+Seat 6: PixFrank ( $2345 )
+Seat 9: Phatigue ( $3384 )
+Phatigue posts small blind [$10].
+jtchamp4 posts big blind [$20].
+** Dealing down cards **
+ck911 folds.
+Phatigue folds.
+** Summary **
+jtchamp4 collected [$30].

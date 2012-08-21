@@ -1,0 +1,42 @@
+#Game No : 5395990
+***** Pacific Hand History for Game 5395990 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 23:24:47 2006
+Table Harpoon Summer (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 3: tashalee ( $2320 )
+Seat 4: sizzler2 ( $2708 )
+Seat 5: oompa3 ( $1424 )
+Seat 6: jeter323 ( $2684 )
+Seat 7: Saalis ( $5729.03 )
+Seat 8: fogden ( $920 )
+Seat 9: CasonB ( $1890.03 )
+tashalee posts small blind [$10].
+sizzler2 posts big blind [$20].
+CasonB posts big blind [$20].
+** Dealing down cards **
+oompa3 calls [$20].
+jeter323 folds.
+Saalis folds.
+fogden calls [$20].
+CasonB checks.
+tashalee calls [$10].
+sizzler2 checks.
+** Dealing Flop ** [ 5c, 6c, 2s ]
+tashalee checks.
+sizzler2 bets [$80].
+oompa3 folds.
+fogden calls [$80].
+CasonB folds.
+tashalee folds.
+** Dealing Turn ** [ Qc ]
+sizzler2 checks.
+fogden bets [$100].
+sizzler2 calls [$100].
+** Dealing River ** [ Jd ]
+sizzler2 bets [$100].
+fogden calls [$100].
+** Summary **
+sizzler2 shows [ 2c Kd ].
+fogden shows [ 5h 5s ].
+fogden collected [$656].

@@ -1,0 +1,41 @@
+#Game No : 5034848
+***** Pacific Hand History for Game 5034848 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 06:45:47 2006
+Table McEwans (Real Money)
+Seat 6 is the button
+Total number of players : 10
+Seat 10: M8Me ( $4417.71 )
+Seat 1: boogjr ( $676 )
+Seat 2: sazeracs ( $2093.5 )
+Seat 3: SAMMYNJ ( $2952.71 )
+Seat 4: justone5 ( $1500 )
+Seat 5: dgs281 ( $1183.48 )
+Seat 6: edibben ( $2956 )
+Seat 7: ms4088 ( $1255.58 )
+Seat 8: drunkzzz ( $3803 )
+Seat 9: salsolo ( $70 )
+ms4088 posts small blind [$10].
+drunkzzz posts big blind [$20].
+justone5 posts big blind [$20].
+** Dealing down cards **
+salsolo calls [$20].
+M8Me folds.
+sazeracs calls [$20].
+SAMMYNJ folds.
+justone5 checks.
+dgs281 folds.
+edibben folds.
+ms4088 calls [$10].
+drunkzzz checks.
+** Dealing Flop ** [ 7h, 3h, Kd ]
+ms4088 checks.
+drunkzzz checks.
+salsolo checks.
+sazeracs checks.
+justone5 bets [$100].
+ms4088 folds.
+drunkzzz folds.
+salsolo folds.
+sazeracs folds.
+** Summary **
+justone5 collected [$196].

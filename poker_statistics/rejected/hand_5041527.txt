@@ -1,0 +1,32 @@
+#Game No : 5041527
+***** Pacific Hand History for Game 5041527 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 13:03:07 2006
+Table Marsh Wheeling (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 10: JThomsen ( $1980 )
+Seat 1: M8Me ( $2002 )
+Seat 5: kellie03 ( $2881.35 )
+Seat 6: bodaph ( $1961 )
+Seat 7: jolly117 ( $738 )
+Seat 8: Mambobam ( $5717 )
+Seat 9: mcdubb ( $2012 )
+JThomsen posts small blind [$10].
+M8Me posts big blind [$20].
+** Dealing down cards **
+kellie03 folds.
+bodaph folds.
+jolly117 calls [$20].
+Mambobam calls [$20].
+JThomsen calls [$10].
+M8Me checks.
+** Dealing Flop ** [ Jh, 4h, 7h ]
+JThomsen checks.
+M8Me checks.
+jolly117 checks.
+Mambobam bets [$60].
+JThomsen folds.
+M8Me folds.
+jolly117 folds.
+** Summary **
+Mambobam collected [$136].

@@ -1,0 +1,36 @@
+#Game No : 4852197
+***** Pacific Hand History for Game 4852197 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 14:15:35 2006
+Table Tigers Milk (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 10: MGM2008 ( $425 )
+Seat 1: bxlefty ( $1710.17 )
+Seat 3: DVasic ( $251 )
+Seat 5: stephank ( $2853 )
+Seat 6: srpromo ( $497.8 )
+Seat 8: Gamble91 ( $990 )
+Seat 9: bollsta ( $951 )
+Gamble91 posts small blind [$5].
+bollsta posts big blind [$10].
+** Dealing down cards **
+MGM2008 folds.
+bxlefty raises [$50].
+DVasic folds.
+srpromo calls [$50].
+Gamble91 folds.
+bollsta folds.
+** Dealing Flop ** [ 2d, 2s, Qc ]
+bxlefty bets [$80].
+srpromo calls [$80].
+** Dealing Turn ** [ 10c ]
+bxlefty checks.
+srpromo bets [$65].
+bxlefty calls [$65].
+** Dealing River ** [ 8s ]
+bxlefty checks.
+srpromo checks.
+** Summary **
+bxlefty shows [ Kd Ac ].
+srpromo shows [ 7c 7s ].
+srpromo collected [$401].

@@ -1,0 +1,14 @@
+#Game No : 5464186
+***** Pacific Hand History for Game 5464186 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 17:32:35 2006
+Table Chi Chi (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Kasperis ( $2008 )
+Seat 7: stephank ( $1980 )
+stephank posts small blind [$10].
+Kasperis posts big blind [$20].
+** Dealing down cards **
+stephank folds.
+** Summary **
+Kasperis collected [$30].

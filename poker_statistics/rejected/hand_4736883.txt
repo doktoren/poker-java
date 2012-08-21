@@ -1,0 +1,20 @@
+#Game No : 4736883
+***** Pacific Hand History for Game 4736883 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 08 01:10:23 2006
+Table Sancho Panza Tronquitos (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: lezgo8 ( $541.2 )
+Seat 9: macy23 ( $191.6 )
+lezgo8 posts small blind [$3].
+macy23 posts big blind [$6].
+** Dealing down cards **
+lezgo8 calls [$3].
+macy23 raises [$12].
+lezgo8 calls [$12].
+** Dealing Flop ** [ 2h, As, 8h ]
+lezgo8 bets [$6].
+macy23 raises [$30].
+lezgo8 folds.
+** Summary **
+macy23 collected [$69.6].

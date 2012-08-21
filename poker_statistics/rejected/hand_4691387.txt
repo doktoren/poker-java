@@ -1,0 +1,40 @@
+#Game No : 4691387
+***** Pacific Hand History for Game 4691387 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 22:42:47 2006
+Table Grappa (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 10: kiyoshi8 ( $1103.5 )
+Seat 1: JM1000 ( $1029.5 )
+Seat 2: JThomsen ( $1039.25 )
+Seat 3: sucKJs ( $1979 )
+Seat 4: krisch ( $1433.5 )
+Seat 5: bgpmp ( $1000 )
+Seat 6: boogjr ( $1888 )
+Seat 7: JSTLRNED ( $1051.25 )
+Seat 9: dc0214 ( $365 )
+JM1000 posts small blind [$5].
+JThomsen posts big blind [$10].
+** Dealing down cards **
+sucKJs folds.
+krisch calls [$10].
+bgpmp folds.
+JSTLRNED folds.
+dc0214 folds.
+kiyoshi8 raises [$60].
+JM1000 folds.
+JThomsen calls [$50].
+krisch folds.
+** Dealing Flop ** [ 4c, 9c, 4s ]
+JThomsen checks.
+kiyoshi8 checks.
+** Dealing Turn ** [ 3c ]
+JThomsen checks.
+kiyoshi8 checks.
+** Dealing River ** [ 3s ]
+JThomsen checks.
+kiyoshi8 checks.
+** Summary **
+JThomsen shows [ 7d 6d ].
+kiyoshi8 shows [ Ad 10c ].
+kiyoshi8 collected [$131].

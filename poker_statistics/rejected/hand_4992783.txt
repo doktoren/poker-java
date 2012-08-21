@@ -1,0 +1,14 @@
+#Game No : 4992783
+***** Pacific Hand History for Game 4992783 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 00:16:01 2006
+Table Tropical Breeze (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $545 )
+Seat 5: hugo13 ( $2950.5 )
+hugo13 posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+hugo13 folds.
+** Summary **
+fbenoit1 collected [$30].

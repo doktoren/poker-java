@@ -1,0 +1,29 @@
+#Game No : 5140762
+***** Pacific Hand History for Game 5140762 *****
+#Game No : 5140930
+***** Pacific Hand History for Game 5140930 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 03:31:49 2006
+Table Punch Gran Puro (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kololina ( $2000 )
+Seat 7: Kasperis ( $2000 )
+kololina posts small blind [$10].
+Kasperis posts big blind [$20].
+** Dealing down cards **
+kololina raises [$30].
+Kasperis calls [$20].
+** Dealing Flop ** [ 6h, 6d, 4h ]
+Kasperis checks.
+kololina checks.
+** Dealing Turn ** [ 3c ]
+Kasperis bets [$60].
+kololina calls [$60].
+** Dealing River ** [ Js ]
+Kasperis bets [$90].
+kololina raises [$200].
+Kasperis calls [$110].
+** Summary **
+kololina shows [ 6s Qc ].
+Kasperis mucks.
+kololina collected [$596].

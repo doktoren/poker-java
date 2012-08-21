@@ -1,0 +1,53 @@
+#Game No : 5175676
+***** Pacific Hand History for Game 5175676 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 22:54:29 2006
+Table Cardinal (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 10: peng888 ( $230 )
+Seat 1: bgpmp ( $1381.84 )
+Seat 2: bollsta ( $1557.75 )
+Seat 3: boogjr ( $1415.18 )
+Seat 4: dgmgrand ( $839.5 )
+Seat 5: calej ( $404.9 )
+Seat 7: leedavi3 ( $831.5 )
+Seat 8: dipollo ( $398 )
+Seat 9: Clute ( $412 )
+dipollo posts small blind [$5].
+Clute posts big blind [$10].
+** Dealing down cards **
+peng888 calls [$10].
+bgpmp folds.
+bollsta folds.
+boogjr folds.
+dgmgrand calls [$10].
+calej calls [$10].
+leedavi3 calls [$10].
+dipollo folds.
+Clute checks.
+** Dealing Flop ** [ 4c, 4h, As ]
+Clute checks.
+peng888 checks.
+dgmgrand checks.
+calej checks.
+leedavi3 checks.
+** Dealing Turn ** [ 6s ]
+Clute checks.
+peng888 checks.
+dgmgrand checks.
+calej checks.
+calej checks.
+leedavi3 checks.
+** Dealing River ** [ 6h ]
+Clute checks.
+peng888 checks.
+dgmgrand checks.
+calej checks.
+leedavi3 checks.
+** Summary **
+Clute shows [ 10h 5c ].
+peng888 shows [ 2c 2s ].
+dgmgrand shows [ 8d 8c ].
+calej mucks.
+leedavi3 mucks.
+dgmgrand collected [$52.25].

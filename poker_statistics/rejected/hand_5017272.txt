@@ -1,0 +1,14 @@
+#Game No : 5017272
+***** Pacific Hand History for Game 5017272 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 15 18:40:08 2006
+Table Chocolate Banana (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: verystev ( $347.6 )
+Seat 6: cully1 ( $122.85 )
+verystev posts small blind [$5].
+cully1 posts big blind [$10].
+** Dealing down cards **
+verystev folds.
+** Summary **
+cully1 collected [$15].

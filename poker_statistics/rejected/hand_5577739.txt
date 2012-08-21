@@ -1,0 +1,32 @@
+#Game No : 5577739
+***** Pacific Hand History for Game 5577739 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 19:26:27 2006
+Table White Cloud (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 10: AAsefAA ( $216 )
+Seat 2: lewis139 ( $289.73 )
+Seat 7: lazbay ( $207.24 )
+Seat 8: galifian ( $715.65 )
+Seat 9: tr0nni ( $585 )
+galifian posts small blind [$3].
+tr0nni posts big blind [$6].
+** Dealing down cards **
+lewis139 folds.
+lazbay calls [$6].
+galifian folds.
+tr0nni checks.
+** Dealing Flop ** [ 6s, 7h, Ac ]
+tr0nni checks.
+lazbay bets [$6].
+tr0nni calls [$6].
+** Dealing Turn ** [ Kd ]
+tr0nni checks.
+lazbay checks.
+** Dealing River ** [ 7c ]
+tr0nni bets [$16].
+lazbay calls [$16].
+** Summary **
+tr0nni shows [ 7d 3h ].
+lazbay mucks.
+tr0nni collected [$56.05].

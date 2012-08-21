@@ -1,0 +1,17 @@
+#Game No : 5004084
+***** Pacific Hand History for Game 5004084 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 06:29:53 2006
+Table Woodpecker Cider (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Phatigue ( $14649.42 )
+Seat 7: macsta ( $1406 )
+macsta posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+macsta calls [$10].
+Phatigue raises [$60].
+macsta raises [$1386].
+Phatigue folds.
+** Summary **
+macsta collected [$1486].

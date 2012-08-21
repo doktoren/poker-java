@@ -1,0 +1,29 @@
+#Game No : 14331367
+***** Pacific Hand History for Game 14331367 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 12 12:14:14 2006
+Table Le Hoyo du Gourmet (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: bigtran ( $288.6 )
+Seat 5: jwill950 ( $421 )
+Seat 7: gazza325 ( $400 )
+Seat 8: bilm ( $75.8 )
+jwill950 posts small blind [$2].
+gazza325 posts big blind [$4].
+** Dealing down cards **
+bilm folds.
+jwill950 calls [$2].
+gazza325 checks.
+** Dealing Flop ** [ 2d, 8d, 6s ]
+jwill950 checks.
+gazza325 checks.
+** Dealing Turn ** [ 8c ]
+jwill950 checks.
+gazza325 checks.
+** Dealing River ** [ 5d ]
+jwill950 checks.
+gazza325 checks.
+** Summary **
+jwill950 shows [ 3h Kh ].
+gazza325 shows [ Jh Ad ].
+gazza325 collected [$7.6].

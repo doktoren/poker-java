@@ -1,0 +1,14 @@
+#Game No : 4825560
+***** Pacific Hand History for Game 4825560 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 10 18:37:37 2006
+Table Churchill Deluxe (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 4: lemoche ( $367.6 )
+Seat 8: svullo ( $113 )
+lemoche posts small blind [$3].
+svullo posts big blind [$6].
+** Dealing down cards **
+lemoche folds.
+** Summary **
+svullo collected [$9].

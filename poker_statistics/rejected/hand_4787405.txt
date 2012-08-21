@@ -1,0 +1,14 @@
+#Game No : 4787405
+***** Pacific Hand History for Game 4787405 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 09 12:39:55 2006
+Table Dark (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 10: kubata ( $494.1 )
+Seat 5: hakker ( $727.75 )
+kubata posts small blind [$3].
+hakker posts big blind [$6].
+** Dealing down cards **
+kubata folds.
+** Summary **
+hakker collected [$9].

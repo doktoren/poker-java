@@ -1,0 +1,16 @@
+#Game No : 5154532
+***** Pacific Hand History for Game 5154532 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 10:14:26 2006
+Table Punch Gran Puro (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: Phatigue ( $3053 )
+Seat 7: liclic ( $566 )
+liclic posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+liclic calls [$10].
+Phatigue raises [$60].
+liclic folds.
+** Summary **
+Phatigue collected [$100].

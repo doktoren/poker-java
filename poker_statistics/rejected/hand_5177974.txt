@@ -1,0 +1,36 @@
+#Game No : 5177974
+***** Pacific Hand History for Game 5177974 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 20 00:12:51 2006
+Table Fonseca K.D.T. Cadetes (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Magran ( $666.1 )
+Seat 2: logbil ( $1268.25 )
+Seat 4: averb810 ( $818.25 )
+Seat 5: dipollo ( $486.51 )
+Seat 6: KrishnaP ( $212 )
+Seat 8: bollie1 ( $1152.45 )
+logbil posts small blind [$5].
+averb810 posts big blind [$10].
+** Dealing down cards **
+dipollo folds.
+KrishnaP calls [$10].
+bollie1 raises [$40].
+logbil folds.
+averb810 raises [$80].
+KrishnaP folds.
+bollie1 calls [$50].
+** Dealing Flop ** [ 4c, 5h, 2h ]
+averb810 bets [$80].
+bollie1 raises [$207].
+averb810 raises [$648.25].
+bollie1 calls [$521.25].
+** Dealing Turn ** [ 3d ]
+** Dealing River ** [ 6c ]
+** Summary **
+averb810 shows [ Qc Qh ].
+bollie1 shows [ Ks Kh ].
+bollie1 shows [ Ks Kh ].
+averb810 shows [ Qc Qh ].
+bollie1 collected [$823.75].
+averb810 collected [$823.75].

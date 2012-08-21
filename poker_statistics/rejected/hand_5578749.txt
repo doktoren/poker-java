@@ -1,0 +1,24 @@
+#Game No : 5578749
+***** Pacific Hand History for Game 5578749 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 20:12:42 2006
+Table Cusano 10th Anniversary (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 10: AndMor ( $910.35 )
+Seat 1: Scap1185 ( $282.9 )
+Seat 5: reggy ( $765.05 )
+Seat 6: jfarm ( $723.96 )
+Seat 7: sintill8 ( $188 )
+jfarm posts small blind [$3].
+sintill8 posts big blind [$6].
+** Dealing down cards **
+AndMor raises [$21].
+Scap1185 folds.
+jfarm folds.
+sintill8 calls [$15].
+** Dealing Flop ** [ 9s, 8h, 2h ]
+sintill8 checks.
+AndMor bets [$31].
+sintill8 folds.
+** Summary **
+AndMor collected [$73.75].

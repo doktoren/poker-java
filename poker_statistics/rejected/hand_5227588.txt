@@ -1,0 +1,28 @@
+#Game No : 5227588
+***** Pacific Hand History for Game 5227588 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 21 07:41:22 2006
+Table Fidels (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: NZL10 ( $938.25 )
+Seat 4: teoball ( $2321.25 )
+Seat 5: akroston ( $650 )
+Seat 6: Hohey1 ( $120.43 )
+Seat 7: JSTLRNED ( $459.52 )
+akroston posts small blind [$5].
+Hohey1 posts big blind [$10].
+** Dealing down cards **
+JSTLRNED calls [$10].
+teoball folds.
+akroston raises [$35].
+Hohey1 raises [$110.43].
+JSTLRNED folds.
+akroston calls [$80.43].
+** Dealing Flop ** [ 4s, Jd, 3c ]
+** Dealing Turn ** [ Ah ]
+** Dealing River ** [ Ks ]
+** Summary **
+akroston shows [ Kc Ac ].
+Hohey1 shows [ 10h 10d ].
+akroston shows [ Kc Ac ].
+akroston collected [$246.86].

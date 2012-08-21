@@ -1,0 +1,25 @@
+#Game No : 4855191
+***** Pacific Hand History for Game 4855191 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 16:50:22 2006
+Table Flor de los Reyes (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NrajOVIC ( $1880 )
+Seat 6: kasperi ( $2381.8 )
+kasperi posts small blind [$10].
+NrajOVIC posts big blind [$20].
+** Dealing down cards **
+kasperi calls [$10].
+NrajOVIC checks.
+** Dealing Flop ** [ 3h, Kd, 4s ]
+kasperi checks.
+NrajOVIC checks.
+** Dealing Turn ** [ As ]
+kasperi checks.
+NrajOVIC checks.
+** Dealing River ** [ 2h ]
+kasperi checks.
+NrajOVIC bets [$35].
+kasperi folds.
+** Summary **
+NrajOVIC collected [$73].

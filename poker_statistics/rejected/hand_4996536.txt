@@ -1,0 +1,32 @@
+#Game No : 4996536
+***** Pacific Hand History for Game 4996536 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 02:04:26 2006
+Table McEwans (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Chrilles ( $3852 )
+Seat 3: JayPat00 ( $505 )
+Seat 5: karski21 ( $404.5 )
+Seat 6: etown99 ( $200 )
+Seat 7: dagent44 ( $1281 )
+Chrilles posts small blind [$10].
+JayPat00 posts big blind [$20].
+etown99 posts big blind [$20].
+** Dealing down cards **
+karski21 folds.
+etown99 checks.
+dagent44 calls [$20].
+Chrilles calls [$10].
+JayPat00 checks.
+** Dealing Flop ** [ 2s, 5s, 6d ]
+Chrilles checks.
+JayPat00 bets [$80].
+etown99 folds.
+dagent44 folds.
+Chrilles raises [$160].
+JayPat00 calls [$80].
+** Dealing Turn ** [ Jh ]
+Chrilles bets [$195].
+JayPat00 folds.
+** Summary **
+Chrilles collected [$591].

@@ -1,0 +1,19 @@
+#Game No : 5048883
+***** Pacific Hand History for Game 5048883 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 19:48:38 2006
+Table Anaconda (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 10: cps99 ( $505 )
+Seat 1: jtchamp4 ( $2614 )
+Seat 2: scsdms1 ( $4830.8 )
+Seat 6: Antito ( $1350.4 )
+Seat 9: icematic ( $1008.43 )
+cps99 posts small blind [$10].
+jtchamp4 posts big blind [$20].
+** Dealing down cards **
+scsdms1 folds.
+Antito folds.
+cps99 folds.
+** Summary **
+jtchamp4 collected [$30].

@@ -1,0 +1,27 @@
+#Game No : 5444002
+***** Pacific Hand History for Game 5444002 *****
+#Game No : 5444542
+***** Pacific Hand History for Game 5444542 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 03:38:52 2006
+Table Chi Chi (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: skanis ( $1596.41 )
+Seat 6: kilburgp ( $200 )
+kilburgp posts small blind [$10].
+skanis posts big blind [$20].
+** Dealing down cards **
+kilburgp calls [$10].
+skanis checks.
+** Dealing Flop ** [ 8c, 2s, 2d ]
+skanis checks.
+kilburgp checks.
+** Dealing Turn ** [ 3c ]
+skanis checks.
+kilburgp bets [$40].
+skanis calls [$40].
+** Dealing River ** [ Qh ]
+skanis bets [$100].
+kilburgp folds.
+** Summary **
+skanis collected [$216].

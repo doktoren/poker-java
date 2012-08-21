@@ -1,0 +1,14 @@
+#Game No : 5572114
+***** Pacific Hand History for Game 5572114 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 30 13:26:41 2006
+Table Jasper (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ewass ( $1003.75 )
+Seat 8: jentao13 ( $462 )
+jentao13 posts small blind [$5].
+ewass posts big blind [$10].
+** Dealing down cards **
+jentao13 folds.
+** Summary **
+ewass collected [$15].

@@ -1,0 +1,16 @@
+#Game No : 4849456
+***** Pacific Hand History for Game 4849456 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 10:01:44 2006
+Table Flor de los Reyes (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ewass ( $1732 )
+Seat 6: Mambobam ( $2598 )
+ewass posts small blind [$10].
+Mambobam posts big blind [$20].
+** Dealing down cards **
+ewass calls [$10].
+Mambobam raises [$45].
+ewass folds.
+** Summary **
+Mambobam collected [$85].

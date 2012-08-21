@@ -1,0 +1,22 @@
+#Game No : 4859708
+***** Pacific Hand History for Game 4859708 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 19:09:07 2006
+Table Flor de los Reyes (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 10: Nrajovic ( $2000 )
+Seat 1: oakasfan ( $1890.33 )
+Seat 2: Albert0s ( $2728 )
+Seat 4: stephank ( $2811 )
+Seat 5: kiyoshi8 ( $3733 )
+Seat 7: fbenoit1 ( $747 )
+Nrajovic posts small blind [$10].
+oakasfan posts big blind [$20].
+** Dealing down cards **
+Albert0s raises [$80].
+kiyoshi8 folds.
+fbenoit1 folds.
+Nrajovic folds.
+oakasfan folds.
+** Summary **
+Albert0s collected [$110].

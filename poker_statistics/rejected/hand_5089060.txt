@@ -1,0 +1,34 @@
+#Game No : 5089060
+***** Pacific Hand History for Game 5089060 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 18 00:03:11 2006
+Table Anaconda (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 10: PacMann ( $7658.5 )
+Seat 2: dogspot ( $1904 )
+Seat 3: Kasperis ( $2078.5 )
+Seat 5: jv8035 ( $600 )
+Seat 7: jtchamp4 ( $3516.5 )
+PacMann posts small blind [$10].
+dogspot posts big blind [$20].
+jv8035 posts big blind [$20].
+** Dealing down cards **
+jv8035 checks.
+jtchamp4 raises [$100].
+PacMann folds.
+dogspot folds.
+jv8035 calls [$80].
+** Dealing Flop ** [ Ad, 4d, 6h ]
+jv8035 checks.
+jtchamp4 bets [$60].
+jv8035 calls [$60].
+** Dealing Turn ** [ 6d ]
+jv8035 checks.
+jtchamp4 checks.
+** Dealing River ** [ 2d ]
+jv8035 checks.
+jtchamp4 checks.
+** Summary **
+jv8035 shows [ 9d 9h ].
+jtchamp4 mucks.
+jv8035 collected [$346].

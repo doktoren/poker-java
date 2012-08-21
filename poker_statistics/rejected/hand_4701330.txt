@@ -1,0 +1,23 @@
+#Game No : 4701330
+***** Pacific Hand History for Game 4701330 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 07 03:40:47 2006
+Table Partagas Lonsdales (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Jak0007 ( $865.28 )
+Seat 4: shafan ( $1443.44 )
+shafan posts small blind [$10].
+Jak0007 posts big blind [$20].
+** Dealing down cards **
+shafan calls [$10].
+Jak0007 checks.
+** Dealing Flop ** [ Kh, 6d, 10s ]
+shafan checks.
+Jak0007 bets [$40].
+shafan calls [$40].
+** Dealing Turn ** [ As ]
+shafan checks.
+Jak0007 bets [$160].
+shafan folds.
+** Summary **
+Jak0007 collected [$276].

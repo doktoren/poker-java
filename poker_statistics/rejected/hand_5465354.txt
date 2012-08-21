@@ -1,0 +1,26 @@
+#Game No : 5465354
+***** Pacific Hand History for Game 5465354 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 27 18:13:18 2006
+Table Lambic Cassis Ale (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: DNMT ( $975 )
+Seat 2: vilja9 ( $1290 )
+Seat 3: stephank ( $970 )
+Seat 4: scaffold ( $471 )
+Seat 8: AndMor ( $1828 )
+Seat 9: bollsta ( $1040 )
+AndMor posts small blind [$5].
+bollsta posts big blind [$10].
+** Dealing down cards **
+DNMT folds.
+vilja9 folds.
+scaffold calls [$10].
+AndMor folds.
+bollsta checks.
+** Dealing Flop ** [ Qs, 8s, Jc ]
+bollsta checks.
+scaffold bets [$20].
+bollsta folds.
+** Summary **
+scaffold collected [$43.75].

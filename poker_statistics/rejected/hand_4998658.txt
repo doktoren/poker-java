@@ -1,0 +1,23 @@
+#Game No : 4998658
+***** Pacific Hand History for Game 4998658 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 03:10:24 2006
+Table Woodpecker Cider (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: Phatigue ( $9068.8 )
+Seat 2: tdscuba ( $326 )
+Seat 3: aaronkjo ( $2303 )
+Seat 4: jtchamp4 ( $1492 )
+Seat 5: Lopponen ( $2056 )
+Seat 6: logbil ( $1996 )
+jtchamp4 posts small blind [$10].
+Lopponen posts big blind [$20].
+** Dealing down cards **
+logbil calls [$20].
+Phatigue folds.
+tdscuba raises [$326].
+jtchamp4 folds.
+Lopponen folds.
+logbil folds.
+** Summary **
+tdscuba collected [$376].

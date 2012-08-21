@@ -1,0 +1,26 @@
+#Game No : 5428759
+***** Pacific Hand History for Game 5428759 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 26 18:58:29 2006
+Table Primo del Rey (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: Caito ( $2476 )
+Seat 3: hiskler ( $2069 )
+Seat 4: allai ( $1519.76 )
+Seat 5: Geeken ( $2065.14 )
+Seat 6: PixFrank ( $2093 )
+Seat 7: jonutenh ( $4331.91 )
+Seat 8: Haschis ( $1910 )
+Seat 9: spice5 ( $702 )
+Haschis posts small blind [$10].
+spice5 posts big blind [$20].
+** Dealing down cards **
+Caito folds.
+hiskler raises [$80].
+allai folds.
+PixFrank folds.
+jonutenh folds.
+Haschis folds.
+spice5 folds.
+** Summary **
+hiskler collected [$110].

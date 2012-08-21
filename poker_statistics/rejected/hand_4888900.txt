@@ -1,0 +1,20 @@
+#Game No : 4888900
+***** Pacific Hand History for Game 4888900 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 12:25:48 2006
+Table Aventinus (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 10: flopah ( $540.81 )
+Seat 1: gazza325 ( $997.75 )
+Seat 5: imhoteb ( $372.75 )
+Seat 7: kasperi ( $1081 )
+Seat 9: wrexk ( $1332.14 )
+imhoteb posts small blind [$5].
+kasperi posts big blind [$10].
+** Dealing down cards **
+wrexk folds.
+flopah folds.
+imhoteb raises [$30].
+kasperi folds.
+** Summary **
+imhoteb collected [$45].

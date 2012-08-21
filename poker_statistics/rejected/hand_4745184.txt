@@ -1,0 +1,16 @@
+#Game No : 4745184
+***** Pacific Hand History for Game 4745184 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 06:23:01 2006
+Table Almodine (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: fbenoit1 ( $734 )
+Seat 5: bobb0704 ( $432 )
+bobb0704 posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+bobb0704 calls [$10].
+fbenoit1 raises [$60].
+bobb0704 folds.
+** Summary **
+fbenoit1 collected [$100].

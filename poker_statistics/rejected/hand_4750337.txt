@@ -1,0 +1,19 @@
+#Game No : 4750337
+***** Pacific Hand History for Game 4750337 *****
+#Game No : 4750516
+***** Pacific Hand History for Game 4750516 *****
+#Game No : 4750955
+***** Pacific Hand History for Game 4750955 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 10:05:37 2006
+Table Almodine (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Menace74 ( $500 )
+Seat 7: boogie10 ( $2000 )
+boogie10 posts small blind [$10].
+Menace74 posts big blind [$20].
+** Dealing down cards **
+boogie10 raises [$90].
+Menace74 folds.
+** Summary **
+boogie10 collected [$120].

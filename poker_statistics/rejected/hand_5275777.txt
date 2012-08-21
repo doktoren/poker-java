@@ -1,0 +1,18 @@
+#Game No : 5275777
+***** Pacific Hand History for Game 5275777 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 22 17:41:54 2006
+Table Happy Hawaiian (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 8: Saalis ( $2315 )
+Seat 9: macsta ( $2281 )
+macsta posts small blind [$10].
+Saalis posts big blind [$20].
+** Dealing down cards **
+macsta calls [$10].
+Saalis checks.
+** Dealing Flop ** [ 9s, Kd, 5c ]
+macsta bets [$40].
+Saalis folds.
+** Summary **
+macsta collected [$78].

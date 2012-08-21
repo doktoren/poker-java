@@ -1,0 +1,19 @@
+#Game No : 4597687
+***** Pacific Hand History for Game 4597687 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 13:00:31 2006
+Table Apple Martini (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 10: muckfish ( $1056 )
+Seat 3: khazstan ( $1474 )
+Seat 5: Enecosse ( $1142.2 )
+Seat 7: jaak ( $1200.53 )
+Seat 8: carbons ( $973.5 )
+Enecosse posts small blind [$5].
+jaak posts big blind [$10].
+** Dealing down cards **
+carbons folds.
+muckfish folds.
+Enecosse folds.
+** Summary **
+jaak collected [$15].

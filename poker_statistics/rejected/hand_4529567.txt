@@ -1,0 +1,21 @@
+#Game No : 4529567
+***** Pacific Hand History for Game 4529567 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 18:08:14 2006
+Table Camacho SLR (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: huijgers ( $970 )
+Seat 6: bobbybo ( $533.75 )
+bobbybo posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+bobbybo calls [$5].
+huijgers checks.
+** Dealing Flop ** [ Kd, 2c, 4d ]
+bobbybo checks.
+huijgers checks.
+** Dealing Turn ** [ 4s ]
+bobbybo bets [$20].
+huijgers folds.
+** Summary **
+bobbybo collected [$39].

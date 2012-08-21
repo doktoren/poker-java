@@ -1,0 +1,24 @@
+#Game No : 5072559
+***** Pacific Hand History for Game 5072559 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 11:33:26 2006
+Table Marsh Wheeling (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: yourm9 ( $1584.92 )
+Seat 5: hugo13 ( $2708 )
+hugo13 posts small blind [$10].
+yourm9 posts big blind [$20].
+** Dealing down cards **
+hugo13 raises [$70].
+yourm9 calls [$60].
+** Dealing Flop ** [ 5h, 3d, 2d ]
+hugo13 bets [$140].
+yourm9 calls [$140].
+** Dealing Turn ** [ 5s ]
+hugo13 checks.
+yourm9 checks.
+** Dealing River ** [ 10h ]
+hugo13 bets [$400].
+yourm9 folds.
+** Summary **
+hugo13 collected [$836].

@@ -1,0 +1,19 @@
+#Game No : 4560301
+***** Pacific Hand History for Game 4560301 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 03 13:53:07 2006
+Table Zelta Gold (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: bakota ( $249.35 )
+Seat 5: magicwlt ( $1250.8 )
+Seat 6: belgrove ( $86.5 )
+Seat 9: mesaman1 ( $1008.95 )
+magicwlt posts small blind [$3].
+belgrove posts big blind [$6].
+** Dealing down cards **
+mesaman1 calls [$6].
+magicwlt folds.
+belgrove raises [$80.5].
+mesaman1 folds.
+** Summary **
+belgrove collected [$95.5].

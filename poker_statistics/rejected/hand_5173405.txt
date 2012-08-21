@@ -1,0 +1,14 @@
+#Game No : 5173405
+***** Pacific Hand History for Game 5173405 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 21:43:27 2006
+Table La Herencia Cubana (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: HadesAA ( $4858 )
+Seat 5: braffer ( $336 )
+HadesAA posts small blind [$10].
+braffer posts big blind [$20].
+** Dealing down cards **
+HadesAA folds.
+** Summary **
+braffer collected [$30].

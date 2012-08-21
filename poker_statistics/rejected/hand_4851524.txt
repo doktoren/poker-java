@@ -1,0 +1,16 @@
+#Game No : 4851524
+***** Pacific Hand History for Game 4851524 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 12:59:54 2006
+Table Flor de los Reyes (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 5: slvrsk8r ( $3868 )
+Seat 8: stephank ( $3303 )
+slvrsk8r posts small blind [$10].
+stephank posts big blind [$20].
+** Dealing down cards **
+slvrsk8r raises [$30].
+stephank raises [$80].
+slvrsk8r folds.
+** Summary **
+stephank collected [$140].

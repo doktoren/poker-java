@@ -1,0 +1,23 @@
+#Game No : 4529449
+***** Pacific Hand History for Game 4529449 *****
+#Game No : 4529459
+***** Pacific Hand History for Game 4529459 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 18:05:04 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: huijgers ( $1190 )
+Seat 7: OBigO ( $1016 )
+OBigO posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+OBigO raises [$25].
+huijgers calls [$20].
+** Dealing Flop ** [ Ah, Js, Jd ]
+huijgers checks.
+OBigO checks.
+** Dealing Turn ** [ 5c ]
+huijgers bets [$50].
+OBigO folds.
+** Summary **
+huijgers collected [$107].

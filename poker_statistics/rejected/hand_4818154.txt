@@ -1,0 +1,16 @@
+#Game No : 4818154
+***** Pacific Hand History for Game 4818154 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 13:02:58 2006
+Table Romeo y Julieta 1875 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: galifian ( $1019.8 )
+Seat 8: Soots ( $333.9 )
+Soots posts small blind [$5].
+galifian posts big blind [$10].
+** Dealing down cards **
+Soots calls [$5].
+galifian raises [$30].
+Soots folds.
+** Summary **
+galifian collected [$50].

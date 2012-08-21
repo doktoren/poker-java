@@ -1,0 +1,25 @@
+#Game No : 4811474
+***** Pacific Hand History for Game 4811474 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 07:09:40 2006
+Table Citron Dream (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 10: DrinkNow ( $600 )
+Seat 4: scsdms1 ( $1359 )
+Seat 5: wooder2 ( $981 )
+Seat 6: bababoo1 ( $890 )
+Seat 9: achi38 ( $255.5 )
+achi38 posts small blind [$5].
+DrinkNow posts big blind [$10].
+** Dealing down cards **
+scsdms1 folds.
+wooder2 folds.
+achi38 raises [$25].
+DrinkNow raises [$50].
+achi38 calls [$30].
+** Dealing Flop ** [ 7c, 6s, 9c ]
+achi38 checks.
+DrinkNow bets [$50].
+achi38 folds.
+** Summary **
+DrinkNow collected [$166].

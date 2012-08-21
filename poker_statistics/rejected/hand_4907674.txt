@@ -1,0 +1,14 @@
+#Game No : 4907674
+***** Pacific Hand History for Game 4907674 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 13 00:40:58 2006
+Table Stout (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: haduken1 ( $190 )
+Seat 7: bobbybo ( $741 )
+bobbybo posts small blind [$5].
+haduken1 posts big blind [$10].
+** Dealing down cards **
+bobbybo folds.
+** Summary **
+haduken1 collected [$15].

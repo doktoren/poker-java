@@ -1,0 +1,40 @@
+#Game No : 5479802
+***** Pacific Hand History for Game 5479802 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 28 01:19:19 2006
+Table Romeo Y Julieta Exhibicion No.4 (Real Money)
+Seat 1 is the button
+Total number of players : 10
+Seat 10: sazeracs ( $3135 )
+Seat 1: vicstorm ( $1475.35 )
+Seat 2: 12cents ( $879.58 )
+Seat 3: jcc88 ( $514 )
+Seat 4: MAP914 ( $560.5 )
+Seat 5: claireee ( $1890 )
+Seat 6: edibben ( $2286 )
+Seat 7: kielbax ( $2545 )
+Seat 8: Chrilles ( $3536 )
+Seat 9: big101 ( $3242 )
+12cents posts small blind [$10].
+jcc88 posts big blind [$20].
+** Dealing down cards **
+MAP914 folds.
+claireee folds.
+edibben folds.
+kielbax folds.
+Chrilles calls [$20].
+big101 folds.
+sazeracs folds.
+12cents folds.
+jcc88 checks.
+** Dealing Flop ** [ 8d, As, Jd ]
+jcc88 checks.
+Chrilles bets [$40].
+jcc88 calls [$40].
+** Dealing Turn ** [ Jh ]
+jcc88 checks.
+Chrilles checks.
+** Dealing River ** [ 2s ]
+jcc88 bets [$20].
+Chrilles folds.
+** Summary **
+jcc88 collected [$146].

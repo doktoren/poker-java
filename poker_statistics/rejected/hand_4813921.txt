@@ -1,0 +1,27 @@
+#Game No : 4813921
+***** Pacific Hand History for Game 4813921 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 09:14:12 2006
+Table Citron Dream (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: P2THEMAX ( $580 )
+Seat 4: marshg ( $829.92 )
+marshg posts small blind [$5].
+P2THEMAX posts big blind [$10].
+** Dealing down cards **
+marshg raises [$15].
+P2THEMAX calls [$10].
+** Dealing Flop ** [ 2c, 2h, 9c ]
+marshg bets [$20].
+P2THEMAX calls [$20].
+** Dealing Turn ** [ 5h ]
+marshg bets [$30].
+P2THEMAX calls [$30].
+** Dealing River ** [ Kc ]
+marshg checks.
+P2THEMAX checks.
+** Summary **
+marshg shows [ As 7c ].
+P2THEMAX shows [ Ac 8d ].
+marshg collected [$68].
+P2THEMAX collected [$68].

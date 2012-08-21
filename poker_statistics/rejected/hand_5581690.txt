@@ -1,0 +1,20 @@
+#Game No : 5581690
+***** Pacific Hand History for Game 5581690 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 30 21:50:13 2006
+Table Jasper (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 10: bollie1 ( $1616.2 )
+Seat 1: logbil ( $758.75 )
+Seat 3: gambitv ( $142 )
+Seat 5: wooder2 ( $384.5 )
+Seat 8: AndMor ( $2108.75 )
+bollie1 posts small blind [$5].
+logbil posts big blind [$10].
+** Dealing down cards **
+wooder2 folds.
+AndMor raises [$35].
+bollie1 folds.
+logbil folds.
+** Summary **
+AndMor collected [$50].

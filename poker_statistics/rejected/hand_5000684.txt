@@ -1,0 +1,14 @@
+#Game No : 5000684
+***** Pacific Hand History for Game 5000684 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 04:17:32 2006
+Table McEwans (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $3925 )
+Seat 4: sarasola ( $1775 )
+fbenoit1 posts small blind [$10].
+sarasola posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+** Summary **
+sarasola collected [$30].

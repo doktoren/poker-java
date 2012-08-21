@@ -1,0 +1,18 @@
+#Game No : 5437557
+***** Pacific Hand History for Game 5437557 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 26 23:56:01 2006
+Table Rafael Gonazales Slenderellas (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 2: RocketsJ ( $946.25 )
+Seat 3: claireee ( $1489.25 )
+Seat 6: logbil ( $1649.5 )
+logbil posts small blind [$5].
+RocketsJ posts big blind [$10].
+** Dealing down cards **
+claireee folds.
+logbil calls [$5].
+RocketsJ raises [$50].
+logbil folds.
+** Summary **
+RocketsJ collected [$70].

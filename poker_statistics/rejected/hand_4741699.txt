@@ -1,0 +1,23 @@
+#Game No : 4741699
+***** Pacific Hand History for Game 4741699 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 03:44:07 2006
+Table Excalibur 1066 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: dgs281 ( $2407.59 )
+Seat 3: kogo9 ( $2554 )
+Seat 4: oaty66 ( $2626 )
+Seat 5: wooder2 ( $2212 )
+Seat 6: shafan ( $830 )
+Seat 7: PacMann ( $2547 )
+dgs281 posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+oaty66 folds.
+wooder2 folds.
+PacMann folds.
+dgs281 calls [$10].
+kogo9 raises [$80].
+dgs281 folds.
+** Summary **
+kogo9 collected [$120].

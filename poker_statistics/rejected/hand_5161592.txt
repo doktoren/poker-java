@@ -1,0 +1,33 @@
+#Game No : 5161592
+***** Pacific Hand History for Game 5161592 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 16:20:53 2006
+Table Baccarat Dominican (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: larbyrd ( $230.5 )
+Seat 4: macsta ( $363.5 )
+Seat 5: zojari ( $1644 )
+Seat 6: bababoo1 ( $1529.5 )
+Seat 7: Kasperis ( $1000 )
+zojari posts small blind [$5].
+bababoo1 posts big blind [$10].
+** Dealing down cards **
+Kasperis calls [$10].
+larbyrd calls [$10].
+macsta folds.
+zojari calls [$5].
+bababoo1 checks.
+bababoo1 checks.
+** Dealing Flop ** [ 7c, Ad, 5h ]
+zojari checks.
+bababoo1 checks.
+Kasperis checks.
+larbyrd checks.
+** Dealing Turn ** [ 10c ]
+zojari checks.
+bababoo1 bets [$30].
+Kasperis folds.
+larbyrd folds.
+zojari folds.
+** Summary **
+bababoo1 collected [$68].

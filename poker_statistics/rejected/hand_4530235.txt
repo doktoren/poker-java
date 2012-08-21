@@ -1,0 +1,18 @@
+#Game No : 4530235
+***** Pacific Hand History for Game 4530235 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 18:34:19 2006
+Table Camacho SLR (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: brkeven ( $818.5 )
+Seat 6: boogjr ( $658 )
+boogjr posts small blind [$5].
+brkeven posts big blind [$10].
+** Dealing down cards **
+boogjr raises [$35].
+brkeven calls [$30].
+** Dealing Flop ** [ 9s, 2c, 6h ]
+boogjr bets [$50].
+brkeven folds.
+** Summary **
+boogjr collected [$126].

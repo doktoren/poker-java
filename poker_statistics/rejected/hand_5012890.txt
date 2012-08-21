@@ -1,0 +1,18 @@
+#Game No : 5012890
+***** Pacific Hand History for Game 5012890 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 15:14:26 2006
+Table Anaconda (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: boogie10 ( $3257 )
+Seat 9: PixFrank ( $1530 )
+PixFrank posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+PixFrank raises [$60].
+boogie10 calls [$50].
+** Dealing Flop ** [ 3d, Kc, 10h ]
+PixFrank bets [$100].
+boogie10 folds.
+** Summary **
+PixFrank collected [$236].

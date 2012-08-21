@@ -1,0 +1,19 @@
+#Game No : 5147090
+***** Pacific Hand History for Game 5147090 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 06:19:59 2006
+Table Molson Excel (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Phatigue ( $2058 )
+Seat 6: arty7799 ( $337 )
+arty7799 posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+arty7799 calls [$10].
+Phatigue checks.
+** Dealing Flop ** [ Ah, 4s, Jd ]
+arty7799 checks.
+Phatigue bets [$35].
+arty7799 folds.
+** Summary **
+Phatigue collected [$73].

@@ -1,0 +1,43 @@
+#Game No : 4733848
+***** Pacific Hand History for Game 4733848 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 07 23:48:43 2006
+Table Sancho Panza Tronquitos (Real Money)
+Seat 10 is the button
+Total number of players : 10
+Seat 10: JM1000 ( $318.5 )
+Seat 1: warbs ( $523.95 )
+Seat 2: veldinho ( $258.35 )
+Seat 3: sucKJs ( $896.25 )
+Seat 4: xxDRBxx ( $661.3 )
+Seat 5: bknd2me ( $762.8 )
+Seat 6: ftct ( $548 )
+Seat 7: DSWoody2 ( $489.8 )
+Seat 8: bitchy11 ( $99.25 )
+Seat 9: KC1966 ( $200 )
+warbs posts small blind [$3].
+veldinho posts big blind [$6].
+KC1966 posts big blind [$6].
+** Dealing down cards **
+sucKJs folds.
+xxDRBxx folds.
+bknd2me calls [$6].
+ftct calls [$6].
+bitchy11 raises [$30].
+KC1966 folds.
+JM1000 folds.
+warbs folds.
+veldinho folds.
+bknd2me folds.
+ftct calls [$24].
+** Dealing Flop ** [ 4d, Jh, 4s ]
+ftct bets [$30].
+bitchy11 raises [$69.25].
+ftct calls [$39.25].
+** Dealing Turn ** [ 6h ]
+** Dealing River ** [ 5h ]
+** Summary **
+ftct shows [ 10c Js ].
+bitchy11 shows [ Jd Ac ].
+ftct shows [ 10c Js ].
+bitchy11 shows [ Jd Ac ].
+bitchy11 collected [$215.5].

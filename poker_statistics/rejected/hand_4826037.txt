@@ -1,0 +1,25 @@
+#Game No : 4826037
+***** Pacific Hand History for Game 4826037 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 10 18:57:54 2006
+Table Churchill Deluxe (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: playboy4 ( $113 )
+Seat 6: bossjefe ( $443.75 )
+bossjefe posts small blind [$3].
+playboy4 posts big blind [$6].
+** Dealing down cards **
+bossjefe calls [$3].
+playboy4 checks.
+** Dealing Flop ** [ Qd, 3c, As ]
+bossjefe checks.
+playboy4 bets [$6].
+bossjefe calls [$6].
+** Dealing Turn ** [ Kh ]
+bossjefe checks.
+playboy4 checks.
+** Dealing River ** [ 4c ]
+bossjefe bets [$21].
+playboy4 folds.
+** Summary **
+bossjefe collected [$43.8].

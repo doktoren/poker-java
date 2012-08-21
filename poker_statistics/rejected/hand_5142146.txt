@@ -1,0 +1,28 @@
+#Game No : 5142146
+***** Pacific Hand History for Game 5142146 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 04:08:18 2006
+Table J.L. Salazar y Hermanos (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 10: PacMann ( $2308 )
+Seat 2: dlvaile ( $674 )
+Seat 3: gpauto ( $747 )
+Seat 4: jnkydawg ( $42 )
+Seat 9: Five8ss ( $1980 )
+Five8ss posts small blind [$10].
+PacMann posts big blind [$20].
+** Dealing down cards **
+dlvaile folds.
+gpauto raises [$40].
+Five8ss calls [$30].
+PacMann folds.
+** Dealing Flop ** [ 4s, 6d, 2s ]
+Five8ss checks.
+gpauto bets [$60].
+Five8ss raises [$240].
+gpauto calls [$180].
+** Dealing Turn ** [ 8d ]
+Five8ss bets [$480].
+gpauto folds.
+** Summary **
+Five8ss collected [$1056].

@@ -1,0 +1,20 @@
+#Game No : 5131761
+***** Pacific Hand History for Game 5131761 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 18 23:49:12 2006
+Table J.L. Salazar y Hermanos (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 2: cps99 ( $1954 )
+Seat 3: vinny76 ( $2779.5 )
+Seat 4: sarasola ( $2539.6 )
+Seat 5: claireee ( $2778 )
+Seat 6: Kasperis ( $2297 )
+sarasola posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+cps99 folds.
+vinny76 raises [$70].
+sarasola folds.
+claireee folds.
+** Summary **
+vinny76 collected [$100].

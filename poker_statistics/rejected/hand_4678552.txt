@@ -1,0 +1,26 @@
+#Game No : 4678552
+***** Pacific Hand History for Game 4678552 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 15:58:02 2006
+Table Jet (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: harikir3 ( $353 )
+Seat 5: elerind ( $643.5 )
+harikir3 posts small blind [$5].
+elerind posts big blind [$10].
+** Dealing down cards **
+harikir3 calls [$5].
+elerind checks.
+** Dealing Flop ** [ 9h, 6h, Qh ]
+harikir3 bets [$10].
+elerind calls [$10].
+** Dealing Turn ** [ 10d ]
+harikir3 bets [$10].
+elerind calls [$10].
+** Dealing River ** [ 5s ]
+harikir3 checks.
+elerind checks.
+** Summary **
+harikir3 shows [ Kh 4c ].
+elerind shows [ 8h 6s ].
+elerind collected [$57].

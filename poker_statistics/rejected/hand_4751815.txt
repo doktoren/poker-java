@@ -1,0 +1,20 @@
+#Game No : 4751815
+***** Pacific Hand History for Game 4751815 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 08 10:50:09 2006
+Table Creamy Orange (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hugo13 ( $1367.05 )
+Seat 6: LAGTARD ( $339 )
+LAGTARD posts small blind [$5].
+hugo13 posts big blind [$10].
+** Dealing down cards **
+LAGTARD raises [$15].
+hugo13 raises [$40].
+LAGTARD calls [$30].
+** Dealing Flop ** [ 9s, 6h, Qh ]
+LAGTARD checks.
+hugo13 bets [$90].
+LAGTARD folds.
+** Summary **
+hugo13 collected [$186].

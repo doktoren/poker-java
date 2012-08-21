@@ -1,0 +1,30 @@
+#Game No : 4788558
+***** Pacific Hand History for Game 4788558 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 09 14:33:20 2006
+Table Romeo y Julieta 1875 (Real Money)
+Seat 8 is the button
+Total number of players : 10
+Seat 10: Kasperis ( $1569.5 )
+Seat 1: R0N7655 ( $663 )
+Seat 2: stephank ( $1007.25 )
+Seat 3: CowGame ( $206 )
+Seat 4: JThomsen ( $1015.25 )
+Seat 5: nocmonky ( $495.56 )
+Seat 6: krisch ( $1859 )
+Seat 7: Plebian ( $203.5 )
+Seat 8: denniso2 ( $1247 )
+Seat 9: galifian ( $851.25 )
+galifian posts small blind [$5].
+Kasperis posts big blind [$10].
+** Dealing down cards **
+stephank folds.
+CowGame folds.
+JThomsen folds.
+nocmonky folds.
+krisch folds.
+Plebian folds.
+denniso2 folds.
+galifian raises [$25].
+Kasperis folds.
+** Summary **
+galifian collected [$40].

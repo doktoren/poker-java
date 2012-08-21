@@ -1,0 +1,25 @@
+#Game No : 5453225
+***** Pacific Hand History for Game 5453225 *****
+#Game No : 5453244
+***** Pacific Hand History for Game 5453244 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 09:09:37 2006
+Table La Rica (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eddiep20 ( $1000 )
+Seat 6: curieu ( $2000 )
+eddiep20 posts small blind [$10].
+curieu posts big blind [$20].
+** Dealing down cards **
+eddiep20 calls [$10].
+curieu raises [$80].
+eddiep20 raises [$980].
+curieu calls [$900].
+** Dealing Flop ** [ 5h, 9s, 4h ]
+** Dealing Turn ** [ Ad ]
+** Dealing River ** [ 4d ]
+** Summary **
+eddiep20 shows [ Ks Kc ].
+curieu shows [ 6h Ah ].
+curieu shows [ 6h Ah ].
+curieu collected [$1996].

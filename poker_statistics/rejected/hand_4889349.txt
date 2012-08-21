@@ -1,0 +1,40 @@
+#Game No : 4889349
+***** Pacific Hand History for Game 4889349 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 12:49:00 2006
+Table Hollandia (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gazza325 ( $997.5 )
+Seat 2: Kasperis ( $2355 )
+Seat 3: nocmonky ( $205 )
+Seat 4: roybox ( $2017.75 )
+Seat 5: bxlefty ( $1027 )
+Seat 8: denniso2 ( $651 )
+denniso2 posts small blind [$5].
+gazza325 posts big blind [$10].
+** Dealing down cards **
+Kasperis calls [$10].
+nocmonky calls [$10].
+roybox folds.
+bxlefty folds.
+denniso2 calls [$5].
+gazza325 checks.
+** Dealing Flop ** [ Qd, 2h, Qh ]
+denniso2 checks.
+gazza325 checks.
+Kasperis checks.
+nocmonky checks.
+** Dealing Turn ** [ 5s ]
+denniso2 checks.
+gazza325 checks.
+Kasperis bets [$30].
+nocmonky folds.
+denniso2 raises [$60].
+gazza325 folds.
+Kasperis calls [$30].
+** Dealing River ** [ Kd ]
+denniso2 bets [$210].
+Kasperis raises [$2285].
+denniso2 folds.
+** Summary **
+Kasperis collected [$2651].

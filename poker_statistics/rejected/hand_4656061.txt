@@ -1,0 +1,14 @@
+#Game No : 4656061
+***** Pacific Hand History for Game 4656061 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 00:43:19 2006
+Table Selenite (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 10: linhos ( $1278.5 )
+Seat 7: krisch ( $1002 )
+linhos posts small blind [$5].
+krisch posts big blind [$10].
+** Dealing down cards **
+linhos folds.
+** Summary **
+krisch collected [$15].

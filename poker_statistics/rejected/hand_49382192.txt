@@ -1,0 +1,51 @@
+#Game No : 49382192
+***** Pacific Hand History for Game 49382192 *****
+$0.05/$0.1 Limit Hold'em - *** 09 06 22:17:33 2006
+Table AVO Signature (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 10: gigant15 ( $2.83 )
+Seat 1: wakeytom ( $5.27 )
+Seat 2: cahsse ( $19.36 )
+Seat 3: DBURGON ( $9.84 )
+Seat 4: BemBen ( $4.8 )
+Seat 5: doktoren ( $0.45 )
+Seat 8: atomek ( $20.55 )
+Seat 9: andida ( $3.49 )
+doktoren posts small blind [$0.02].
+atomek posts big blind [$0.05].
+DBURGON posts big blind [$0.05].
+** Dealing down cards **
+Dealt to doktoren [ 3c Ks ]
+andida calls [$0.05].
+gigant15 folds.
+wakeytom calls [$0.05].
+cahsse folds.
+DBURGON checks.
+BemBen folds.
+doktoren calls [$0.03].
+atomek checks.
+** Dealing Flop ** [ Ad, 2h, 8d ]
+doktoren checks.
+atomek checks.
+andida checks.
+wakeytom checks.
+DBURGON checks.
+** Dealing Turn ** [ Kh ]
+doktoren checks.
+atomek checks.
+andida bets [$0.1].
+wakeytom calls [$0.1].
+DBURGON calls [$0.1].
+doktoren folds.
+atomek calls [$0.1].
+** Dealing River ** [ 10h ]
+atomek checks.
+andida bets [$0.1].
+wakeytom folds.
+DBURGON calls [$0.1].
+atomek folds.
+** Summary **
+andida shows [ Kd 6h ].
+DBURGON mucks.
+andida collected [$0.8].

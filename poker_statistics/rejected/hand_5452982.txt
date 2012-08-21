@@ -1,0 +1,19 @@
+#Game No : 5452982
+***** Pacific Hand History for Game 5452982 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 08:56:53 2006
+Table La Rica (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 2: liclic ( $879.5 )
+Seat 8: atesfull ( $2000 )
+liclic posts small blind [$10].
+atesfull posts big blind [$20].
+** Dealing down cards **
+liclic calls [$10].
+atesfull checks.
+** Dealing Flop ** [ 9h, 4s, Ks ]
+liclic checks.
+atesfull bets [$20].
+liclic folds.
+** Summary **
+atesfull collected [$58].

@@ -1,0 +1,21 @@
+#Game No : 5476567
+***** Pacific Hand History for Game 5476567 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 23:51:52 2006
+Table Guinness Stout (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: zojari ( $2066 )
+Seat 1: jtchamp4 ( $2458 )
+Seat 2: MANDRAKE ( $2609.5 )
+Seat 3: MugOfAle ( $130 )
+Seat 5: dodi114 ( $7900.55 )
+Seat 6: sazeracs ( $2460 )
+jtchamp4 posts small blind [$10].
+MANDRAKE posts big blind [$20].
+** Dealing down cards **
+MugOfAle folds.
+sazeracs folds.
+zojari folds.
+jtchamp4 folds.
+** Summary **
+MANDRAKE collected [$30].

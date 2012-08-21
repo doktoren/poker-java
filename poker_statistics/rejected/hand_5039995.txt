@@ -1,0 +1,20 @@
+#Game No : 5039995
+***** Pacific Hand History for Game 5039995 *****
+#Game No : 5039999
+***** Pacific Hand History for Game 5039999 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 11:03:44 2006
+Table Marsh Wheeling (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 6: kellie03 ( $500 )
+Seat 7: jolly117 ( $1109 )
+Seat 8: Mambobam ( $2258 )
+Mambobam posts small blind [$10].
+kellie03 posts small blind [$10].
+jolly117 posts big blind [$20].
+** Dealing down cards **
+Mambobam raises [$70].
+kellie03 folds.
+jolly117 folds.
+** Summary **
+Mambobam collected [$100].

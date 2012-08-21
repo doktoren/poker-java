@@ -1,0 +1,22 @@
+#Game No : 5584500
+***** Pacific Hand History for Game 5584500 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 30 23:02:35 2006
+Table Jasper (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 10: bollie1 ( $2407.45 )
+Seat 1: logbil ( $1234.5 )
+Seat 6: TILTEAS3 ( $402.5 )
+Seat 7: bt34 ( $853.25 )
+Seat 8: PacMann ( $870 )
+Seat 9: RocketsJ ( $1049.5 )
+PacMann posts small blind [$5].
+RocketsJ posts big blind [$10].
+** Dealing down cards **
+bollie1 folds.
+logbil folds.
+TILTEAS3 raises [$60].
+PacMann folds.
+RocketsJ folds.
+** Summary **
+TILTEAS3 collected [$75].

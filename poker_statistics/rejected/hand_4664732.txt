@@ -1,0 +1,21 @@
+#Game No : 4664732
+***** Pacific Hand History for Game 4664732 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 06:01:12 2006
+Table Excalibur 1066 (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 4: jedi0168 ( $674.5 )
+Seat 5: Jak0007 ( $1986.05 )
+Seat 6: MrPils ( $2822.5 )
+Seat 7: MWT5 ( $2427.5 )
+Seat 8: wkujosh ( $1287.4 )
+Seat 9: boogjr ( $1036 )
+boogjr posts small blind [$10].
+jedi0168 posts big blind [$20].
+** Dealing down cards **
+Jak0007 folds.
+MrPils folds.
+MWT5 folds.
+boogjr folds.
+** Summary **
+jedi0168 collected [$30].

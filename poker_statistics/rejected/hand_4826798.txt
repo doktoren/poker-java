@@ -1,0 +1,19 @@
+#Game No : 4826798
+***** Pacific Hand History for Game 4826798 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 10 19:31:48 2006
+Table Opera (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: langley8 ( $87 )
+Seat 6: bababoo1 ( $594 )
+bababoo1 posts small blind [$3].
+langley8 posts big blind [$6].
+** Dealing down cards **
+bababoo1 calls [$3].
+langley8 checks.
+** Dealing Flop ** [ 2h, 7s, 6c ]
+bababoo1 checks.
+langley8 bets [$6].
+bababoo1 folds.
+** Summary **
+langley8 collected [$17.4].

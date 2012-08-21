@@ -1,0 +1,18 @@
+#Game No : 5386050
+***** Pacific Hand History for Game 5386050 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 18:59:50 2006
+Table Gin and Tonic (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 10: dfinney ( $1492 )
+Seat 1: JayPat00 ( $1480 )
+Seat 5: hugo13 ( $2617.25 )
+Seat 6: braffer ( $260 )
+hugo13 posts small blind [$10].
+braffer posts big blind [$20].
+** Dealing down cards **
+JayPat00 folds.
+hugo13 raises [$70].
+braffer folds.
+** Summary **
+hugo13 collected [$100].

@@ -1,0 +1,39 @@
+#Game No : 13753500
+***** Pacific Hand History for Game 13753500 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 05 14:13:10 2006
+Table CAO Flavours (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 10: KATIE20 ( $449.2 )
+Seat 1: surdilo ( $168 )
+Seat 2: rons76 ( $237.4 )
+Seat 3: Fabila ( $117.4 )
+Seat 4: LETRIP ( $408.05 )
+Seat 5: vman66 ( $191.54 )
+Seat 7: BVP524 ( $344.4 )
+Seat 8: JaymzAce ( $44 )
+Seat 9: pyromid ( $401.2 )
+surdilo posts small blind [$2].
+rons76 posts big blind [$4].
+** Dealing down cards **
+Fabila folds.
+LETRIP folds.
+vman66 calls [$4].
+BVP524 folds.
+JaymzAce folds.
+KATIE20 folds.
+surdilo folds.
+rons76 checks.
+** Dealing Flop ** [ Kd, 4c, Qc ]
+rons76 checks.
+vman66 checks.
+** Dealing Turn ** [ 8c ]
+rons76 bets [$4].
+vman66 calls [$4].
+** Dealing River ** [ Kc ]
+rons76 checks.
+vman66 checks.
+** Summary **
+rons76 shows [ 7d 7h ].
+vman66 shows [ 10d 8d ].
+vman66 collected [$17.1].

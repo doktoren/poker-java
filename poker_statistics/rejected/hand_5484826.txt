@@ -1,0 +1,20 @@
+#Game No : 5484826
+***** Pacific Hand History for Game 5484826 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 28 03:08:32 2006
+Table La Rica (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 10: HadesAA ( $1841 )
+Seat 2: big101 ( $1944 )
+Seat 3: jcc88 ( $817 )
+Seat 4: JSTLRNED ( $1864 )
+Seat 8: nixx23 ( $1809.8 )
+JSTLRNED posts small blind [$10].
+nixx23 posts big blind [$20].
+** Dealing down cards **
+HadesAA raises [$77].
+big101 folds.
+JSTLRNED folds.
+nixx23 folds.
+** Summary **
+HadesAA collected [$107].

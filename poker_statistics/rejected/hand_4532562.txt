@@ -1,0 +1,26 @@
+#Game No : 4532562
+***** Pacific Hand History for Game 4532562 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 02 19:46:42 2006
+Table Sunset Island (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 10: lukeboy ( $1085 )
+Seat 1: volt12 ( $1962 )
+Seat 5: MWT5 ( $2338 )
+Seat 6: dangb ( $1852 )
+Seat 8: Haschis ( $2188.5 )
+Seat 9: dogspot ( $2128 )
+Haschis posts small blind [$10].
+dogspot posts big blind [$20].
+** Dealing down cards **
+lukeboy calls [$20].
+volt12 folds.
+MWT5 folds.
+Haschis folds.
+dogspot checks.
+** Dealing Flop ** [ 5h, 2d, Kh ]
+dogspot checks.
+lukeboy bets [$35].
+dogspot folds.
+** Summary **
+lukeboy collected [$82.5].

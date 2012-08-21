@@ -1,0 +1,32 @@
+#Game No : 4971467
+***** Pacific Hand History for Game 4971467 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 10:38:08 2006
+Table Signature Collection Perdomo (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 10: machx ( $1204.5 )
+Seat 1: M8Me ( $7190 )
+Seat 3: averb810 ( $1634 )
+Seat 6: BIGC0CK ( $5488.15 )
+Seat 7: gazza325 ( $320 )
+Seat 8: Kasperis ( $6434.18 )
+Seat 9: nocmonky ( $342 )
+M8Me posts small blind [$10].
+averb810 posts big blind [$20].
+** Dealing down cards **
+BIGC0CK raises [$80].
+Kasperis calls [$80].
+nocmonky folds.
+machx folds.
+M8Me calls [$70].
+averb810 folds.
+** Dealing Flop ** [ 2d, 10d, 2c ]
+M8Me checks.
+BIGC0CK checks.
+Kasperis checks.
+** Dealing Turn ** [ 4d ]
+M8Me bets [$188].
+BIGC0CK folds.
+Kasperis folds.
+** Summary **
+M8Me collected [$444].

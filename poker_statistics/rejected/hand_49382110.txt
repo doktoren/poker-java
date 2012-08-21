@@ -1,0 +1,43 @@
+#Game No : 49382110
+***** Pacific Hand History for Game 49382110 *****
+$0.05/$0.1 Limit Hold'em - *** 09 06 22:16:29 2006
+Table AVO Signature (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 10: gigant15 ( $2.83 )
+Seat 1: wakeytom ( $5.42 )
+Seat 2: cahsse ( $19.36 )
+Seat 4: BemBen ( $4.58 )
+Seat 5: doktoren ( $0.5 )
+Seat 6: Bichti ( $28.18 )
+Seat 7: HubbieE ( $5.76 )
+Seat 8: atomek ( $20.55 )
+Seat 9: andida ( $3.54 )
+BemBen posts small blind [$0.02].
+doktoren posts big blind [$0.05].
+** Dealing down cards **
+Dealt to doktoren [ 7d 4s ]
+Bichti folds.
+HubbieE folds.
+atomek folds.
+andida calls [$0.05].
+gigant15 folds.
+wakeytom calls [$0.05].
+cahsse folds.
+BemBen calls [$0.03].
+doktoren checks.
+** Dealing Flop ** [ Qh, 7c, 8h ]
+BemBen checks.
+doktoren checks.
+andida checks.
+wakeytom checks.
+** Dealing Turn ** [ 5h ]
+BemBen bets [$0.1].
+doktoren folds.
+andida folds.
+wakeytom calls [$0.1].
+** Dealing River ** [ 5s ]
+BemBen bets [$0.1].
+wakeytom folds.
+** Summary **
+BemBen collected [$0.47].

@@ -1,0 +1,18 @@
+#Game No : 4957864
+***** Pacific Hand History for Game 4957864 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 02:48:04 2006
+Table James Bond Martini (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: boogjr ( $306.5 )
+Seat 8: Saalis ( $2136 )
+Seat 9: jonutenh ( $1890 )
+Saalis posts small blind [$10].
+jonutenh posts big blind [$20].
+** Dealing down cards **
+Saalis raises [$50].
+jonutenh raises [$140].
+Saalis raises [$440].
+jonutenh folds.
+** Summary **
+Saalis collected [$660].

@@ -1,0 +1,15 @@
+#Game No : 4672448
+***** Pacific Hand History for Game 4672448 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 10:52:50 2006
+Table Planters Punch (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kogo9 ( $5837.25 )
+Seat 6: Lydia86 ( $2572 )
+Lydia86 posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+Lydia86 raises [$70].
+kogo9 folds.
+** Summary **
+Lydia86 collected [$100].

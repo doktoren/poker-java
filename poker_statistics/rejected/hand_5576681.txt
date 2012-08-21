@@ -1,0 +1,32 @@
+#Game No : 5576681
+***** Pacific Hand History for Game 5576681 *****
+#Game No : 5576685
+***** Pacific Hand History for Game 5576685 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 30 18:32:36 2006
+Table Jasper (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 3: hiskler ( $1000 )
+Seat 4: Ph1984 ( $120 )
+Seat 5: jentao13 ( $588 )
+Seat 7: lemoche ( $583.75 )
+Seat 8: tballace ( $1000 )
+jentao13 posts small blind [$5].
+lemoche posts small blind [$5].
+tballace posts big blind [$10].
+** Dealing down cards **
+hiskler raises [$30].
+Ph1984 raises [$120].
+jentao13 folds.
+lemoche folds.
+tballace folds.
+hiskler calls [$90].
+** Dealing Flop ** [ 6c, 4s, 2c ]
+** Dealing Turn ** [ 2h ]
+** Dealing River ** [ 6d ]
+** Summary **
+hiskler shows [ Qs Kh ].
+Ph1984 shows [ 6h 6s ].
+hiskler shows [ Qs Kh ].
+Ph1984 shows [ 6h 6s ].
+Ph1984 collected [$251].

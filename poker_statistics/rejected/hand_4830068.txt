@@ -1,0 +1,23 @@
+#Game No : 4830068
+***** Pacific Hand History for Game 4830068 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 21:28:14 2006
+Table Bronx Cocktail (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: MikeBlum ( $985 )
+Seat 3: MrPils ( $1356.75 )
+Seat 4: ZZTop67 ( $641.5 )
+Seat 5: reneok ( $1996 )
+Seat 6: bollie1 ( $1166.25 )
+Seat 7: BLson ( $1209.33 )
+bollie1 posts small blind [$5].
+BLson posts big blind [$10].
+** Dealing down cards **
+MikeBlum folds.
+MrPils folds.
+reneok folds.
+bollie1 calls [$5].
+BLson raises [$30].
+bollie1 folds.
+** Summary **
+BLson collected [$50].

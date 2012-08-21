@@ -1,0 +1,33 @@
+#Game No : 5013126
+***** Pacific Hand History for Game 5013126 *****
+#Game No : 5013475
+***** Pacific Hand History for Game 5013475 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 15:45:42 2006
+Table Anaconda (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 5: stowjon ( $386 )
+Seat 8: macsta ( $2000 )
+macsta posts small blind [$10].
+stowjon posts big blind [$20].
+** Dealing down cards **
+macsta calls [$10].
+stowjon raises [$20].
+macsta calls [$20].
+** Dealing Flop ** [ 3c, 5c, 8s ]
+stowjon bets [$44].
+macsta calls [$44].
+** Dealing Turn ** [ Jh ]
+stowjon bets [$120].
+macsta calls [$120].
+** Dealing River ** [ Kh ]
+stowjon checks.
+macsta bets [$449].
+stowjon calls [$182].
+** Summary **
+stowjon shows [ 7c 7d ].
+macsta shows [ 10c 2c ].
+macsta shows [ 10c 2c ].
+stowjon shows [ 7c 7d ].
+stowjon collected [$768].
+macsta collected [$267].

@@ -1,0 +1,14 @@
+#Game No : 4573271
+***** Pacific Hand History for Game 4573271 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 03 21:32:47 2006
+Table Cuaba Divinos (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 10: Eve69 ( $966 )
+Seat 3: bigflush ( $197 )
+Eve69 posts small blind [$5].
+bigflush posts big blind [$10].
+** Dealing down cards **
+Eve69 folds.
+** Summary **
+bigflush collected [$15].

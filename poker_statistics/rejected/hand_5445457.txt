@@ -1,0 +1,44 @@
+#Game No : 5445457
+***** Pacific Hand History for Game 5445457 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 27 04:16:59 2006
+Table Cranberry Bramble (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 10: hedodave ( $325 )
+Seat 1: TheHazem ( $1516.5 )
+Seat 2: crowba3 ( $1732.5 )
+Seat 3: gpauto ( $488.5 )
+Seat 4: mrlambo ( $250.3 )
+Seat 5: 8675321 ( $267 )
+Seat 6: dlvaile ( $445 )
+Seat 7: Gamble91 ( $1368 )
+Seat 8: sheaf ( $963.5 )
+sheaf posts small blind [$5].
+hedodave posts big blind [$10].
+dlvaile posts dead blind [$5].
+dlvaile posts big blind [$10].
+** Dealing down cards **
+TheHazem raises [$20].
+crowba3 folds.
+gpauto raises [$50].
+8675321 folds.
+dlvaile calls [$40].
+Gamble91 folds.
+sheaf folds.
+hedodave folds.
+TheHazem calls [$30].
+** Dealing Flop ** [ 7s, Jh, 4d ]
+TheHazem checks.
+gpauto bets [$60].
+dlvaile raises [$120].
+TheHazem folds.
+gpauto raises [$378.5].
+dlvaile calls [$270].
+** Dealing Turn ** [ Qd ]
+** Dealing River ** [ 9s ]
+** Summary **
+gpauto shows [ Ah Ad ].
+dlvaile shows [ Jc Ks ].
+gpauto shows [ Ah Ad ].
+gpauto collected [$946].
+gpauto collected [$48.5].

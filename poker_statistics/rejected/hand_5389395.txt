@@ -1,0 +1,50 @@
+#Game No : 5389395
+***** Pacific Hand History for Game 5389395 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 20:43:11 2006
+Table Harpoon Summer (Real Money)
+Seat 1 is the button
+Total number of players : 10
+Seat 10: reneok ( $1954 )
+Seat 1: wooder2 ( $1234.86 )
+Seat 2: mjoy ( $1026 )
+Seat 3: kasperi ( $1923.75 )
+Seat 4: scaffold ( $410.6 )
+Seat 5: fbenoit1 ( $1332 )
+Seat 6: big101 ( $4177 )
+Seat 7: wmwmw ( $1203.82 )
+Seat 8: pneary3 ( $1170.68 )
+Seat 9: MANDRAKE ( $1469.18 )
+mjoy posts small blind [$10].
+kasperi posts big blind [$20].
+reneok posts dead blind [$10].
+reneok posts big blind [$20].
+** Dealing down cards **
+scaffold folds.
+fbenoit1 folds.
+big101 folds.
+wmwmw folds.
+pneary3 calls [$20].
+MANDRAKE folds.
+reneok checks.
+wooder2 folds.
+mjoy calls [$10].
+kasperi checks.
+** Dealing Flop ** [ 8c, 6s, 5d ]
+mjoy checks.
+kasperi checks.
+pneary3 checks.
+reneok checks.
+reneok folds.
+** Dealing Turn ** [ 10c ]
+mjoy checks.
+kasperi checks.
+pneary3 checks.
+** Dealing River ** [ Js ]
+mjoy checks.
+kasperi checks.
+pneary3 checks.
+** Summary **
+mjoy shows [ Qs 2s ].
+kasperi shows [ 7d 8s ].
+pneary3 mucks.
+kasperi collected [$86].

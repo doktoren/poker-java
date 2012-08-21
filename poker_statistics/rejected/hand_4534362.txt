@@ -1,0 +1,41 @@
+#Game No : 4534362
+***** Pacific Hand History for Game 4534362 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 02 20:48:19 2006
+Table Torano Rum Rumba (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 10: mjoy ( $639.58 )
+Seat 2: timotas ( $273 )
+Seat 4: TinyTnks ( $288.35 )
+Seat 6: dm59 ( $1456.2 )
+Seat 7: Kasperis ( $611.1 )
+Seat 8: boogjr ( $413.55 )
+TinyTnks posts small blind [$3].
+dm59 posts big blind [$6].
+** Dealing down cards **
+Kasperis calls [$6].
+mjoy calls [$6].
+timotas folds.
+TinyTnks calls [$3].
+dm59 checks.
+** Dealing Flop ** [ As, 7s, Qd ]
+TinyTnks checks.
+dm59 checks.
+Kasperis checks.
+mjoy checks.
+** Dealing Turn ** [ 9h ]
+TinyTnks checks.
+dm59 checks.
+Kasperis checks.
+mjoy checks.
+** Dealing River ** [ 4c ]
+TinyTnks checks.
+dm59 checks.
+Kasperis checks.
+mjoy checks.
+** Summary **
+TinyTnks shows [ Jh 3h ].
+dm59 shows [ 4d 2c ].
+Kasperis shows [ 5h 5c ].
+mjoy shows [ 8h 8s ].
+mjoy collected [$22.8].

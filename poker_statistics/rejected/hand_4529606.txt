@@ -1,0 +1,25 @@
+#Game No : 4529606
+***** Pacific Hand History for Game 4529606 *****
+#Game No : 4530174
+***** Pacific Hand History for Game 4530174 *****
+#Game No : 4530263
+***** Pacific Hand History for Game 4530263 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 18:35:08 2006
+Table Kamikaze (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: qtee1 ( $1000 )
+Seat 6: ski04 ( $1000 )
+ski04 posts small blind [$5].
+qtee1 posts big blind [$10].
+** Dealing down cards **
+ski04 calls [$5].
+qtee1 checks.
+** Dealing Flop ** [ Jd, Js, Kd ]
+qtee1 checks.
+ski04 checks.
+** Dealing Turn ** [ 9d ]
+qtee1 bets [$10].
+ski04 folds.
+** Summary **
+qtee1 collected [$29].

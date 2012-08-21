@@ -1,0 +1,23 @@
+#Game No : 15480838
+***** Pacific Hand History for Game 15480838 *****
+$1/$2 Blinds No Limit Hold'em - *** 09 30 21:26:48 2006
+Table Old Fashioned (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: doktoren ( $157.41 )
+Seat 6: nertoft ( $47.8 )
+nertoft posts small blind [$1].
+doktoren posts big blind [$2].
+** Dealing down cards **
+Dealt to doktoren [ 7c 3c ]
+nertoft calls [$1].
+doktoren checks.
+** Dealing Flop ** [ 2h, 5s, Ks ]
+nertoft checks.
+doktoren checks.
+** Dealing Turn ** [ 7s ]
+nertoft checks.
+doktoren bets [$2].
+nertoft folds.
+** Summary **
+doktoren collected [$5.8].

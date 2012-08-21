@@ -1,0 +1,23 @@
+#Game No : 5267117
+***** Pacific Hand History for Game 5267117 *****
+#Game No : 5267513
+***** Pacific Hand History for Game 5267513 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 22 10:22:51 2006
+Table Happy Hawaiian (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: boogie10 ( $2000 )
+Seat 5: oreida ( $800 )
+boogie10 posts small blind [$10].
+oreida posts big blind [$20].
+** Dealing down cards **
+boogie10 raises [$70].
+oreida calls [$60].
+** Dealing Flop ** [ 6c, 8h, 4d ]
+oreida checks.
+boogie10 checks.
+** Dealing Turn ** [ 2h ]
+oreida bets [$180].
+boogie10 folds.
+** Summary **
+oreida collected [$336].

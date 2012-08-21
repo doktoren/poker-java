@@ -1,0 +1,14 @@
+#Game No : 5225455
+***** Pacific Hand History for Game 5225455 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 06:20:57 2006
+Table Gallouzo Splash (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Gabfield ( $3741.5 )
+Seat 6: huijgers ( $1930 )
+Gabfield posts small blind [$10].
+huijgers posts big blind [$20].
+** Dealing down cards **
+Gabfield folds.
+** Summary **
+huijgers collected [$30].

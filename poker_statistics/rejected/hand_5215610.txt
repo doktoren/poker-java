@@ -1,0 +1,21 @@
+#Game No : 5215610
+***** Pacific Hand History for Game 5215610 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 21 01:14:41 2006
+Table Fidels (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: claireee ( $2270.25 )
+Seat 3: zukula ( $261.92 )
+zukula posts small blind [$5].
+claireee posts big blind [$10].
+** Dealing down cards **
+zukula calls [$5].
+claireee checks.
+** Dealing Flop ** [ Kd, Kc, 10d ]
+zukula checks.
+claireee checks.
+** Dealing Turn ** [ 7d ]
+zukula bets [$20].
+claireee folds.
+** Summary **
+zukula collected [$39].

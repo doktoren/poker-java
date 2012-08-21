@@ -1,0 +1,26 @@
+#Game No : 5161421
+***** Pacific Hand History for Game 5161421 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 16:16:16 2006
+Table Punch Gran Puro (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: lukeboy ( $879 )
+Seat 6: jeter323 ( $2000 )
+lukeboy posts small blind [$10].
+jeter323 posts big blind [$20].
+** Dealing down cards **
+lukeboy calls [$10].
+jeter323 checks.
+** Dealing Flop ** [ 2s, Jd, 6s ]
+lukeboy checks.
+jeter323 checks.
+** Dealing Turn ** [ Ad ]
+lukeboy checks.
+jeter323 checks.
+** Dealing River ** [ Kh ]
+lukeboy checks.
+jeter323 checks.
+** Summary **
+lukeboy shows [ 8h 3h ].
+jeter323 shows [ 9s Qc ].
+jeter323 collected [$38].

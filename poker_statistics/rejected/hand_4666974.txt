@@ -1,0 +1,36 @@
+#Game No : 4666974
+***** Pacific Hand History for Game 4666974 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 07:25:50 2006
+Table Pearl (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 2: MrPils ( $2729.77 )
+Seat 3: dgs281 ( $2170.44 )
+Seat 4: stvdale ( $715.25 )
+Seat 5: weiser2 ( $171.5 )
+Seat 6: PacMann ( $1146.77 )
+Seat 7: achi38 ( $100 )
+PacMann posts small blind [$5].
+achi38 posts big blind [$10].
+** Dealing down cards **
+MrPils folds.
+dgs281 calls [$10].
+stvdale raises [$20].
+weiser2 calls [$20].
+PacMann folds.
+achi38 calls [$10].
+dgs281 calls [$10].
+** Dealing Flop ** [ 6s, 4c, Kc ]
+achi38 checks.
+dgs281 checks.
+dgs281 checks.
+stvdale bets [$10].
+weiser2 raises [$30].
+achi38 calls [$30].
+dgs281 folds.
+stvdale folds.
+** Dealing Turn ** [ 9h ]
+achi38 bets [$50].
+weiser2 folds.
+** Summary **
+achi38 collected [$201].

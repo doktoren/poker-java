@@ -1,0 +1,20 @@
+#Game No : 15124845
+***** Pacific Hand History for Game 15124845 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 21 13:35:17 2006
+Table Silver Stallion (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: theison2 ( $174.1 )
+Seat 5: AndMor ( $431.7 )
+Seat 6: jentao13 ( $495.6 )
+Seat 7: gazza325 ( $381.15 )
+Seat 9: Smedster ( $476.6 )
+theison2 posts small blind [$2].
+AndMor posts big blind [$4].
+** Dealing down cards **
+jentao13 folds.
+Smedster raises [$13].
+theison2 folds.
+AndMor folds.
+** Summary **
+Smedster collected [$19].

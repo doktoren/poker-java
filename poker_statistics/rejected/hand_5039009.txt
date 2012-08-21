@@ -1,0 +1,16 @@
+#Game No : 5039009
+***** Pacific Hand History for Game 5039009 *****
+#Game No : 5039010
+***** Pacific Hand History for Game 5039010 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 09:46:03 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kogo9 ( $2000 )
+Seat 6: jwill950 ( $2000 )
+jwill950 posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+jwill950 folds.
+** Summary **
+kogo9 collected [$30].

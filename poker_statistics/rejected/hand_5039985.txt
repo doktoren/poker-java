@@ -1,0 +1,18 @@
+#Game No : 5039985
+***** Pacific Hand History for Game 5039985 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 11:02:25 2006
+Table Marsh Wheeling (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 5: eliasd ( $1646 )
+Seat 8: Mambobam ( $1980 )
+eliasd posts small blind [$10].
+Mambobam posts big blind [$20].
+** Dealing down cards **
+eliasd raises [$30].
+Mambobam calls [$20].
+** Dealing Flop ** [ As, 3d, 7s ]
+eliasd bets [$47].
+Mambobam folds.
+** Summary **
+eliasd collected [$123].

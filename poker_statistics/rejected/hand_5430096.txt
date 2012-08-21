@@ -1,0 +1,48 @@
+#Game No : 5430096
+***** Pacific Hand History for Game 5430096 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 26 20:02:57 2006
+Table Cranberry Bramble (Real Money)
+Seat 6 is the button
+Total number of players : 10
+Seat 10: zojari ( $1032.5 )
+Seat 1: logbil ( $826.86 )
+Seat 2: bird1900 ( $259.28 )
+Seat 3: JayPat00 ( $1071 )
+Seat 4: galifian ( $955 )
+Seat 5: holdi12 ( $334.5 )
+Seat 6: vicstorm ( $732.4 )
+Seat 7: ace1142 ( $250.2 )
+Seat 8: lou2k1 ( $119 )
+Seat 9: Eve69 ( $895 )
+ace1142 posts small blind [$5].
+lou2k1 posts big blind [$10].
+** Dealing down cards **
+Eve69 calls [$10].
+zojari folds.
+logbil folds.
+bird1900 folds.
+JayPat00 folds.
+galifian folds.
+holdi12 calls [$10].
+ace1142 calls [$5].
+lou2k1 checks.
+** Dealing Flop ** [ 8s, Ah, 4s ]
+ace1142 bets [$10].
+lou2k1 folds.
+Eve69 folds.
+holdi12 calls [$10].
+** Dealing Turn ** [ 5c ]
+ace1142 bets [$20].
+holdi12 calls [$20].
+** Dealing River ** [ 6h ]
+ace1142 bets [$60].
+holdi12 raises [$120].
+ace1142 raises [$150.2].
+holdi12 calls [$90.2].
+** Summary **
+holdi12 shows [ Ac 7h ].
+ace1142 shows [ Ad 7c ].
+ace1142 shows [ Ad 7c ].
+holdi12 shows [ Ac 7h ].
+ace1142 collected [$258.2].
+holdi12 collected [$258.2].

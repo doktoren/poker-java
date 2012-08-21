@@ -1,0 +1,24 @@
+#Game No : 4552561
+***** Pacific Hand History for Game 4552561 *****
+#Game No : 4552607
+***** Pacific Hand History for Game 4552607 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 03 06:52:44 2006
+Table Sunset Island (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: neekage ( $200 )
+Seat 9: Phatigue ( $2930 )
+neekage posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+neekage calls [$10].
+Phatigue checks.
+** Dealing Flop ** [ Ah, 5s, Qs ]
+Phatigue checks.
+neekage bets [$20].
+Phatigue calls [$20].
+** Dealing Turn ** [ 9d ]
+Phatigue bets [$77].
+neekage folds.
+** Summary **
+Phatigue collected [$153].

@@ -1,0 +1,16 @@
+#Game No : 5375462
+***** Pacific Hand History for Game 5375462 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 25 09:41:52 2006
+Table Michelob Light (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bollie1 ( $1553.25 )
+Seat 3: TinyTnks ( $648.75 )
+TinyTnks posts small blind [$5].
+bollie1 posts big blind [$10].
+** Dealing down cards **
+TinyTnks calls [$5].
+bollie1 raises [$30].
+TinyTnks folds.
+** Summary **
+bollie1 collected [$50].

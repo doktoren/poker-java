@@ -1,0 +1,26 @@
+#Game No : 4968604
+***** Pacific Hand History for Game 4968604 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 08:17:37 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 10: kachingo ( $591 )
+Seat 1: BIGC0CK ( $38342.7 )
+Seat 2: M8Me ( $2422 )
+Seat 5: hugo13 ( $2105.5 )
+Seat 6: Squamou ( $304.4 )
+kachingo posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+M8Me folds.
+hugo13 folds.
+kachingo calls [$10].
+BIGC0CK checks.
+** Dealing Flop ** [ 3s, 5h, 8d ]
+kachingo bets [$20].
+BIGC0CK calls [$20].
+** Dealing Turn ** [ 7c ]
+kachingo bets [$80].
+BIGC0CK folds.
+** Summary **
+kachingo collected [$156].

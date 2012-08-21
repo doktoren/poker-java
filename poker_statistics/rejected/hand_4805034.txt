@@ -1,0 +1,41 @@
+#Game No : 4805034
+***** Pacific Hand History for Game 4805034 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 02:48:26 2006
+Table Romeo y Julieta 1875 (Real Money)
+Seat 6 is the button
+Total number of players : 10
+Seat 10: onsided ( $1683.33 )
+Seat 1: dc0214 ( $344.78 )
+Seat 2: Kasperis ( $2423.75 )
+Seat 3: bknd2me ( $1471.25 )
+Seat 4: MIKEBLUM ( $2942 )
+Seat 5: AceKckr ( $175.94 )
+Seat 6: JThomsen ( $2893.2 )
+Seat 7: KYTFO ( $471 )
+Seat 8: Flamez13 ( $2055 )
+Seat 9: amdrawin ( $211.5 )
+KYTFO posts small blind [$5].
+Flamez13 posts big blind [$10].
+** Dealing down cards **
+amdrawin folds.
+dc0214 folds.
+Kasperis folds.
+bknd2me folds.
+MIKEBLUM folds.
+AceKckr folds.
+JThomsen folds.
+KYTFO calls [$5].
+Flamez13 checks.
+** Dealing Flop ** [ 3c, 2s, Ah ]
+KYTFO checks.
+Flamez13 checks.
+** Dealing Turn ** [ 7c ]
+KYTFO checks.
+Flamez13 checks.
+** Dealing River ** [ 7h ]
+KYTFO checks.
+Flamez13 checks.
+** Summary **
+KYTFO shows [ Qc Jh ].
+Flamez13 shows [ 2h 4c ].
+Flamez13 collected [$19].

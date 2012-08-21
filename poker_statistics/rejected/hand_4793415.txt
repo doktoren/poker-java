@@ -1,0 +1,15 @@
+#Game No : 4793415
+***** Pacific Hand History for Game 4793415 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 09 19:03:13 2006
+Table Acapulco (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: zumph ( $1970 )
+Seat 8: fbenoit1 ( $3840.8 )
+fbenoit1 posts small blind [$10].
+zumph posts big blind [$20].
+** Dealing down cards **
+fbenoit1 raises [$50].
+zumph folds.
+** Summary **
+fbenoit1 collected [$80].

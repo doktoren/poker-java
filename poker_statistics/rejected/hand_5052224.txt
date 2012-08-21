@@ -1,0 +1,14 @@
+#Game No : 5052224
+***** Pacific Hand History for Game 5052224 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 22:16:31 2006
+Table Marsh Wheeling (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 7: Phatigue ( $4081.6 )
+Seat 8: NLPoker ( $1970 )
+Phatigue posts small blind [$10].
+NLPoker posts big blind [$20].
+** Dealing down cards **
+Phatigue folds.
+** Summary **
+NLPoker collected [$30].

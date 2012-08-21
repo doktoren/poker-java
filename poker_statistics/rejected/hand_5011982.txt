@@ -1,0 +1,14 @@
+#Game No : 5011982
+***** Pacific Hand History for Game 5011982 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 14:08:51 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MANDRAKE ( $471 )
+Seat 7: boogie10 ( $3201 )
+boogie10 posts small blind [$10].
+MANDRAKE posts big blind [$20].
+** Dealing down cards **
+boogie10 folds.
+** Summary **
+MANDRAKE collected [$30].

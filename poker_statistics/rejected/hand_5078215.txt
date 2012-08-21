@@ -1,0 +1,27 @@
+#Game No : 5078215
+***** Pacific Hand History for Game 5078215 *****
+#Game No : 5078599
+***** Pacific Hand History for Game 5078599 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 16:37:16 2006
+Table Marsh Wheeling (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: skellyb ( $2000 )
+Seat 6: jeter323 ( $2000 )
+jeter323 posts small blind [$10].
+skellyb posts big blind [$20].
+** Dealing down cards **
+jeter323 calls [$10].
+skellyb checks.
+** Dealing Flop ** [ 8d, 3d, Qc ]
+skellyb checks.
+jeter323 checks.
+** Dealing Turn ** [ 10c ]
+skellyb checks.
+jeter323 checks.
+** Dealing River ** [ 4c ]
+skellyb checks.
+jeter323 bets [$40].
+skellyb folds.
+** Summary **
+jeter323 collected [$78].

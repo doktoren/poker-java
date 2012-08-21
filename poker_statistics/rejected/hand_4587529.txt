@@ -1,0 +1,38 @@
+#Game No : 4587529
+***** Pacific Hand History for Game 4587529 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 04:04:45 2006
+Table Hennepin Ale (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 10: kogo9 ( $1879.35 )
+Seat 1: ME4KINGU ( $460.5 )
+Seat 3: JM1000 ( $1069.63 )
+Seat 4: jefbond ( $132.8 )
+Seat 5: avane ( $257.19 )
+Seat 8: zojari ( $946 )
+jefbond posts small blind [$5].
+avane posts big blind [$10].
+** Dealing down cards **
+zojari raises [$40].
+kogo9 calls [$40].
+JM1000 folds.
+jefbond calls [$35].
+avane calls [$30].
+** Dealing Flop ** [ Kc, 7c, 5h ]
+jefbond checks.
+avane checks.
+zojari checks.
+kogo9 checks.
+** Dealing Turn ** [ 4s ]
+jefbond checks.
+avane bets [$30].
+zojari folds.
+kogo9 calls [$30].
+jefbond folds.
+** Dealing River ** [ 9c ]
+avane bets [$30].
+kogo9 calls [$30].
+** Summary **
+avane shows [ 10s 6s ].
+kogo9 shows [ 6d 6c ].
+kogo9 collected [$276].

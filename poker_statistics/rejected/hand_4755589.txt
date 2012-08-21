@@ -1,0 +1,24 @@
+#Game No : 4755589
+***** Pacific Hand History for Game 4755589 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 08 15:19:47 2006
+Table Creamy Orange (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: swejonte ( $1223 )
+Seat 9: Eve69 ( $894 )
+swejonte posts small blind [$5].
+Eve69 posts big blind [$10].
+** Dealing down cards **
+swejonte calls [$5].
+Eve69 checks.
+** Dealing Flop ** [ 3d, Ks, 6s ]
+swejonte checks.
+Eve69 checks.
+** Dealing Turn ** [ 8s ]
+swejonte bets [$10].
+Eve69 calls [$10].
+** Dealing River ** [ 5c ]
+swejonte bets [$10].
+Eve69 folds.
+** Summary **
+swejonte collected [$48].

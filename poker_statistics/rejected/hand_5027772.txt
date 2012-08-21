@@ -1,0 +1,27 @@
+#Game No : 5027772
+***** Pacific Hand History for Game 5027772 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 01:21:33 2006
+Table McEwans (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 10: M8Me ( $1990 )
+Seat 1: kielbax ( $2638 )
+Seat 2: bgpmp ( $2278 )
+Seat 3: MANDRAKE ( $2858 )
+Seat 4: dangb ( $804 )
+Seat 5: dgs281 ( $2898 )
+Seat 6: CPS99 ( $806 )
+Seat 7: salsolo ( $548 )
+Seat 8: Lmpn ( $2187 )
+kielbax posts small blind [$10].
+bgpmp posts big blind [$20].
+** Dealing down cards **
+MANDRAKE folds.
+dgs281 folds.
+CPS99 folds.
+salsolo folds.
+Lmpn folds.
+M8Me folds.
+kielbax folds.
+** Summary **
+bgpmp collected [$30].

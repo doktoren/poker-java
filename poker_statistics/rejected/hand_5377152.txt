@@ -1,0 +1,38 @@
+#Game No : 5377152
+***** Pacific Hand History for Game 5377152 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 25 11:43:09 2006
+Table Shamira (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: muralt ( $339.13 )
+Seat 2: henry47x ( $787.64 )
+Seat 3: CowGame ( $321 )
+Seat 4: stephank ( $1302 )
+Seat 5: mrgstr ( $2821.93 )
+Seat 6: gotvoip ( $945 )
+Seat 8: pyromid ( $1000 )
+Seat 9: matte87 ( $198.5 )
+stephank posts small blind [$5].
+mrgstr posts big blind [$10].
+** Dealing down cards **
+gotvoip folds.
+pyromid raises [$40].
+matte87 folds.
+henry47x folds.
+CowGame folds.
+stephank folds.
+mrgstr calls [$30].
+** Dealing Flop ** [ 8c, 6s, 2d ]
+mrgstr checks.
+pyromid bets [$60].
+mrgstr calls [$60].
+** Dealing Turn ** [ 5h ]
+mrgstr checks.
+pyromid checks.
+** Dealing River ** [ As ]
+mrgstr bets [$100].
+pyromid calls [$100].
+** Summary **
+mrgstr shows [ Ah Jd ].
+pyromid shows [ Kh Ad ].
+pyromid collected [$401].

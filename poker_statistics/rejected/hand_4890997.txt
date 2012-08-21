@@ -1,0 +1,31 @@
+#Game No : 4890997
+***** Pacific Hand History for Game 4890997 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 14:04:02 2006
+Table Hollandia (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 10: bluff006 ( $355 )
+Seat 1: gazza325 ( $1030.5 )
+Seat 2: Kasperis ( $2732.75 )
+Seat 4: roybox ( $1890.25 )
+Seat 5: mvx04 ( $1000 )
+Seat 6: sucKJs ( $2036 )
+Seat 7: pescator ( $715 )
+Seat 9: muckfish ( $1344 )
+muckfish posts small blind [$5].
+bluff006 posts big blind [$10].
+roybox posts dead blind [$5].
+roybox posts big blind [$10].
+mvx04 posts big blind [$10].
+** Dealing down cards **
+Kasperis folds.
+roybox checks.
+mvx04 checks.
+sucKJs folds.
+pescator raises [$70].
+muckfish folds.
+bluff006 folds.
+roybox folds.
+mvx04 folds.
+** Summary **
+pescator collected [$110].

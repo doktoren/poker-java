@@ -1,0 +1,27 @@
+#Game No : 5487617
+***** Pacific Hand History for Game 5487617 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 28 04:33:47 2006
+Table Guinness Stout (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: miniphat ( $876 )
+Seat 9: big101 ( $5422.35 )
+miniphat posts small blind [$10].
+big101 posts big blind [$20].
+** Dealing down cards **
+miniphat raises [$30].
+big101 calls [$20].
+** Dealing Flop ** [ 2c, Qc, 3c ]
+miniphat checks.
+big101 bets [$50].
+miniphat calls [$50].
+** Dealing Turn ** [ As ]
+miniphat checks.
+big101 checks.
+** Dealing River ** [ Ah ]
+miniphat bets [$20].
+big101 calls [$20].
+** Summary **
+miniphat shows [ 10c 10s ].
+big101 mucks.
+miniphat collected [$216].

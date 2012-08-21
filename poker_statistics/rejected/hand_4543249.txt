@@ -1,0 +1,23 @@
+#Game No : 4543249
+***** Pacific Hand History for Game 4543249 *****
+#Game No : 4543626
+***** Pacific Hand History for Game 4543626 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 03 02:15:06 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: andyb37 ( $364 )
+Seat 6: jeter323 ( $1000 )
+jeter323 posts small blind [$5].
+andyb37 posts big blind [$10].
+** Dealing down cards **
+jeter323 raises [$25].
+andyb37 calls [$20].
+** Dealing Flop ** [ 9s, Ks, Qs ]
+andyb37 bets [$49].
+jeter323 calls [$49].
+** Dealing Turn ** [ 6s ]
+andyb37 bets [$181].
+jeter323 folds.
+** Summary **
+andyb37 collected [$335].

@@ -1,0 +1,29 @@
+#Game No : 4554169
+***** Pacific Hand History for Game 4554169 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 03 07:54:41 2006
+Table Black Eyed Susan (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: Phatigue ( $4106 )
+Seat 2: mmkim86 ( $429.3 )
+Seat 3: 123geman ( $989.56 )
+Seat 4: kachingo ( $1819.5 )
+Seat 6: Haschis ( $3310.5 )
+Seat 7: shumaya1 ( $2630.5 )
+Seat 9: demonbo2 ( $1075 )
+Haschis posts small blind [$10].
+shumaya1 posts big blind [$20].
+** Dealing down cards **
+demonbo2 calls [$20].
+Phatigue raises [$100].
+123geman calls [$100].
+kachingo folds.
+Haschis folds.
+shumaya1 folds.
+demonbo2 folds.
+** Dealing Flop ** [ 2c, 7s, Jc ]
+Phatigue bets [$130].
+123geman raises [$260].
+Phatigue folds.
+** Summary **
+123geman collected [$636].

@@ -1,0 +1,21 @@
+#Game No : 5032844
+***** Pacific Hand History for Game 5032844 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 05:11:51 2006
+Table Havannah (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jwill950 ( $1602.75 )
+Seat 5: iftapias ( $624.27 )
+iftapias posts small blind [$5].
+jwill950 posts big blind [$10].
+** Dealing down cards **
+iftapias calls [$5].
+jwill950 checks.
+** Dealing Flop ** [ Ad, Jd, 5h ]
+iftapias checks.
+jwill950 checks.
+** Dealing Turn ** [ 4d ]
+iftapias bets [$72].
+jwill950 folds.
+** Summary **
+iftapias collected [$91].

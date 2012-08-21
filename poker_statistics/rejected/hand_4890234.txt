@@ -1,0 +1,22 @@
+#Game No : 4890234
+***** Pacific Hand History for Game 4890234 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 13:29:45 2006
+Table Gilligans Island (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 24seven ( $563.65 )
+Seat 9: flopah ( $1082 )
+flopah posts small blind [$5].
+24seven posts big blind [$10].
+** Dealing down cards **
+flopah calls [$5].
+24seven checks.
+** Dealing Flop ** [ 4s, 8s, 2h ]
+flopah checks.
+24seven checks.
+** Dealing Turn ** [ Jh ]
+flopah checks.
+24seven bets [$10].
+flopah folds.
+** Summary **
+24seven collected [$29].

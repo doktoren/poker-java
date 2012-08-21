@@ -1,0 +1,36 @@
+#Game No : 5212898
+***** Pacific Hand History for Game 5212898 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 00:09:09 2006
+Table Tootsie Roll (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: dogspot ( $2855 )
+Seat 2: 2500 ( $1830 )
+Seat 4: skellyb ( $6484.5 )
+Seat 6: kololina ( $3944 )
+Seat 7: jtchamp4 ( $842 )
+Seat 9: Phatigue ( $7466.06 )
+dogspot posts small blind [$10].
+2500 posts big blind [$20].
+** Dealing down cards **
+kololina calls [$20].
+jtchamp4 calls [$20].
+Phatigue folds.
+dogspot folds.
+2500 checks.
+** Dealing Flop ** [ Kc, 3c, Qh ]
+2500 checks.
+kololina checks.
+jtchamp4 bets [$60].
+2500 folds.
+kololina calls [$60].
+** Dealing Turn ** [ 4s ]
+kololina checks.
+jtchamp4 checks.
+** Dealing River ** [ Js ]
+kololina checks.
+jtchamp4 checks.
+** Summary **
+kololina shows [ Qs 7h ].
+jtchamp4 shows [ 9d Qc ].
+jtchamp4 collected [$186].

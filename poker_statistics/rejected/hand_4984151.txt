@@ -1,0 +1,18 @@
+#Game No : 4984151
+***** Pacific Hand History for Game 4984151 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 14 20:44:31 2006
+Table Gurkha Centurian Double-X (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kielbax ( $1003.75 )
+Seat 2: mjoy ( $1255 )
+mjoy posts small blind [$5].
+kielbax posts big blind [$10].
+** Dealing down cards **
+mjoy calls [$5].
+kielbax checks.
+** Dealing Flop ** [ Qd, Ad, 3h ]
+mjoy bets [$10].
+kielbax folds.
+** Summary **
+mjoy collected [$29].

@@ -1,0 +1,23 @@
+#Game No : 4595881
+***** Pacific Hand History for Game 4595881 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 11:33:49 2006
+Table Amethyst (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 10: Enecosse ( $848 )
+Seat 1: flopah ( $1501.72 )
+Seat 2: TinyTnks ( $1787 )
+Seat 8: skellyb ( $2159 )
+Seat 9: MWT5 ( $5921.5 )
+Enecosse posts small blind [$10].
+flopah posts big blind [$20].
+** Dealing down cards **
+TinyTnks folds.
+MWT5 folds.
+Enecosse calls [$10].
+flopah checks.
+** Dealing Flop ** [ 7c, Js, 8h ]
+Enecosse bets [$40].
+flopah folds.
+** Summary **
+Enecosse collected [$78].

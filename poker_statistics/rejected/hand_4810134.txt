@@ -1,0 +1,31 @@
+#Game No : 4810134
+***** Pacific Hand History for Game 4810134 *****
+#Game No : 4814079
+***** Pacific Hand History for Game 4814079 *****
+#Game No : 4816517
+***** Pacific Hand History for Game 4816517 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 11:43:08 2006
+Table Acapulco (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: bobb0704 ( $1000 )
+Seat 6: scsdms1 ( $2000 )
+bobb0704 posts small blind [$10].
+scsdms1 posts big blind [$20].
+** Dealing down cards **
+bobb0704 raises [$30].
+scsdms1 calls [$20].
+** Dealing Flop ** [ Qc, Ah, 5c ]
+scsdms1 checks.
+bobb0704 bets [$20].
+scsdms1 calls [$20].
+** Dealing Turn ** [ 9s ]
+scsdms1 checks.
+bobb0704 bets [$20].
+scsdms1 raises [$100].
+bobb0704 calls [$80].
+** Dealing River ** [ 6h ]
+scsdms1 bets [$280].
+bobb0704 folds.
+** Summary **
+scsdms1 collected [$596].

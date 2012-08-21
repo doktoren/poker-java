@@ -1,0 +1,44 @@
+#Game No : 4860876
+***** Pacific Hand History for Game 4860876 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 19:58:35 2006
+Table Tigers Milk (Real Money)
+Seat 7 is the button
+Total number of players : 10
+Seat 10: AceKckr ( $567.5 )
+Seat 1: mjoy ( $990 )
+Seat 2: kavaler ( $77.5 )
+Seat 3: shel48 ( $413.5 )
+Seat 4: TheFist2 ( $1131 )
+Seat 5: kiyoshi8 ( $2093.25 )
+Seat 6: niteboy ( $210.25 )
+Seat 7: dc0214 ( $1979.75 )
+Seat 8: machx ( $693.5 )
+Seat 9: Kasperis ( $1208.5 )
+machx posts small blind [$5].
+Kasperis posts big blind [$10].
+** Dealing down cards **
+AceKckr folds.
+mjoy folds.
+kavaler calls [$10].
+TheFist2 folds.
+kiyoshi8 folds.
+niteboy folds.
+dc0214 folds.
+machx calls [$5].
+Kasperis checks.
+** Dealing Flop ** [ 10s, 9s, 6h ]
+machx checks.
+Kasperis checks.
+kavaler bets [$30].
+machx calls [$30].
+Kasperis folds.
+** Dealing Turn ** [ 3d ]
+machx checks.
+kavaler bets [$37.5].
+machx calls [$37.5].
+** Dealing River ** [ Ks ]
+** Summary **
+kavaler shows [ Kd Kc ].
+machx shows [ Qh Jc ].
+machx shows [ Qh Jc ].
+machx collected [$161].

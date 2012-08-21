@@ -1,0 +1,22 @@
+#Game No : 4912453
+***** Pacific Hand History for Game 4912453 *****
+#Game No : 4912467
+***** Pacific Hand History for Game 4912467 *****
+#Game No : 4912513
+***** Pacific Hand History for Game 4912513 *****
+#Game No : 4912591
+***** Pacific Hand History for Game 4912591 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 13 03:13:37 2006
+Table Stout (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: bobbybo ( $1000 )
+Seat 5: shiney03 ( $244.23 )
+bobbybo posts small blind [$5].
+shiney03 posts big blind [$10].
+** Dealing down cards **
+bobbybo calls [$5].
+shiney03 raises [$10].
+bobbybo folds.
+** Summary **
+shiney03 collected [$30].

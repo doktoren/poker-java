@@ -1,0 +1,23 @@
+#Game No : 5266344
+***** Pacific Hand History for Game 5266344 *****
+#Game No : 5266353
+***** Pacific Hand History for Game 5266353 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 22 09:21:16 2006
+Table 7 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gayboy69 ( $1511 )
+Seat 6: huijgers ( $1071.75 )
+gayboy69 posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+gayboy69 raises [$25].
+huijgers calls [$20].
+** Dealing Flop ** [ 4h, 7c, Ac ]
+huijgers checks.
+gayboy69 checks.
+** Dealing Turn ** [ 8c ]
+huijgers bets [$40].
+gayboy69 folds.
+** Summary **
+huijgers collected [$97].

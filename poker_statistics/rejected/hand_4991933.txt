@@ -1,0 +1,31 @@
+#Game No : 4991933
+***** Pacific Hand History for Game 4991933 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 23:56:12 2006
+Table McEwans (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 10: newhome7 ( $485 )
+Seat 1: karski21 ( $1920 )
+Seat 3: gfb222 ( $697.6 )
+Seat 5: sazeracs ( $1907 )
+Seat 6: krisch ( $1940 )
+Seat 7: sucKJs ( $1860 )
+Seat 9: claireee ( $2086 )
+krisch posts small blind [$10].
+sucKJs posts big blind [$20].
+** Dealing down cards **
+claireee folds.
+newhome7 calls [$20].
+gfb222 folds.
+sazeracs raises [$100].
+krisch folds.
+sucKJs calls [$80].
+newhome7 calls [$80].
+** Dealing Flop ** [ 6d, 5h, 7h ]
+sucKJs checks.
+newhome7 checks.
+sazeracs bets [$280].
+sucKJs folds.
+newhome7 folds.
+** Summary **
+sazeracs collected [$586].

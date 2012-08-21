@@ -1,0 +1,24 @@
+#Game No : 5439343
+***** Pacific Hand History for Game 5439343 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 27 00:43:30 2006
+Table Rafael Gonazales Slenderellas (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 4: xxDRBxx ( $1303.5 )
+Seat 5: TheHazem ( $754.75 )
+Seat 6: logbil ( $1642.25 )
+Seat 7: TONYKTR ( $451.75 )
+Seat 8: gazza325 ( $975 )
+logbil posts small blind [$5].
+TONYKTR posts big blind [$10].
+** Dealing down cards **
+gazza325 folds.
+xxDRBxx raises [$37].
+logbil folds.
+TONYKTR calls [$27].
+** Dealing Flop ** [ 4h, 9h, 5s ]
+TONYKTR checks.
+xxDRBxx bets [$60].
+TONYKTR folds.
+** Summary **
+xxDRBxx collected [$135.05].

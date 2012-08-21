@@ -1,0 +1,19 @@
+#Game No : 4546922
+***** Pacific Hand History for Game 4546922 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 03 03:41:22 2006
+Table Sunset Island (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 1: nrajovic ( $6637.3 )
+Seat 2: Haschis ( $2368 )
+Seat 6: stephank ( $2958 )
+Seat 7: mesaman1 ( $1766.17 )
+Seat 8: mmkim86 ( $800.5 )
+nrajovic posts small blind [$10].
+Haschis posts big blind [$20].
+** Dealing down cards **
+stephank folds.
+mesaman1 folds.
+nrajovic folds.
+** Summary **
+Haschis collected [$30].

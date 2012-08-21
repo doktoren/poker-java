@@ -1,0 +1,34 @@
+#Game No : 5180519
+***** Pacific Hand History for Game 5180519 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 20 01:39:36 2006
+Table Fonseca K.D.T. Cadetes (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: bollie1 ( $849 )
+Seat 2: Knallaren ( $449 )
+Seat 3: AndMor ( $1016 )
+Seat 4: FishLovr ( $164 )
+Seat 5: stowjon ( $344 )
+Seat 8: R3dFish ( $617.25 )
+R3dFish posts small blind [$5].
+bollie1 posts big blind [$10].
+** Dealing down cards **
+Knallaren calls [$10].
+AndMor folds.
+FishLovr folds.
+R3dFish folds.
+bollie1 checks.
+** Dealing Flop ** [ 3d, 6d, 4s ]
+bollie1 checks.
+Knallaren checks.
+** Dealing Turn ** [ Js ]
+bollie1 checks.
+Knallaren bets [$32].
+bollie1 calls [$32].
+** Dealing River ** [ Jd ]
+bollie1 bets [$51].
+Knallaren calls [$51].
+** Summary **
+bollie1 shows [ 10d 9h ].
+Knallaren shows [ Jc Kc ].
+Knallaren collected [$187].

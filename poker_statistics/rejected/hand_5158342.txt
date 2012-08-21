@@ -1,0 +1,29 @@
+#Game No : 5158342
+***** Pacific Hand History for Game 5158342 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 13:42:54 2006
+Table Baccarat Dominican (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 10: NZL10 ( $1002.91 )
+Seat 4: MANDRAKE ( $1018.5 )
+Seat 5: macca138 ( $1005 )
+Seat 6: PixFrank ( $645.5 )
+Seat 7: stephank ( $1241.65 )
+MANDRAKE posts small blind [$5].
+macca138 posts big blind [$10].
+** Dealing down cards **
+PixFrank raises [$42].
+stephank calls [$42].
+MANDRAKE folds.
+macca138 folds.
+** Dealing Flop ** [ 3c, 9d, 6s ]
+PixFrank checks.
+stephank checks.
+** Dealing Turn ** [ Kh ]
+PixFrank checks.
+stephank checks.
+** Dealing River ** [ 9s ]
+PixFrank bets [$50].
+stephank folds.
+** Summary **
+PixFrank collected [$145].

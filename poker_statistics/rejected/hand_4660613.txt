@@ -1,0 +1,27 @@
+#Game No : 4660613
+***** Pacific Hand History for Game 4660613 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 03:08:41 2006
+Table Partagas Lonsdales (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 10: dogspot ( $1917 )
+Seat 7: bobbybo ( $864.95 )
+dogspot posts small blind [$10].
+bobbybo posts big blind [$20].
+** Dealing down cards **
+dogspot calls [$10].
+bobbybo checks.
+** Dealing Flop ** [ 3s, 5s, 10c ]
+dogspot checks.
+bobbybo bets [$20].
+dogspot calls [$20].
+** Dealing Turn ** [ 9d ]
+dogspot checks.
+bobbybo checks.
+** Dealing River ** [ 6d ]
+dogspot checks.
+bobbybo checks.
+** Summary **
+dogspot shows [ 3h Qd ].
+bobbybo shows [ 6h 4h ].
+bobbybo collected [$76].

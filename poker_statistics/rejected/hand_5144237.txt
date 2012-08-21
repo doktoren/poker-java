@@ -1,0 +1,19 @@
+#Game No : 5144237
+***** Pacific Hand History for Game 5144237 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 05:02:19 2006
+Table J.L. Salazar y Hermanos (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 10: PacMann ( $2076 )
+Seat 7: jjli818 ( $1339.55 )
+PacMann posts small blind [$10].
+jjli818 posts big blind [$20].
+** Dealing down cards **
+PacMann calls [$10].
+jjli818 checks.
+** Dealing Flop ** [ 8s, Jh, 3d ]
+PacMann checks.
+jjli818 bets [$20].
+PacMann folds.
+** Summary **
+jjli818 collected [$58].

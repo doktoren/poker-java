@@ -1,0 +1,22 @@
+#Game No : 4536702
+***** Pacific Hand History for Game 4536702 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 22:15:05 2006
+Table Kamikaze (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: hugo13 ( $1429.01 )
+Seat 1: DNcXVII ( $990 )
+Seat 3: timotas ( $515 )
+Seat 5: oompa3 ( $233.36 )
+Seat 7: lilguy2 ( $281 )
+Seat 8: iPodu ( $185 )
+DNcXVII posts small blind [$5].
+timotas posts big blind [$10].
+** Dealing down cards **
+lilguy2 folds.
+iPodu raises [$40].
+hugo13 folds.
+DNcXVII folds.
+timotas folds.
+** Summary **
+iPodu collected [$55].

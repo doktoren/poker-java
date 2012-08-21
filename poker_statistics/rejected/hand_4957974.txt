@@ -1,0 +1,22 @@
+#Game No : 4957974
+***** Pacific Hand History for Game 4957974 *****
+#Game No : 4958111
+***** Pacific Hand History for Game 4958111 *****
+#Game No : 4958146
+***** Pacific Hand History for Game 4958146 *****
+#Game No : 4958996
+***** Pacific Hand History for Game 4958996 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 03:11:35 2006
+Table James Bond Martini (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bababoo1 ( $2000 )
+Seat 7: jeter323 ( $5544.5 )
+bababoo1 posts small blind [$10].
+jeter323 posts big blind [$20].
+** Dealing down cards **
+bababoo1 calls [$10].
+jeter323 raises [$60].
+bababoo1 folds.
+** Summary **
+jeter323 collected [$100].

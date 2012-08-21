@@ -1,0 +1,14 @@
+#Game No : 4823934
+***** Pacific Hand History for Game 4823934 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 17:26:01 2006
+Table Tigers Milk (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nocmonky ( $438.85 )
+Seat 2: logbil ( $972.5 )
+logbil posts small blind [$5].
+nocmonky posts big blind [$10].
+** Dealing down cards **
+logbil folds.
+** Summary **
+nocmonky collected [$15].

@@ -1,0 +1,33 @@
+#Game No : 5213529
+***** Pacific Hand History for Game 5213529 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 21 00:25:46 2006
+Table Fidels (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: claireee ( $2414.25 )
+Seat 3: averb810 ( $1030.5 )
+Seat 5: carbons ( $884 )
+Seat 6: AndraJ ( $322.25 )
+Seat 7: lselly ( $1492.23 )
+Seat 9: bollie1 ( $1304.3 )
+carbons posts small blind [$5].
+AndraJ posts big blind [$10].
+** Dealing down cards **
+lselly folds.
+bollie1 folds.
+claireee folds.
+carbons calls [$5].
+AndraJ checks.
+** Dealing Flop ** [ Kh, Ks, Jd ]
+carbons checks.
+AndraJ checks.
+** Dealing Turn ** [ 4d ]
+carbons checks.
+AndraJ checks.
+** Dealing River ** [ 8h ]
+carbons checks.
+AndraJ checks.
+** Summary **
+carbons shows [ 4h Ac ].
+AndraJ mucks.
+carbons collected [$19].

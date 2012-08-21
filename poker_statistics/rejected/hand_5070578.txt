@@ -1,0 +1,26 @@
+#Game No : 5070578
+***** Pacific Hand History for Game 5070578 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 09:25:42 2006
+Table Marsh Wheeling (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: JThomsen ( $2340.81 )
+Seat 4: hugo13 ( $2426 )
+hugo13 posts small blind [$10].
+JThomsen posts big blind [$20].
+** Dealing down cards **
+hugo13 calls [$10].
+JThomsen checks.
+** Dealing Flop ** [ Ks, 2h, 9h ]
+hugo13 checks.
+JThomsen checks.
+** Dealing Turn ** [ Kh ]
+hugo13 checks.
+JThomsen checks.
+** Dealing River ** [ 9c ]
+hugo13 checks.
+JThomsen checks.
+** Summary **
+hugo13 shows [ 3s 4h ].
+JThomsen shows [ 4s 8c ].
+JThomsen collected [$38].

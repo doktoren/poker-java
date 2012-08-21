@@ -1,0 +1,17 @@
+#Game No : 5147101
+***** Pacific Hand History for Game 5147101 *****
+#Game No : 5148985
+***** Pacific Hand History for Game 5148985 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 07:20:19 2006
+Table Molson Excel (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tshow20 ( $200 )
+Seat 6: breezy26 ( $262.1 )
+tshow20 posts small blind [$10].
+breezy26 posts big blind [$20].
+** Dealing down cards **
+tshow20 raises [$70].
+breezy26 folds.
+** Summary **
+tshow20 collected [$100].

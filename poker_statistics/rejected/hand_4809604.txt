@@ -1,0 +1,30 @@
+#Game No : 4809604
+***** Pacific Hand History for Game 4809604 *****
+#Game No : 4809606
+***** Pacific Hand History for Game 4809606 *****
+#Game No : 4810882
+***** Pacific Hand History for Game 4810882 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 06:48:10 2006
+Table Citron Dream (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: ppelican ( $200 )
+Seat 8: bababoo1 ( $1000 )
+ppelican posts small blind [$5].
+bababoo1 posts big blind [$10].
+** Dealing down cards **
+ppelican calls [$5].
+bababoo1 checks.
+** Dealing Flop ** [ 5h, 10h, 6c ]
+bababoo1 checks.
+ppelican checks.
+** Dealing Turn ** [ 4h ]
+bababoo1 bets [$10].
+ppelican calls [$10].
+** Dealing River ** [ Qc ]
+bababoo1 bets [$10].
+ppelican calls [$10].
+** Summary **
+bababoo1 shows [ 10c Jc ].
+ppelican mucks.
+bababoo1 collected [$57].

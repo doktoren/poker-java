@@ -1,0 +1,15 @@
+#Game No : 4809339
+***** Pacific Hand History for Game 4809339 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 05:41:35 2006
+Table Acapulco (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: miniphat ( $1374.6 )
+Seat 2: shotsy ( $973 )
+shotsy posts small blind [$10].
+miniphat posts big blind [$20].
+** Dealing down cards **
+shotsy raises [$46].
+miniphat folds.
+** Summary **
+shotsy collected [$76].

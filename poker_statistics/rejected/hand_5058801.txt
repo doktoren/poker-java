@@ -1,0 +1,26 @@
+#Game No : 5058801
+***** Pacific Hand History for Game 5058801 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 02:33:52 2006
+Table Marsh Wheeling (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 10: hosen ( $2064.5 )
+Seat 3: OzBugsy ( $1084.28 )
+Seat 4: 5749394 ( $820.72 )
+Seat 5: claireee ( $1972 )
+Seat 6: A604Guy ( $1765 )
+Seat 7: SMOKES44 ( $426.54 )
+Seat 8: sarasola ( $2469.7 )
+Seat 9: vinny76 ( $1794.73 )
+vinny76 posts small blind [$10].
+hosen posts big blind [$20].
+** Dealing down cards **
+OzBugsy folds.
+5749394 folds.
+claireee folds.
+A604Guy raises [$70].
+sarasola folds.
+vinny76 folds.
+hosen folds.
+** Summary **
+A604Guy collected [$100].

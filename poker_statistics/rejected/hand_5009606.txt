@@ -1,0 +1,26 @@
+#Game No : 5009606
+***** Pacific Hand History for Game 5009606 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 15 12:04:59 2006
+Table Buena Cosecha (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kerrber ( $49.9 )
+Seat 9: kiyoshi8 ( $761.55 )
+kiyoshi8 posts small blind [$3].
+kerrber posts big blind [$6].
+** Dealing down cards **
+kiyoshi8 calls [$3].
+kerrber checks.
+** Dealing Flop ** [ 5d, 4d, 4s ]
+kerrber checks.
+kiyoshi8 checks.
+** Dealing Turn ** [ Ad ]
+kerrber checks.
+kiyoshi8 checks.
+** Dealing River ** [ 2c ]
+kerrber checks.
+kiyoshi8 checks.
+** Summary **
+kerrber shows [ 9d 8c ].
+kiyoshi8 shows [ Js 10c ].
+kiyoshi8 collected [$11.4].

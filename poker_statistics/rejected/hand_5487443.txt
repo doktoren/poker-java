@@ -1,0 +1,27 @@
+#Game No : 5487443
+***** Pacific Hand History for Game 5487443 *****
+#Game No : 5487457
+***** Pacific Hand History for Game 5487457 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 28 04:28:19 2006
+Table Chi Chi (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: oompa3 ( $2094 )
+Seat 7: ditch1 ( $2096 )
+ditch1 posts small blind [$10].
+oompa3 posts big blind [$20].
+** Dealing down cards **
+ditch1 raises [$30].
+oompa3 calls [$20].
+** Dealing Flop ** [ Kc, 3d, 2d ]
+oompa3 checks.
+ditch1 checks.
+** Dealing Turn ** [ 8c ]
+oompa3 checks.
+ditch1 checks.
+** Dealing River ** [ 2s ]
+oompa3 checks.
+ditch1 bets [$40].
+oompa3 folds.
+** Summary **
+ditch1 collected [$116].

@@ -1,0 +1,26 @@
+#Game No : 5388407
+***** Pacific Hand History for Game 5388407 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 25 20:14:39 2006
+Table Mint Julep (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: liban15 ( $80 )
+Seat 6: RocketsJ ( $2199.02 )
+liban15 posts small blind [$3].
+RocketsJ posts big blind [$6].
+** Dealing down cards **
+liban15 calls [$3].
+RocketsJ checks.
+** Dealing Flop ** [ Qh, 5h, 7s ]
+liban15 checks.
+RocketsJ checks.
+** Dealing Turn ** [ 2h ]
+liban15 checks.
+RocketsJ checks.
+** Dealing River ** [ 6d ]
+liban15 checks.
+RocketsJ checks.
+** Summary **
+liban15 shows [ Jd 3d ].
+RocketsJ shows [ Ks 2d ].
+RocketsJ collected [$11.4].

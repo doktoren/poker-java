@@ -1,0 +1,33 @@
+#Game No : 4533884
+***** Pacific Hand History for Game 4533884 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 20:29:35 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 2: hiskler ( $1231.5 )
+Seat 3: MWT5 ( $1928.87 )
+Seat 5: dangb ( $1002.75 )
+Seat 6: hugo13 ( $1013 )
+Seat 7: Shakeo ( $158.3 )
+Seat 8: 77je ( $994.5 )
+hiskler posts small blind [$5].
+MWT5 posts big blind [$10].
+** Dealing down cards **
+dangb calls [$10].
+hugo13 folds.
+77je folds.
+hiskler folds.
+MWT5 checks.
+** Dealing Flop ** [ Jd, Qs, 5s ]
+MWT5 checks.
+dangb checks.
+** Dealing Turn ** [ Qh ]
+MWT5 checks.
+dangb checks.
+** Dealing River ** [ 9d ]
+MWT5 checks.
+dangb checks.
+** Summary **
+MWT5 shows [ 3d 9s ].
+dangb shows [ 9h Ks ].
+dangb collected [$23.75].

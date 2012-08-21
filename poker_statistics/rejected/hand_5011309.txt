@@ -1,0 +1,27 @@
+#Game No : 5011309
+***** Pacific Hand History for Game 5011309 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 15 13:45:45 2006
+Table Chocolate Banana (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: tuanh06 ( $768.25 )
+Seat 2: claireee ( $1250 )
+Seat 5: stephank ( $1000 )
+Seat 6: gillo20 ( $120.5 )
+Seat 7: ketchup8 ( $317.75 )
+Seat 9: NZL10 ( $730.18 )
+claireee posts small blind [$5].
+stephank posts big blind [$10].
+** Dealing down cards **
+gillo20 folds.
+ketchup8 folds.
+tuanh06 raises [$20].
+claireee raises [$45].
+stephank calls [$40].
+tuanh06 folds.
+** Dealing Flop ** [ 6s, Qd, 5d ]
+claireee bets [$50].
+stephank raises [$100].
+claireee folds.
+** Summary **
+stephank collected [$266].

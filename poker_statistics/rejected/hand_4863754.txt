@@ -1,0 +1,42 @@
+#Game No : 4863754
+***** Pacific Hand History for Game 4863754 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 21:25:53 2006
+Table Smirnoff Ice (Real Money)
+Seat 6 is the button
+Total number of players : 10
+Seat 10: dm59 ( $724.75 )
+Seat 1: MGM2008 ( $585.13 )
+Seat 2: hakker ( $641 )
+Seat 3: reneok ( $1427.58 )
+Seat 4: vinny76 ( $1361 )
+Seat 5: gerzell ( $131.99 )
+Seat 6: kielbax ( $1247 )
+Seat 7: PPELICAN ( $50 )
+Seat 8: mjoy ( $971.5 )
+Seat 9: chanwolf ( $1000 )
+PPELICAN posts small blind [$5].
+mjoy posts big blind [$10].
+** Dealing down cards **
+chanwolf folds.
+dm59 calls [$10].
+MGM2008 calls [$10].
+reneok folds.
+vinny76 folds.
+gerzell folds.
+kielbax folds.
+PPELICAN calls [$5].
+mjoy checks.
+** Dealing Flop ** [ 6d, 7c, 5c ]
+PPELICAN checks.
+mjoy bets [$40].
+dm59 folds.
+MGM2008 folds.
+PPELICAN calls [$40].
+** Dealing Turn ** [ 5h ]
+** Dealing River ** [ Qs ]
+** Summary **
+PPELICAN shows [ 7h 3h ].
+mjoy shows [ Ac 10c ].
+mjoy shows [ Ac 10c ].
+PPELICAN shows [ 7h 3h ].
+PPELICAN collected [$116].

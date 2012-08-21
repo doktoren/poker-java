@@ -1,0 +1,26 @@
+#Game No : 2049987022
+***** Pacific Hand History for Game 2049987022 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 25 23:07:37 2006
+Table Molson Excel (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 10: jimmydsp ( $406.2 )
+Seat 3: LYKOS6 ( $278.56 )
+Seat 5: rasd ( $172.74 )
+Seat 6: RCJIII ( $381.2 )
+Seat 9: NFBB ( $300 )
+RCJIII posts small blind [$2].
+NFBB posts big blind [$4].
+** Dealing down cards **
+jimmydsp calls [$4].
+LYKOS6 folds.
+RCJIII calls [$2].
+NFBB checks.
+** Dealing Flop ** [ 7s, 2c, 6h ]
+RCJIII checks.
+NFBB checks.
+jimmydsp bets [$4].
+RCJIII folds.
+NFBB folds.
+** Summary **
+jimmydsp collected [$15.4].

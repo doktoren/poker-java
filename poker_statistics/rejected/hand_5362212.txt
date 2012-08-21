@@ -1,0 +1,15 @@
+#Game No : 5362212
+***** Pacific Hand History for Game 5362212 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 02:01:32 2006
+Table Tootsie Roll (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ck911 ( $300 )
+Seat 6: jeter323 ( $2971.5 )
+ck911 posts small blind [$10].
+jeter323 posts big blind [$20].
+** Dealing down cards **
+ck911 raises [$70].
+jeter323 folds.
+** Summary **
+ck911 collected [$100].

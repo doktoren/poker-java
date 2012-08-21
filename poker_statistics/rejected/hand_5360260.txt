@@ -1,0 +1,24 @@
+#Game No : 5360260
+***** Pacific Hand History for Game 5360260 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 01:02:38 2006
+Table Don-De-Dieu (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 10: jeter323 ( $2505.5 )
+Seat 1: dfinney ( $1277.5 )
+Seat 4: wooder2 ( $3400.5 )
+Seat 5: sonval ( $118 )
+Seat 6: PacMann ( $1776 )
+Seat 7: Lmpn ( $2090 )
+Seat 8: sazeracs ( $1950 )
+PacMann posts small blind [$10].
+Lmpn posts big blind [$20].
+** Dealing down cards **
+sazeracs raises [$80].
+jeter323 folds.
+wooder2 folds.
+sonval folds.
+PacMann folds.
+Lmpn folds.
+** Summary **
+sazeracs collected [$110].

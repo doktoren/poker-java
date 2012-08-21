@@ -1,0 +1,18 @@
+#Game No : 4971291
+***** Pacific Hand History for Game 4971291 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 10:29:07 2006
+Table Anaconda (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 1: BIGC0CK ( $34023.03 )
+Seat 2: M8Me ( $2538 )
+Seat 3: Kasperis ( $1989.16 )
+Seat 9: cps99 ( $1902.5 )
+BIGC0CK posts small blind [$10].
+M8Me posts big blind [$20].
+** Dealing down cards **
+cps99 folds.
+BIGC0CK raises [$70].
+M8Me folds.
+** Summary **
+BIGC0CK collected [$100].

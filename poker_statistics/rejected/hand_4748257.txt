@@ -1,0 +1,22 @@
+#Game No : 4748257
+***** Pacific Hand History for Game 4748257 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 08 08:15:21 2006
+Table Canadian Ale (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 10: jeter323 ( $1021.75 )
+Seat 1: Blkdrag ( $1168 )
+Seat 2: kubata ( $787.1 )
+Seat 6: Carl10 ( $552.25 )
+jeter323 posts small blind [$5].
+Blkdrag posts big blind [$10].
+** Dealing down cards **
+kubata calls [$10].
+jeter323 raises [$25].
+Blkdrag folds.
+kubata calls [$20].
+** Dealing Flop ** [ 8s, 9c, 4s ]
+jeter323 bets [$60].
+kubata folds.
+** Summary **
+jeter323 collected [$126.5].

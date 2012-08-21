@@ -1,0 +1,28 @@
+#Game No : 5090332
+***** Pacific Hand History for Game 5090332 *****
+#Game No : 5090666
+***** Pacific Hand History for Game 5090666 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 18 00:43:44 2006
+Table Marsh Wheeling (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: macsta ( $1971.67 )
+Seat 5: seamus90 ( $395.26 )
+macsta posts small blind [$10].
+seamus90 posts big blind [$20].
+** Dealing down cards **
+macsta calls [$10].
+seamus90 checks.
+** Dealing Flop ** [ Qs, 3h, Ad ]
+seamus90 checks.
+macsta checks.
+** Dealing Turn ** [ 7h ]
+seamus90 checks.
+macsta checks.
+** Dealing River ** [ 2d ]
+seamus90 checks.
+macsta checks.
+** Summary **
+seamus90 shows [ Kc 4c ].
+macsta shows [ 6d Kd ].
+macsta collected [$38].

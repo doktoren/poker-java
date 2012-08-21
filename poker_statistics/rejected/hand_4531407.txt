@@ -1,0 +1,29 @@
+#Game No : 4531407
+***** Pacific Hand History for Game 4531407 *****
+#Game No : 4531753
+***** Pacific Hand History for Game 4531753 *****
+#Game No : 4532599
+***** Pacific Hand History for Game 4532599 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 19:47:33 2006
+Table Camacho SLR (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: homie101 ( $100 )
+Seat 7: bobbybo ( $537.75 )
+bobbybo posts small blind [$5].
+homie101 posts big blind [$10].
+** Dealing down cards **
+bobbybo calls [$5].
+homie101 checks.
+** Dealing Flop ** [ 2c, 9h, Qc ]
+homie101 checks.
+bobbybo checks.
+** Dealing Turn ** [ 10d ]
+homie101 checks.
+bobbybo bets [$30].
+homie101 calls [$30].
+** Dealing River ** [ Jd ]
+homie101 bets [$30].
+bobbybo folds.
+** Summary **
+homie101 collected [$106].

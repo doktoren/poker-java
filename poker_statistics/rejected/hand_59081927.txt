@@ -1,0 +1,38 @@
+#Game No : 59081927
+***** Pacific Hand History for Game 59081927 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 05 13:16:12 2006
+Table Screwdriver (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 10: rhan000 ( $408.35 )
+Seat 2: drMugg ( $195.32 )
+Seat 3: ale352 ( $607.34 )
+Seat 4: stephank ( $397.3 )
+Seat 5: Trapped3 ( $292.95 )
+Seat 6: LETRIP ( $400 )
+Trapped3 posts small blind [$2].
+LETRIP posts big blind [$4].
+** Dealing down cards **
+rhan000 folds.
+drMugg folds.
+ale352 calls [$4].
+stephank calls [$4].
+Trapped3 folds.
+LETRIP checks.
+** Dealing Flop ** [ 8s, Jh, Kc ]
+LETRIP checks.
+ale352 checks.
+stephank checks.
+** Dealing Turn ** [ 7h ]
+LETRIP checks.
+ale352 checks.
+stephank checks.
+** Dealing River ** [ 3s ]
+LETRIP checks.
+ale352 checks.
+stephank checks.
+stephank checks.
+** Summary **
+LETRIP shows [ 3c 6c ].
+ale352 mucks.
+LETRIP collected [$13.3].

@@ -1,0 +1,20 @@
+#Game No : 5254549
+***** Pacific Hand History for Game 5254549 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 22 01:00:10 2006
+Table Skydiver (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: claireee ( $1337.5 )
+Seat 7: avril1 ( $101.78 )
+avril1 posts small blind [$5].
+claireee posts big blind [$10].
+** Dealing down cards **
+avril1 calls [$5].
+claireee raises [$20].
+avril1 calls [$20].
+** Dealing Flop ** [ 6d, 8h, 6h ]
+avril1 checks.
+claireee bets [$40].
+avril1 folds.
+** Summary **
+claireee collected [$97].

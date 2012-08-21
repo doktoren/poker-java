@@ -1,0 +1,16 @@
+#Game No : 4825624
+***** Pacific Hand History for Game 4825624 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 10 18:40:16 2006
+Table Churchill Deluxe (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 10: sereia15 ( $110.8 )
+Seat 4: lemoche ( $464.6 )
+sereia15 posts small blind [$3].
+lemoche posts big blind [$6].
+** Dealing down cards **
+sereia15 calls [$3].
+lemoche raises [$18].
+sereia15 folds.
+** Summary **
+lemoche collected [$30].

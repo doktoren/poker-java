@@ -1,0 +1,18 @@
+#Game No : 4583737
+***** Pacific Hand History for Game 4583737 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 02:06:29 2006
+Table Cuaba Divinos (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: mrmagic3 ( $627.5 )
+Seat 7: weasel92 ( $228.7 )
+weasel92 posts small blind [$5].
+mrmagic3 posts big blind [$10].
+** Dealing down cards **
+weasel92 calls [$5].
+mrmagic3 checks.
+** Dealing Flop ** [ 6d, Qc, 5s ]
+weasel92 bets [$20].
+mrmagic3 folds.
+** Summary **
+weasel92 collected [$39].

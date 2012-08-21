@@ -1,0 +1,27 @@
+#Game No : 5571827
+***** Pacific Hand History for Game 5571827 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 30 13:06:31 2006
+Table Taviano (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Lydia86 ( $3245 )
+Seat 6: NOFEARBT ( $608 )
+NOFEARBT posts small blind [$10].
+Lydia86 posts big blind [$20].
+** Dealing down cards **
+NOFEARBT calls [$10].
+Lydia86 checks.
+** Dealing Flop ** [ As, 10s, 5s ]
+NOFEARBT bets [$20].
+Lydia86 calls [$20].
+** Dealing Turn ** [ 9h ]
+NOFEARBT bets [$20].
+Lydia86 calls [$20].
+** Dealing River ** [ Jd ]
+NOFEARBT checks.
+Lydia86 bets [$100].
+NOFEARBT calls [$100].
+** Summary **
+Lydia86 shows [ 3d 4s ].
+NOFEARBT shows [ Ah 3c ].
+NOFEARBT collected [$316].

@@ -1,0 +1,21 @@
+#Game No : 4742814
+***** Pacific Hand History for Game 4742814 *****
+#Game No : 4744178
+***** Pacific Hand History for Game 4744178 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 05:37:30 2006
+Table Almodine (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: neekage ( $300 )
+Seat 7: BIGC0CK ( $2000 )
+neekage posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+neekage calls [$10].
+BIGC0CK checks.
+** Dealing Flop ** [ 9c, 10d, 4c ]
+BIGC0CK checks.
+neekage bets [$20].
+BIGC0CK folds.
+** Summary **
+neekage collected [$58].

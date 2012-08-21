@@ -1,0 +1,29 @@
+#Game No : 4536747
+***** Pacific Hand History for Game 4536747 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 22:17:22 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: hiskler ( $1150.9 )
+Seat 4: Gantekie ( $383 )
+Seat 6: hugo13 ( $1168 )
+Seat 7: niteboy ( $25 )
+Gantekie posts small blind [$5].
+hugo13 posts big blind [$10].
+** Dealing down cards **
+hiskler raises [$35].
+Gantekie folds.
+hugo13 calls [$25].
+** Dealing Flop ** [ Qh, 9h, 9d ]
+hugo13 bets [$10].
+hiskler raises [$45].
+hugo13 raises [$190].
+hiskler calls [$155].
+** Dealing Turn ** [ 6h ]
+hugo13 bets [$281].
+hiskler calls [$281].
+** Dealing River ** [ 3h ]
+hugo13 bets [$652].
+hiskler folds.
+** Summary **
+hugo13 collected [$1685].

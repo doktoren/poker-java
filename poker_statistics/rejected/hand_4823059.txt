@@ -1,0 +1,18 @@
+#Game No : 4823059
+***** Pacific Hand History for Game 4823059 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 16:41:44 2006
+Table Acapulco (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: BIGC0CK ( $2066 )
+Seat 9: NGUYENHT ( $313 )
+BIGC0CK posts small blind [$10].
+NGUYENHT posts big blind [$20].
+** Dealing down cards **
+BIGC0CK raises [$70].
+NGUYENHT calls [$60].
+** Dealing Flop ** [ 7s, 6c, Qh ]
+BIGC0CK bets [$120].
+NGUYENHT folds.
+** Summary **
+BIGC0CK collected [$276].

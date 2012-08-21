@@ -1,0 +1,35 @@
+#Game No : 4694621
+***** Pacific Hand History for Game 4694621 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 07 00:16:05 2006
+Table Partagas Lonsdales (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 10: volt12 ( $1732.5 )
+Seat 2: Phatigue ( $3255.29 )
+Seat 5: schada ( $700 )
+Seat 6: MWT5 ( $4085 )
+Seat 7: baserapp ( $2974.26 )
+Seat 8: skellyb ( $2810.5 )
+skellyb posts small blind [$10].
+volt12 posts big blind [$20].
+** Dealing down cards **
+Phatigue calls [$20].
+MWT5 folds.
+baserapp raises [$120].
+skellyb calls [$110].
+volt12 folds.
+Phatigue folds.
+** Dealing Flop ** [ 10h, Kh, 9d ]
+skellyb checks.
+baserapp checks.
+** Dealing Turn ** [ Ah ]
+skellyb checks.
+baserapp bets [$120].
+skellyb calls [$120].
+** Dealing River ** [ Ad ]
+skellyb checks.
+baserapp checks.
+** Summary **
+skellyb shows [ 3s As ].
+baserapp shows [ Qd Ac ].
+baserapp collected [$516].

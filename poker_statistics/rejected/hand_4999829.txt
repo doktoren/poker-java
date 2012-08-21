@@ -1,0 +1,28 @@
+#Game No : 4999829
+***** Pacific Hand History for Game 4999829 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 03:48:56 2006
+Table McEwans (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 10: fbenoit1 ( $3843 )
+Seat 1: kenny275 ( $966.46 )
+Seat 2: sazeracs ( $1930 )
+Seat 3: logbil ( $2480 )
+Seat 4: sarasola ( $2368 )
+Seat 6: JM1000 ( $715.25 )
+Seat 7: salsolo ( $276 )
+Seat 8: awaara ( $346 )
+Seat 9: wmwmw ( $2044.77 )
+logbil posts small blind [$10].
+sarasola posts big blind [$20].
+** Dealing down cards **
+JM1000 folds.
+salsolo folds.
+awaara folds.
+wmwmw folds.
+fbenoit1 folds.
+sazeracs raises [$80].
+logbil folds.
+sarasola folds.
+** Summary **
+sazeracs collected [$110].

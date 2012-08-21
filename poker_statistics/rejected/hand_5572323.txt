@@ -1,0 +1,19 @@
+#Game No : 5572323
+***** Pacific Hand History for Game 5572323 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 30 13:40:25 2006
+Table Taviano (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: hakker ( $544 )
+Seat 5: claireee ( $1084 )
+hakker posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+hakker calls [$10].
+claireee checks.
+** Dealing Flop ** [ Jd, 2h, Ks ]
+hakker checks.
+claireee bets [$40].
+hakker folds.
+** Summary **
+claireee collected [$78].

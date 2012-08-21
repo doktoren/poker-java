@@ -1,0 +1,35 @@
+#Game No : 5033543
+***** Pacific Hand History for Game 5033543 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 05:47:43 2006
+Table McEwans (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 10: M8Me ( $4439.71 )
+Seat 4: Lmpn ( $2556.27 )
+Seat 5: dgs281 ( $595.28 )
+Seat 6: edibben ( $2000 )
+Seat 8: drunkzzz ( $2668 )
+Seat 9: 12cents ( $2064 )
+12cents posts small blind [$10].
+M8Me posts big blind [$20].
+edibben posts big blind [$20].
+** Dealing down cards **
+Lmpn folds.
+dgs281 folds.
+edibben checks.
+drunkzzz raises [$80].
+12cents folds.
+M8Me folds.
+edibben calls [$60].
+** Dealing Flop ** [ 3c, 10h, 8s ]
+edibben bets [$165].
+drunkzzz raises [$486].
+edibben calls [$321].
+** Dealing Turn ** [ 7c ]
+edibben checks.
+drunkzzz checks.
+drunkzzz bets [$686].
+edibben raises [$1434].
+drunkzzz folds.
+** Summary **
+edibben collected [$3278].

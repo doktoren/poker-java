@@ -1,0 +1,20 @@
+#Game No : 5017841
+***** Pacific Hand History for Game 5017841 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 15 19:07:26 2006
+Table Chocolate Banana (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: awaara ( $79 )
+Seat 6: huijgers ( $1007 )
+awaara posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+awaara calls [$5].
+huijgers checks.
+** Dealing Flop ** [ 4c, 5s, 8h ]
+awaara checks.
+huijgers bets [$10].
+awaara raises [$44].
+huijgers folds.
+** Summary **
+awaara collected [$72].

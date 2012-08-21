@@ -1,0 +1,31 @@
+#Game No : 5250540
+***** Pacific Hand History for Game 5250540 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 23:15:37 2006
+Table Oliva Grand Cameroon (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 10: Rollo21 ( $1920.5 )
+Seat 1: KrishnaP ( $1903 )
+Seat 2: rabadi1 ( $975 )
+Seat 4: jonutenh ( $2096 )
+Seat 5: 77je ( $1888 )
+Seat 6: linhos ( $6157 )
+Seat 8: big101 ( $2139.5 )
+Seat 9: krisch ( $3297.5 )
+jonutenh posts small blind [$10].
+77je posts big blind [$20].
+** Dealing down cards **
+linhos folds.
+big101 folds.
+krisch calls [$20].
+Rollo21 folds.
+rabadi1 calls [$20].
+jonutenh folds.
+77je checks.
+** Dealing Flop ** [ 5d, 6h, 10c ]
+77je checks.
+krisch bets [$55].
+rabadi1 folds.
+77je folds.
+** Summary **
+krisch collected [$121.5].

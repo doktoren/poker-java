@@ -1,0 +1,27 @@
+#Game No : 4873603
+***** Pacific Hand History for Game 4873603 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 02:04:50 2006
+Table Aventinus (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 10: bobbybo ( $632.75 )
+Seat 2: jeter323 ( $2184.92 )
+Seat 4: 129slick ( $892.1 )
+Seat 6: 007rossi ( $323 )
+Seat 7: MarcoBoy ( $689 )
+129slick posts small blind [$5].
+007rossi posts big blind [$10].
+** Dealing down cards **
+MarcoBoy raises [$30].
+jeter323 folds.
+129slick folds.
+007rossi calls [$20].
+** Dealing Flop ** [ 5s, 6c, 5c ]
+007rossi bets [$30].
+MarcoBoy raises [$60].
+007rossi calls [$30].
+** Dealing Turn ** [ Ah ]
+007rossi bets [$80].
+MarcoBoy folds.
+** Summary **
+007rossi collected [$261].

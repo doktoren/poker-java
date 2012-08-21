@@ -1,0 +1,16 @@
+#Game No : 5572766
+***** Pacific Hand History for Game 5572766 *****
+#Game No : 5572774
+***** Pacific Hand History for Game 5572774 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 30 14:23:40 2006
+Table Jasper (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 3: awaara ( $205 )
+Seat 8: AndMor ( $1000 )
+AndMor posts small blind [$5].
+awaara posts big blind [$10].
+** Dealing down cards **
+AndMor folds.
+** Summary **
+awaara collected [$15].

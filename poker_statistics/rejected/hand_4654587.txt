@@ -1,0 +1,26 @@
+#Game No : 4654587
+***** Pacific Hand History for Game 4654587 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 00:06:57 2006
+Table Pearl (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 10: kiyoshi8 ( $645.46 )
+Seat 4: MrPils ( $2894 )
+kiyoshi8 posts small blind [$5].
+MrPils posts big blind [$10].
+** Dealing down cards **
+kiyoshi8 raises [$25].
+MrPils calls [$20].
+** Dealing Flop ** [ 5c, 3h, 6s ]
+kiyoshi8 bets [$30].
+MrPils calls [$30].
+** Dealing Turn ** [ 6h ]
+kiyoshi8 checks.
+MrPils bets [$60].
+kiyoshi8 calls [$60].
+** Dealing River ** [ 2s ]
+kiyoshi8 checks.
+MrPils bets [$140].
+kiyoshi8 folds.
+** Summary **
+MrPils collected [$376].

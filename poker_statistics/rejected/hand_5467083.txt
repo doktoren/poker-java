@@ -1,0 +1,26 @@
+#Game No : 5467083
+***** Pacific Hand History for Game 5467083 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 19:13:28 2006
+Table La Rica (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 10: jimmydsp ( $1000 )
+Seat 3: kielbax ( $2138.5 )
+Seat 4: liclic ( $470 )
+Seat 6: claireee ( $1972 )
+Seat 7: unglee ( $952 )
+Seat 8: CPS99 ( $1027.5 )
+Seat 9: Kasperis ( $2956 )
+unglee posts small blind [$10].
+CPS99 posts big blind [$20].
+jimmydsp posts big blind [$20].
+** Dealing down cards **
+jimmydsp checks.
+kielbax folds.
+liclic folds.
+claireee raises [$80].
+unglee folds.
+CPS99 folds.
+jimmydsp folds.
+** Summary **
+claireee collected [$130].

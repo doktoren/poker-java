@@ -1,0 +1,29 @@
+#Game No : 5470751
+***** Pacific Hand History for Game 5470751 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 21:13:53 2006
+Table Romeo Y Julieta Exhibicion No.4 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 10: fbenoit1 ( $1298 )
+Seat 4: fuosu ( $669.87 )
+Seat 5: oreida ( $2167 )
+Seat 6: tashalee ( $1940 )
+Seat 7: kilburgp ( $316 )
+Seat 8: vicstorm ( $1216.35 )
+Seat 9: NGUYENHT ( $440 )
+fbenoit1 posts small blind [$10].
+fuosu posts big blind [$20].
+** Dealing down cards **
+oreida folds.
+tashalee folds.
+kilburgp folds.
+NGUYENHT raises [$80].
+fbenoit1 folds.
+fuosu calls [$60].
+** Dealing Flop ** [ Ks, 7h, 2h ]
+fuosu bets [$20].
+NGUYENHT raises [$80].
+fuosu raises [$120].
+NGUYENHT folds.
+** Summary **
+fuosu collected [$386].

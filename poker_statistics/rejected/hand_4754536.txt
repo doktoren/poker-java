@@ -1,0 +1,20 @@
+#Game No : 4754536
+***** Pacific Hand History for Game 4754536 *****
+#Game No : 4754547
+***** Pacific Hand History for Game 4754547 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 14:18:59 2006
+Table Partagas Lonsdales (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: kiyoshi8 ( $1200 )
+Seat 6: wooder2 ( $1146 )
+wooder2 posts small blind [$10].
+kiyoshi8 posts big blind [$20].
+** Dealing down cards **
+wooder2 calls [$10].
+kiyoshi8 checks.
+** Dealing Flop ** [ Ac, 9d, Qd ]
+kiyoshi8 bets [$40].
+wooder2 folds.
+** Summary **
+kiyoshi8 collected [$78].

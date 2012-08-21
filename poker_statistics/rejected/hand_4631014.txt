@@ -1,0 +1,29 @@
+#Game No : 4631014
+***** Pacific Hand History for Game 4631014 *****
+#Game No : 4631044
+***** Pacific Hand History for Game 4631044 *****
+#Game No : 4631145
+***** Pacific Hand History for Game 4631145 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 09:55:06 2006
+Table Excalibur 1066 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hugo13 ( $2000 )
+Seat 7: boogie10 ( $2000 )
+hugo13 posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+hugo13 calls [$10].
+boogie10 checks.
+** Dealing Flop ** [ 10d, 6c, 4h ]
+boogie10 checks.
+hugo13 bets [$20].
+boogie10 calls [$20].
+** Dealing Turn ** [ Ad ]
+boogie10 checks.
+hugo13 checks.
+** Dealing River ** [ 2d ]
+boogie10 bets [$80].
+hugo13 folds.
+** Summary **
+boogie10 collected [$156].

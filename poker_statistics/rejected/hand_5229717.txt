@@ -1,0 +1,43 @@
+#Game No : 5229717
+***** Pacific Hand History for Game 5229717 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 09:17:42 2006
+Table Punch Panetelas Grandes (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 10: liclic ( $511.9 )
+Seat 2: chanwolf ( $2156 )
+Seat 3: GainM65 ( $282 )
+Seat 4: big101 ( $1716 )
+Seat 5: W4LLY ( $2006 )
+Seat 6: evileye1 ( $2174 )
+Seat 7: unglee ( $1336 )
+Seat 8: m8me ( $1424 )
+Seat 9: huijgers ( $2174 )
+evileye1 posts small blind [$10].
+unglee posts big blind [$20].
+** Dealing down cards **
+m8me folds.
+huijgers folds.
+liclic calls [$20].
+chanwolf folds.
+big101 folds.
+W4LLY raises [$80].
+evileye1 calls [$70].
+unglee folds.
+liclic calls [$60].
+** Dealing Flop ** [ 5d, Ac, Kh ]
+evileye1 checks.
+liclic checks.
+W4LLY bets [$140].
+evileye1 folds.
+liclic raises [$280].
+W4LLY raises [$440].
+liclic calls [$151.9].
+** Dealing Turn ** [ 4s ]
+** Dealing River ** [ 8s ]
+** Summary **
+liclic shows [ Ah Qd ].
+W4LLY shows [ 5c As ].
+W4LLY shows [ 5c As ].
+W4LLY collected [$1119.8].
+W4LLY collected [$148.1].

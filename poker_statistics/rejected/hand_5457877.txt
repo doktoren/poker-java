@@ -1,0 +1,15 @@
+#Game No : 5457877
+***** Pacific Hand History for Game 5457877 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 12:22:34 2006
+Table Chi Chi (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: skellyb ( $2000 )
+Seat 6: oreida ( $2250 )
+oreida posts small blind [$10].
+skellyb posts big blind [$20].
+** Dealing down cards **
+oreida raises [$50].
+skellyb folds.
+** Summary **
+oreida collected [$80].

@@ -1,0 +1,15 @@
+#Game No : 5572092
+***** Pacific Hand History for Game 5572092 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 13:24:50 2006
+Table Magic Hat (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: torpedoo ( $456.35 )
+Seat 9: and82 ( $52 )
+and82 posts small blind [$3].
+torpedoo posts big blind [$6].
+** Dealing down cards **
+and82 raises [$39].
+torpedoo folds.
+** Summary **
+and82 collected [$48].

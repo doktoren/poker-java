@@ -1,0 +1,37 @@
+#Game No : 4681808
+***** Pacific Hand History for Game 4681808 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 17:31:23 2006
+Table Pearl (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 10: snavsi ( $1744 )
+Seat 1: Jenog142 ( $1565.55 )
+Seat 2: 123geman ( $774.9 )
+Seat 4: stephank ( $960 )
+Seat 5: Tuttu ( $1673 )
+Seat 6: jeter323 ( $1126.75 )
+Tuttu posts small blind [$5].
+jeter323 posts big blind [$10].
+123geman posts big blind [$10].
+** Dealing down cards **
+snavsi folds.
+123geman checks.
+stephank folds.
+Tuttu calls [$5].
+jeter323 checks.
+** Dealing Flop ** [ 9d, 7h, Kh ]
+Tuttu checks.
+jeter323 checks.
+123geman bets [$20].
+Tuttu calls [$20].
+jeter323 folds.
+** Dealing Turn ** [ Qs ]
+Tuttu checks.
+123geman checks.
+** Dealing River ** [ 6d ]
+Tuttu bets [$30].
+123geman calls [$30].
+** Summary **
+Tuttu shows [ Kc Jc ].
+123geman mucks.
+Tuttu collected [$126].

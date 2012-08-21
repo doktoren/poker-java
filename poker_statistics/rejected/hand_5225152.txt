@@ -1,0 +1,21 @@
+#Game No : 5225152
+***** Pacific Hand History for Game 5225152 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 21 06:11:38 2006
+Table Fidels (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: NeilImms ( $689 )
+Seat 5: TheHazem ( $990 )
+TheHazem posts small blind [$5].
+NeilImms posts big blind [$10].
+** Dealing down cards **
+TheHazem raises [$15].
+NeilImms calls [$10].
+** Dealing Flop ** [ Js, 8h, 5h ]
+TheHazem bets [$10].
+NeilImms calls [$10].
+** Dealing Turn ** [ Ac ]
+TheHazem bets [$60].
+NeilImms folds.
+** Summary **
+TheHazem collected [$117].

@@ -1,0 +1,20 @@
+#Game No : 5163300
+***** Pacific Hand History for Game 5163300 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 17:13:06 2006
+Table Baccarat Dominican (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 10: jonutenh ( $1047.75 )
+Seat 2: Eve69 ( $940 )
+Seat 5: zojari ( $2023.5 )
+Seat 6: calej ( $520 )
+Seat 9: 77je ( $81.25 )
+jonutenh posts small blind [$5].
+Eve69 posts big blind [$10].
+** Dealing down cards **
+zojari folds.
+77je folds.
+jonutenh raises [$25].
+Eve69 folds.
+** Summary **
+jonutenh collected [$40].

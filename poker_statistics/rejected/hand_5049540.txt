@@ -1,0 +1,16 @@
+#Game No : 5049540
+***** Pacific Hand History for Game 5049540 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 20:14:00 2006
+Table Anaconda (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 2: scsdms1 ( $4362.8 )
+Seat 3: fbenoit1 ( $660 )
+Seat 4: avago14 ( $360 )
+scsdms1 posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+scsdms1 raises [$70].
+fbenoit1 folds.
+** Summary **
+scsdms1 collected [$100].

@@ -1,0 +1,28 @@
+#Game No : 4557877
+***** Pacific Hand History for Game 4557877 *****
+#Game No : 4558284
+***** Pacific Hand History for Game 4558284 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 03 11:53:49 2006
+Table Amethyst (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: boogie10 ( $2000 )
+Seat 6: MWT5 ( $2000 )
+MWT5 posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+MWT5 calls [$10].
+boogie10 checks.
+** Dealing Flop ** [ 10c, 4c, Ac ]
+boogie10 checks.
+MWT5 checks.
+** Dealing Turn ** [ Js ]
+boogie10 checks.
+MWT5 checks.
+** Dealing River ** [ 4s ]
+boogie10 checks.
+MWT5 checks.
+** Summary **
+boogie10 shows [ 6c Qs ].
+MWT5 mucks.
+boogie10 collected [$38].

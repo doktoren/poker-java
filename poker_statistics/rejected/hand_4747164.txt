@@ -1,0 +1,28 @@
+#Game No : 4747164
+***** Pacific Hand History for Game 4747164 *****
+#Game No : 4747387
+***** Pacific Hand History for Game 4747387 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 08 07:49:37 2006
+Table Canadian Ale (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: jeter323 ( $1000 )
+Seat 5: RUN1116 ( $350 )
+jeter323 posts small blind [$5].
+RUN1116 posts big blind [$10].
+** Dealing down cards **
+jeter323 calls [$5].
+RUN1116 checks.
+** Dealing Flop ** [ 8c, 8h, 4h ]
+RUN1116 checks.
+jeter323 checks.
+** Dealing Turn ** [ Kd ]
+RUN1116 checks.
+jeter323 checks.
+** Dealing River ** [ 3h ]
+RUN1116 checks.
+jeter323 checks.
+** Summary **
+RUN1116 shows [ 2d 5s ].
+jeter323 shows [ Ac 3d ].
+jeter323 collected [$19].

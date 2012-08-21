@@ -1,0 +1,16 @@
+#Game No : 4840268
+***** Pacific Hand History for Game 4840268 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 02:33:39 2006
+Table Tequila Slammer (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: neekage ( $240 )
+Seat 7: DNcXVII ( $2600.62 )
+DNcXVII posts small blind [$10].
+neekage posts big blind [$20].
+** Dealing down cards **
+DNcXVII raises [$30].
+neekage raises [$220].
+DNcXVII folds.
+** Summary **
+neekage collected [$280].

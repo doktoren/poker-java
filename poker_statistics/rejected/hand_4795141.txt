@@ -1,0 +1,22 @@
+#Game No : 4795141
+***** Pacific Hand History for Game 4795141 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 09 20:27:40 2006
+Table Taviano (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: cportra ( $404.27 )
+Seat 5: AndraJ ( $210.8 )
+Seat 6: bgpmp ( $764.9 )
+Seat 8: yoyoma99 ( $302.4 )
+AndraJ posts small blind [$3].
+bgpmp posts big blind [$6].
+** Dealing down cards **
+yoyoma99 calls [$6].
+AndraJ folds.
+bgpmp checks.
+** Dealing Flop ** [ Qc, Jd, 4c ]
+bgpmp checks.
+yoyoma99 bets [$9].
+bgpmp folds.
+** Summary **
+yoyoma99 collected [$23.25].

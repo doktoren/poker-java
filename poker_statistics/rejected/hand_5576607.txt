@@ -1,0 +1,24 @@
+#Game No : 5576607
+***** Pacific Hand History for Game 5576607 *****
+#Game No : 5576637
+***** Pacific Hand History for Game 5576637 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 30 18:30:30 2006
+Table Jasper (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: jentao13 ( $510 )
+Seat 6: miniphat ( $1000 )
+jentao13 posts small blind [$5].
+miniphat posts big blind [$10].
+** Dealing down cards **
+jentao13 calls [$5].
+miniphat checks.
+** Dealing Flop ** [ 5c, Ac, 5d ]
+miniphat checks.
+jentao13 checks.
+** Dealing Turn ** [ 10c ]
+miniphat checks.
+jentao13 bets [$20].
+miniphat folds.
+** Summary **
+jentao13 collected [$39].

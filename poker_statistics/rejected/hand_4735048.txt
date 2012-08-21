@@ -1,0 +1,18 @@
+#Game No : 4735048
+***** Pacific Hand History for Game 4735048 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 00:20:18 2006
+Table Partagas Lonsdales (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 10: kiyoshi8 ( $1978 )
+Seat 1: Phatigue ( $2678 )
+Seat 5: MWT5 ( $3562.5 )
+Seat 6: kogo9 ( $3157.5 )
+MWT5 posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+Phatigue raises [$80].
+MWT5 folds.
+kogo9 folds.
+** Summary **
+Phatigue collected [$110].

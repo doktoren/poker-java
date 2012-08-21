@@ -1,0 +1,25 @@
+#Game No : 5141310
+***** Pacific Hand History for Game 5141310 *****
+#Game No : 5141802
+***** Pacific Hand History for Game 5141802 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 03:57:27 2006
+Table Molson Excel (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: jeter323 ( $2000 )
+Seat 1: flopah ( $1232 )
+jeter323 posts small blind [$10].
+flopah posts big blind [$20].
+** Dealing down cards **
+jeter323 calls [$10].
+flopah checks.
+** Dealing Flop ** [ 3s, 8d, 9s ]
+flopah bets [$40].
+jeter323 calls [$40].
+** Dealing Turn ** [ Qc ]
+flopah bets [$100].
+jeter323 raises [$260].
+flopah raises [$1072].
+jeter323 folds.
+** Summary **
+flopah collected [$1548].

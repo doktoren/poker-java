@@ -1,0 +1,25 @@
+#Game No : 4585265
+***** Pacific Hand History for Game 4585265 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 02:49:49 2006
+Table Cuaba Divinos (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 10: TinyTnks ( $1021 )
+Seat 2: mrmagic3 ( $520 )
+Seat 3: osiris68 ( $218.35 )
+Seat 4: timotas ( $744.25 )
+Seat 6: jefbond ( $106.2 )
+Seat 7: gazza325 ( $1024 )
+timotas posts small blind [$5].
+jefbond posts big blind [$10].
+TinyTnks posts big blind [$10].
+** Dealing down cards **
+TinyTnks checks.
+mrmagic3 calls [$10].
+osiris68 folds.
+timotas raises [$45].
+jefbond folds.
+TinyTnks folds.
+mrmagic3 folds.
+** Summary **
+timotas collected [$80].

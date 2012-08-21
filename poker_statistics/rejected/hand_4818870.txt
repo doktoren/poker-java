@@ -1,0 +1,17 @@
+#Game No : 4818870
+***** Pacific Hand History for Game 4818870 *****
+#Game No : 4818888
+***** Pacific Hand History for Game 4818888 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 13:53:53 2006
+Table Cuban Cooler (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: marshg ( $504 )
+Seat 6: hugo13 ( $2416 )
+hugo13 posts small blind [$10].
+marshg posts big blind [$20].
+** Dealing down cards **
+hugo13 raises [$30].
+marshg folds.
+** Summary **
+hugo13 collected [$60].

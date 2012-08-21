@@ -1,0 +1,32 @@
+#Game No : 4956964
+***** Pacific Hand History for Game 4956964 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 14 02:28:52 2006
+Table Pearl Vision (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: jarett21 ( $205.25 )
+Seat 2: gtoyne ( $2765.22 )
+Seat 3: boogjr ( $1093.25 )
+Seat 5: DP433 ( $1667.5 )
+Seat 6: jeter323 ( $1000 )
+Seat 7: gazza325 ( $870 )
+boogjr posts small blind [$5].
+DP433 posts big blind [$10].
+** Dealing down cards **
+jeter323 folds.
+gazza325 folds.
+gtoyne calls [$10].
+boogjr calls [$5].
+DP433 checks.
+** Dealing Flop ** [ As, 8s, 7s ]
+boogjr checks.
+DP433 checks.
+gtoyne bets [$10].
+boogjr folds.
+DP433 calls [$10].
+** Dealing Turn ** [ 2d ]
+DP433 checks.
+gtoyne bets [$30].
+DP433 folds.
+** Summary **
+gtoyne collected [$77.5].

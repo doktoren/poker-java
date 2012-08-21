@@ -1,0 +1,19 @@
+#Game No : 4892914
+***** Pacific Hand History for Game 4892914 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 12 15:32:20 2006
+Table Blue Lady (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Lopponen ( $2036 )
+Seat 8: claireee ( $3660.55 )
+claireee posts small blind [$10].
+Lopponen posts big blind [$20].
+** Dealing down cards **
+claireee raises [$70].
+Lopponen calls [$60].
+** Dealing Flop ** [ 7d, 2s, Jc ]
+claireee bets [$80].
+Lopponen raises [$220].
+claireee folds.
+** Summary **
+Lopponen collected [$456].

@@ -1,0 +1,18 @@
+#Game No : 4583727
+***** Pacific Hand History for Game 4583727 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 02:05:59 2006
+Table Black Eyed Susan (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 10: TinyTnks ( $1372 )
+Seat 1: robardic ( $5478.17 )
+Seat 5: kogo9 ( $3486.27 )
+Seat 6: boogjr ( $2856 )
+robardic posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+TinyTnks folds.
+robardic raises [$30].
+kogo9 folds.
+** Summary **
+robardic collected [$60].

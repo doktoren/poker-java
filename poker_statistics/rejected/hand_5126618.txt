@@ -1,0 +1,19 @@
+#Game No : 5126618
+***** Pacific Hand History for Game 5126618 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 18 22:06:46 2006
+Table J.L. Salazar y Hermanos (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: unglee ( $2450 )
+Seat 7: jolly117 ( $378.09 )
+unglee posts small blind [$10].
+jolly117 posts big blind [$20].
+** Dealing down cards **
+unglee calls [$10].
+jolly117 checks.
+** Dealing Flop ** [ Ks, 9h, 9d ]
+unglee bets [$20].
+jolly117 raises [$60].
+unglee folds.
+** Summary **
+jolly117 collected [$116].

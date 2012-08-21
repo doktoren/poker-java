@@ -1,0 +1,35 @@
+#Game No : 5573862
+***** Pacific Hand History for Game 5573862 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 30 15:37:05 2006
+Table Blue Lagoon (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 10: sintill8 ( $328.6 )
+Seat 1: jfarm ( $733.9 )
+Seat 2: bollie1 ( $1407.55 )
+Seat 4: stephank ( $600 )
+Seat 5: jentao13 ( $253.9 )
+jentao13 posts small blind [$3].
+sintill8 posts big blind [$6].
+** Dealing down cards **
+jfarm calls [$6].
+bollie1 folds.
+jentao13 calls [$3].
+sintill8 checks.
+** Dealing Flop ** [ Ks, Ad, 8d ]
+jentao13 checks.
+sintill8 checks.
+jfarm checks.
+** Dealing Turn ** [ As ]
+jentao13 checks.
+sintill8 checks.
+jfarm checks.
+** Dealing River ** [ 10h ]
+jentao13 checks.
+sintill8 checks.
+jfarm checks.
+** Summary **
+jentao13 shows [ Jd 10s ].
+sintill8 mucks.
+jfarm mucks.
+jentao13 collected [$17.1].

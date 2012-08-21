@@ -1,0 +1,19 @@
+#Game No : 4620157
+***** Pacific Hand History for Game 4620157 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 02:15:09 2006
+Table Bandita (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 10: Saalis ( $2246 )
+Seat 1: shotsy ( $1377.22 )
+Seat 2: gamezmas ( $250 )
+Seat 4: tire444 ( $1506.94 )
+Seat 8: kiyoshi8 ( $4888 )
+Saalis posts small blind [$10].
+shotsy posts big blind [$20].
+** Dealing down cards **
+gamezmas folds.
+tire444 folds.
+Saalis folds.
+** Summary **
+shotsy collected [$30].

@@ -1,0 +1,26 @@
+#Game No : 5087385
+***** Pacific Hand History for Game 5087385 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 23:18:35 2006
+Table Anaconda (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 10: PacMann ( $2809.5 )
+Seat 1: Lmpn ( $1940 )
+Seat 2: jcc88 ( $678.3 )
+Seat 3: szukiel ( $1173.75 )
+Seat 4: zen2win ( $520 )
+Seat 5: jv8035 ( $682.5 )
+szukiel posts small blind [$10].
+zen2win posts big blind [$20].
+** Dealing down cards **
+jv8035 folds.
+PacMann folds.
+Lmpn raises [$75].
+szukiel folds.
+zen2win calls [$55].
+** Dealing Flop ** [ 6h, 3h, Ks ]
+zen2win bets [$100].
+Lmpn raises [$450].
+zen2win folds.
+** Summary **
+Lmpn collected [$706].

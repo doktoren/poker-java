@@ -1,0 +1,28 @@
+#Game No : 5017533
+***** Pacific Hand History for Game 5017533 *****
+#Game No : 5017552
+***** Pacific Hand History for Game 5017552 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 18:54:57 2006
+Table Anaconda (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: jeter323 ( $2028 )
+Seat 6: romain36 ( $470 )
+jeter323 posts small blind [$10].
+romain36 posts big blind [$20].
+** Dealing down cards **
+jeter323 calls [$10].
+romain36 raises [$40].
+jeter323 calls [$40].
+** Dealing Flop ** [ Qd, 4c, 9h ]
+romain36 bets [$60].
+jeter323 calls [$60].
+** Dealing Turn ** [ 9c ]
+romain36 bets [$60].
+jeter323 calls [$60].
+** Dealing River ** [ 2s ]
+romain36 checks.
+jeter323 bets [$140].
+romain36 folds.
+** Summary **
+jeter323 collected [$496].

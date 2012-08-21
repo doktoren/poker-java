@@ -1,0 +1,39 @@
+#Game No : 178584061
+***** Pacific Hand History for Game 178584061 *****
+$500/$1000 Blinds No Limit Hold'em - *** 08 20 22:48:46 2006
+Tournament #11668448 $100 + $5 - Table #6 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 10: bantyegg ( $31184 )
+Seat 3: mcdouble ( $13224 )
+Seat 4: peter107 ( $23320 )
+Seat 6: guvnorg ( $22845 )
+Seat 7: doktoren ( $72037 )
+Seat 9: dghaim99 ( $13390 )
+dghaim99 posts small blind [$500].
+bantyegg posts big blind [$1000].
+** Dealing down cards **
+Dealt to doktoren [ 2d 9h ]
+mcdouble folds.
+peter107 folds.
+guvnorg calls [$1000].
+doktoren folds.
+dghaim99 calls [$500].
+bantyegg checks.
+** Dealing Flop ** [ 5d, Ah, 2c ]
+dghaim99 checks.
+bantyegg checks.
+guvnorg checks.
+** Dealing Turn ** [ 10h ]
+dghaim99 checks.
+bantyegg checks.
+guvnorg checks.
+** Dealing River ** [ 4d ]
+dghaim99 checks.
+bantyegg checks.
+guvnorg checks.
+** Summary **
+dghaim99 shows [ Jc Qd ].
+bantyegg shows [ Qc 4c ].
+guvnorg mucks.
+bantyegg collected [$3000].

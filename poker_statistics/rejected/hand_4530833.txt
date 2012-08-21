@@ -1,0 +1,17 @@
+#Game No : 4530833
+***** Pacific Hand History for Game 4530833 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 02 18:53:54 2006
+Table Sunset Island (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 10: muralt ( $2612 )
+Seat 5: MWT5 ( $2195 )
+Seat 6: dangb ( $1316 )
+Seat 9: jtchamp4 ( $1620 )
+dangb posts small blind [$10].
+jtchamp4 posts big blind [$20].
+** Dealing down cards **
+MWT5 folds.
+dangb folds.
+** Summary **
+jtchamp4 collected [$30].

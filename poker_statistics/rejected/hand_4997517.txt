@@ -1,0 +1,19 @@
+#Game No : 4997517
+***** Pacific Hand History for Game 4997517 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 02:36:56 2006
+Table Woodpecker Cider (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Phatigue ( $9688.3 )
+Seat 3: aaronkjo ( $1908.5 )
+Seat 4: jtchamp4 ( $1933 )
+Seat 7: macsta ( $1903 )
+Seat 9: cooper98 ( $265.68 )
+Phatigue posts small blind [$10].
+aaronkjo posts big blind [$20].
+** Dealing down cards **
+jtchamp4 folds.
+macsta folds.
+Phatigue folds.
+** Summary **
+aaronkjo collected [$30].

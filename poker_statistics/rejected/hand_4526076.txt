@@ -1,0 +1,22 @@
+#Game No : 4526076
+***** Pacific Hand History for Game 4526076 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 02 15:48:07 2006
+Table Sunset Island (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 10: dogspot ( $7076 )
+Seat 1: nrajovic ( $2030 )
+Seat 3: avago14 ( $810.05 )
+dogspot posts small blind [$10].
+nrajovic posts big blind [$20].
+** Dealing down cards **
+avago14 raises [$60].
+dogspot calls [$50].
+nrajovic calls [$40].
+** Dealing Flop ** [ Js, 8h, Qc ]
+nrajovic checks.
+avago14 bets [$140].
+dogspot folds.
+nrajovic folds.
+** Summary **
+avago14 collected [$316].

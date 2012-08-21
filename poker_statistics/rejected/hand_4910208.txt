@@ -1,0 +1,17 @@
+#Game No : 4910208
+***** Pacific Hand History for Game 4910208 *****
+#Game No : 4910432
+***** Pacific Hand History for Game 4910432 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 02:03:31 2006
+Table Woodpecker Cider (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BIGC0CK ( $4126 )
+Seat 8: NZL10 ( $1937.95 )
+BIGC0CK posts small blind [$10].
+NZL10 posts big blind [$20].
+** Dealing down cards **
+BIGC0CK raises [$70].
+NZL10 folds.
+** Summary **
+BIGC0CK collected [$100].

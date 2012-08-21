@@ -1,0 +1,20 @@
+#Game No : 4904598
+***** Pacific Hand History for Game 4904598 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 12 22:47:57 2006
+Table Woodpecker Cider (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 3: jskull ( $1469 )
+Seat 4: MANDRAKE ( $1952.28 )
+Seat 5: shel48 ( $290 )
+Seat 7: bobbybo ( $1766.24 )
+Seat 8: lukeboy ( $2096 )
+jskull posts small blind [$10].
+MANDRAKE posts big blind [$20].
+** Dealing down cards **
+shel48 folds.
+lukeboy raises [$80].
+jskull folds.
+MANDRAKE folds.
+** Summary **
+lukeboy collected [$110].

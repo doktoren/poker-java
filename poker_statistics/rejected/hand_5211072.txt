@@ -1,0 +1,39 @@
+#Game No : 5211072
+***** Pacific Hand History for Game 5211072 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 23:17:26 2006
+Table La Flor de Murias (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: skellyb ( $2759.5 )
+Seat 2: fogden ( $348 )
+Seat 4: sarasola ( $2052 )
+Seat 6: Caito ( $3641 )
+Seat 7: zojari ( $1968 )
+Seat 9: newhome7 ( $900 )
+fogden posts small blind [$10].
+sarasola posts big blind [$20].
+** Dealing down cards **
+Caito calls [$20].
+zojari folds.
+newhome7 calls [$20].
+fogden calls [$10].
+sarasola checks.
+** Dealing Flop ** [ 2c, 3s, 6d ]
+fogden checks.
+sarasola checks.
+Caito checks.
+newhome7 checks.
+** Dealing Turn ** [ Qh ]
+fogden checks.
+sarasola checks.
+Caito checks.
+newhome7 checks.
+** Dealing River ** [ 9s ]
+fogden bets [$20].
+sarasola calls [$20].
+Caito folds.
+newhome7 folds.
+** Summary **
+fogden shows [ 6c 6h ].
+sarasola mucks.
+fogden collected [$116].

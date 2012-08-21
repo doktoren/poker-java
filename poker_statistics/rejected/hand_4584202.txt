@@ -1,0 +1,41 @@
+#Game No : 4584202
+***** Pacific Hand History for Game 4584202 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 02:21:33 2006
+Table Hennepin Ale (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 10: sleepyyy ( $1071 )
+Seat 2: StackYa ( $1227.25 )
+Seat 3: sonval ( $86.75 )
+Seat 4: linhos ( $1370.6 )
+Seat 5: knraney ( $1034.75 )
+Seat 6: xxDRBxx ( $1246.75 )
+Seat 7: huijgers ( $1350.5 )
+Seat 8: Clute ( $2471.15 )
+Seat 9: chanwolf ( $1174 )
+xxDRBxx posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+Clute folds.
+chanwolf folds.
+sleepyyy folds.
+StackYa folds.
+sonval folds.
+linhos folds.
+knraney folds.
+xxDRBxx calls [$5].
+huijgers checks.
+** Dealing Flop ** [ 3c, 7s, 8d ]
+xxDRBxx checks.
+huijgers checks.
+** Dealing Turn ** [ 6d ]
+xxDRBxx checks.
+huijgers checks.
+huijgers checks.
+** Dealing River ** [ 6s ]
+xxDRBxx checks.
+huijgers checks.
+** Summary **
+xxDRBxx shows [ Kh 2c ].
+huijgers shows [ 7d 9c ].
+huijgers collected [$19].

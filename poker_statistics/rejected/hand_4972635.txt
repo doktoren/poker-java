@@ -1,0 +1,27 @@
+#Game No : 4972635
+***** Pacific Hand History for Game 4972635 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 11:38:45 2006
+Table Signature Collection Perdomo (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: boogie10 ( $3321.53 )
+Seat 3: aaronkjo ( $1744.94 )
+aaronkjo posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+aaronkjo calls [$10].
+boogie10 checks.
+** Dealing Flop ** [ Qs, 10s, 7d ]
+aaronkjo checks.
+boogie10 checks.
+** Dealing Turn ** [ 10c ]
+aaronkjo checks.
+boogie10 checks.
+** Dealing River ** [ 2c ]
+aaronkjo checks.
+boogie10 bets [$40].
+aaronkjo calls [$40].
+** Summary **
+boogie10 shows [ Jc 3s ].
+aaronkjo shows [ 7c As ].
+aaronkjo collected [$116].

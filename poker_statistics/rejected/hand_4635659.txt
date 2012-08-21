@@ -1,0 +1,14 @@
+#Game No : 4635659
+***** Pacific Hand History for Game 4635659 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 13:37:40 2006
+Table Partagas Lonsdales (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 3: NLPoker ( $2712 )
+Seat 8: boogie10 ( $4000.4 )
+NLPoker posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+NLPoker folds.
+** Summary **
+boogie10 collected [$30].

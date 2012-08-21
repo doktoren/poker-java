@@ -1,0 +1,43 @@
+#Game No : 5137301
+***** Pacific Hand History for Game 5137301 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 01:58:00 2006
+Table Pink Kangaroo (Real Money)
+Seat 4 is the button
+Total number of players : 10
+Seat 10: JENUTTS ( $270.5 )
+Seat 1: xxDRBxx ( $998.75 )
+Seat 2: big101 ( $1120.75 )
+Seat 3: SNAlpha1 ( $1774.15 )
+Seat 4: mpavlou ( $404 )
+Seat 5: Gamble91 ( $380 )
+Seat 6: jonutenh ( $2023 )
+Seat 7: ghost0 ( $1126 )
+Seat 8: jjli818 ( $1131.75 )
+Seat 9: huijgers ( $985 )
+Gamble91 posts small blind [$5].
+jonutenh posts big blind [$10].
+** Dealing down cards **
+ghost0 folds.
+jjli818 folds.
+huijgers folds.
+JENUTTS folds.
+xxDRBxx folds.
+big101 folds.
+SNAlpha1 raises [$30].
+Gamble91 folds.
+jonutenh calls [$20].
+** Dealing Flop ** [ 4c, 3h, Qc ]
+jonutenh checks.
+SNAlpha1 checks.
+** Dealing Turn ** [ 2h ]
+jonutenh checks.
+SNAlpha1 bets [$30].
+jonutenh calls [$30].
+** Dealing River ** [ Ad ]
+jonutenh checks.
+SNAlpha1 bets [$30].
+jonutenh calls [$30].
+** Summary **
+SNAlpha1 shows [ Qh Qs ].
+jonutenh mucks.
+SNAlpha1 collected [$181].

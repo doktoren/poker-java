@@ -1,0 +1,21 @@
+#Game No : 5377450
+***** Pacific Hand History for Game 5377450 *****
+#Game No : 5377459
+***** Pacific Hand History for Game 5377459 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 25 12:10:52 2006
+Table Michelob Light (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Fabila ( $200 )
+Seat 5: finni ( $256.95 )
+finni posts small blind [$5].
+Fabila posts big blind [$10].
+** Dealing down cards **
+finni raises [$15].
+Fabila raises [$20].
+finni calls [$10].
+** Dealing Flop ** [ As, Jd, 4c ]
+Fabila bets [$20].
+finni folds.
+** Summary **
+Fabila collected [$77].

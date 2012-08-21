@@ -1,0 +1,24 @@
+#Game No : 5191808
+***** Pacific Hand History for Game 5191808 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 09:53:07 2006
+Table La Herencia Cubana (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jtchamp4 ( $1922.5 )
+Seat 6: pass3 ( $2674 )
+pass3 posts small blind [$10].
+jtchamp4 posts big blind [$20].
+** Dealing down cards **
+pass3 calls [$10].
+jtchamp4 raises [$40].
+pass3 calls [$40].
+** Dealing Flop ** [ 2s, 10c, Qh ]
+pass3 checks.
+jtchamp4 bets [$100].
+pass3 calls [$100].
+** Dealing Turn ** [ 2h ]
+pass3 checks.
+jtchamp4 bets [$400].
+pass3 folds.
+** Summary **
+jtchamp4 collected [$716].

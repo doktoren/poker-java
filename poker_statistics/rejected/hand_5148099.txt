@@ -1,0 +1,38 @@
+#Game No : 5148099
+***** Pacific Hand History for Game 5148099 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 06:55:15 2006
+Table Punch Gran Puro (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 10: Phatigue ( $1900 )
+Seat 2: burnout9 ( $690 )
+Seat 6: nd430 ( $211.75 )
+Seat 7: RocketsJ ( $3088.34 )
+Seat 8: ck911 ( $582 )
+Seat 9: MAP914 ( $960 )
+RocketsJ posts small blind [$10].
+ck911 posts big blind [$20].
+** Dealing down cards **
+MAP914 calls [$20].
+Phatigue calls [$20].
+burnout9 folds.
+RocketsJ calls [$10].
+ck911 checks.
+** Dealing Flop ** [ 7d, 10h, 9d ]
+RocketsJ checks.
+ck911 checks.
+MAP914 bets [$20].
+Phatigue folds.
+RocketsJ calls [$20].
+ck911 folds.
+** Dealing Turn ** [ 6d ]
+RocketsJ bets [$100].
+MAP914 calls [$100].
+** Dealing River ** [ 5s ]
+RocketsJ bets [$144].
+MAP914 calls [$144].
+** Summary **
+RocketsJ shows [ 7h 8d ].
+MAP914 shows [ 7s 8c ].
+RocketsJ collected [$302].
+MAP914 collected [$302].

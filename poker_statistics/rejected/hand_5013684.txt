@@ -1,0 +1,19 @@
+#Game No : 5013684
+***** Pacific Hand History for Game 5013684 *****
+#Game No : 5014027
+***** Pacific Hand History for Game 5014027 *****
+#Game No : 5014048
+***** Pacific Hand History for Game 5014048 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 15 16:08:59 2006
+Table Chocolate Banana (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 3: awaara ( $200 )
+Seat 8: holly71 ( $134 )
+holly71 posts small blind [$5].
+awaara posts big blind [$10].
+** Dealing down cards **
+holly71 raises [$25].
+awaara folds.
+** Summary **
+holly71 collected [$40].

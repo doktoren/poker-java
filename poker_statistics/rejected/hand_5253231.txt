@@ -1,0 +1,21 @@
+#Game No : 5253231
+***** Pacific Hand History for Game 5253231 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 22 00:25:22 2006
+Table Creamy Orange (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AndMor ( $671.8 )
+Seat 7: djigga ( $554 )
+djigga posts small blind [$3].
+AndMor posts big blind [$6].
+** Dealing down cards **
+djigga calls [$3].
+AndMor checks.
+** Dealing Flop ** [ 9h, 5h, 6h ]
+djigga checks.
+AndMor checks.
+** Dealing Turn ** [ Kd ]
+djigga bets [$6].
+AndMor folds.
+** Summary **
+djigga collected [$17.4].

@@ -1,0 +1,17 @@
+#Game No : 4822748
+***** Pacific Hand History for Game 4822748 *****
+#Game No : 4822868
+***** Pacific Hand History for Game 4822868 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 16:29:54 2006
+Table Acapulco (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: braffer ( $300 )
+Seat 6: jskull ( $1042 )
+braffer posts small blind [$10].
+jskull posts big blind [$20].
+** Dealing down cards **
+braffer raises [$70].
+jskull folds.
+** Summary **
+braffer collected [$100].

@@ -1,0 +1,30 @@
+#Game No : 4911782
+***** Pacific Hand History for Game 4911782 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 02:45:31 2006
+Table Woodpecker Cider (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 10: shotsy ( $1284 )
+Seat 1: Phatigue ( $1870 )
+Seat 2: BIGC0CK ( $6993.47 )
+Seat 3: 2500 ( $2664.5 )
+Seat 5: lacey85 ( $2147.4 )
+Phatigue posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+2500 folds.
+shotsy calls [$20].
+Phatigue calls [$10].
+BIGC0CK checks.
+** Dealing Flop ** [ Jc, 7h, 4s ]
+Phatigue checks.
+BIGC0CK checks.
+shotsy bets [$41].
+Phatigue calls [$41].
+BIGC0CK folds.
+** Dealing Turn ** [ 9s ]
+Phatigue checks.
+shotsy bets [$124].
+Phatigue folds.
+** Summary **
+shotsy collected [$262].

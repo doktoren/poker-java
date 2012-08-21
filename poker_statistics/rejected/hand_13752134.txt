@@ -1,0 +1,44 @@
+#Game No : 13752134
+***** Pacific Hand History for Game 13752134 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 05 13:33:23 2006
+Table CAO Flavours (Real Money)
+Seat 2 is the button
+Total number of players : 10
+Seat 10: KATIE20 ( $482 )
+Seat 1: seeduk ( $55.1 )
+Seat 2: stephank ( $535.3 )
+Seat 3: surdilo ( $223.5 )
+Seat 4: LETRIP ( $410.6 )
+Seat 5: vman66 ( $138.8 )
+Seat 6: blakhand ( $134 )
+Seat 7: spot02 ( $297.72 )
+Seat 8: bluff006 ( $40.15 )
+Seat 9: pyromid ( $400 )
+surdilo posts small blind [$2].
+LETRIP posts big blind [$4].
+** Dealing down cards **
+vman66 folds.
+blakhand folds.
+spot02 folds.
+bluff006 folds.
+pyromid folds.
+KATIE20 folds.
+seeduk calls [$4].
+surdilo folds.
+LETRIP checks.
+** Dealing Flop ** [ Jd, 8c, Js ]
+LETRIP checks.
+seeduk bets [$4].
+LETRIP calls [$4].
+** Dealing Turn ** [ 3h ]
+LETRIP checks.
+seeduk bets [$4].
+LETRIP calls [$4].
+** Dealing River ** [ Ah ]
+LETRIP checks.
+seeduk checks.
+** Summary **
+LETRIP shows [ 3c Ac ].
+seeduk shows [ 6s As ].
+LETRIP collected [$12.35].
+seeduk collected [$12.35].

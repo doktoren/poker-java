@@ -1,0 +1,45 @@
+#Game No : 5472748
+***** Pacific Hand History for Game 5472748 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 22:16:58 2006
+Table La Rica (Real Money)
+Seat 6 is the button
+Total number of players : 10
+Seat 10: fbenoit1 ( $711.5 )
+Seat 1: kielbax ( $2000 )
+Seat 2: boogjr ( $568 )
+Seat 3: sazeracs ( $2086 )
+Seat 4: big101 ( $2000 )
+Seat 5: reneok ( $1566 )
+Seat 6: dbaird ( $2079.98 )
+Seat 7: MAP914 ( $2548 )
+Seat 8: hiskler ( $2159 )
+Seat 9: sheaf ( $2132 )
+MAP914 posts small blind [$10].
+hiskler posts big blind [$20].
+** Dealing down cards **
+sheaf folds.
+kielbax raises [$70].
+boogjr calls [$70].
+sazeracs folds.
+big101 folds.
+reneok calls [$70].
+dbaird calls [$70].
+MAP914 folds.
+hiskler folds.
+** Dealing Flop ** [ Ks, 9s, 2s ]
+kielbax checks.
+boogjr bets [$306].
+reneok folds.
+dbaird calls [$306].
+kielbax folds.
+** Dealing Turn ** [ 3s ]
+boogjr checks.
+dbaird bets [$1703.98].
+boogjr calls [$192].
+** Dealing River ** [ Qd ]
+** Summary **
+boogjr shows [ Ac Kh ].
+dbaird shows [ 9c 9h ].
+dbaird shows [ 9c 9h ].
+dbaird collected [$1302].
+dbaird collected [$1511.98].

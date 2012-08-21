@@ -1,0 +1,15 @@
+#Game No : 4983436
+***** Pacific Hand History for Game 4983436 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 20:23:10 2006
+Table Grappa (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: Lopponen ( $2806 )
+Seat 8: jph0424 ( $1970 )
+jph0424 posts small blind [$10].
+Lopponen posts big blind [$20].
+** Dealing down cards **
+jph0424 raises [$50].
+Lopponen folds.
+** Summary **
+jph0424 collected [$80].

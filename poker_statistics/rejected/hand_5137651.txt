@@ -1,0 +1,28 @@
+#Game No : 5137651
+***** Pacific Hand History for Game 5137651 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 02:07:04 2006
+Table Punch Gran Puro (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: claireee ( $5517.78 )
+Seat 8: NLPoker ( $2010 )
+NLPoker posts small blind [$10].
+claireee posts big blind [$20].
+** Dealing down cards **
+NLPoker raises [$60].
+claireee calls [$50].
+** Dealing Flop ** [ 4s, 2d, 6d ]
+NLPoker bets [$100].
+claireee calls [$100].
+** Dealing Turn ** [ 5c ]
+NLPoker checks.
+claireee bets [$120].
+NLPoker calls [$120].
+** Dealing River ** [ 3s ]
+NLPoker checks.
+claireee checks.
+** Summary **
+NLPoker shows [ 6s 6c ].
+claireee shows [ 6h Ah ].
+claireee collected [$288].
+NLPoker collected [$288].

@@ -1,0 +1,16 @@
+#Game No : 4529593
+***** Pacific Hand History for Game 4529593 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 18:08:54 2006
+Table Kamikaze (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 10: jtchamp4 ( $961.5 )
+Seat 8: MWT5 ( $2372.25 )
+jtchamp4 posts small blind [$5].
+MWT5 posts big blind [$10].
+** Dealing down cards **
+jtchamp4 calls [$5].
+MWT5 raises [$20].
+jtchamp4 folds.
+** Summary **
+MWT5 collected [$40].

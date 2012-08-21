@@ -1,0 +1,44 @@
+#Game No : 5444642
+***** Pacific Hand History for Game 5444642 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 03:42:50 2006
+Table Primo del Rey (Real Money)
+Seat 3 is the button
+Total number of players : 10
+Seat 10: NGUYENHT ( $370 )
+Seat 1: kilburgp ( $1346 )
+Seat 2: vicstorm ( $1150.96 )
+Seat 3: fbenoit1 ( $766.44 )
+Seat 4: jcc88 ( $502.75 )
+Seat 5: scubaste ( $795.23 )
+Seat 6: zojari ( $3272.1 )
+Seat 7: morbit ( $5288.95 )
+Seat 8: big101 ( $1820 )
+Seat 9: liclic ( $405.5 )
+jcc88 posts small blind [$10].
+scubaste posts big blind [$20].
+** Dealing down cards **
+zojari folds.
+morbit folds.
+big101 folds.
+liclic folds.
+NGUYENHT folds.
+kilburgp calls [$20].
+fbenoit1 folds.
+jcc88 calls [$10].
+scubaste checks.
+** Dealing Flop ** [ 6s, 9d, 4d ]
+jcc88 checks.
+scubaste checks.
+kilburgp checks.
+** Dealing Turn ** [ 10s ]
+jcc88 checks.
+scubaste bets [$20].
+kilburgp calls [$20].
+jcc88 calls [$20].
+** Dealing River ** [ Ac ]
+jcc88 bets [$20].
+scubaste folds.
+kilburgp raises [$200].
+jcc88 folds.
+** Summary **
+kilburgp collected [$336].

@@ -1,0 +1,19 @@
+#Game No : 5157782
+***** Pacific Hand History for Game 5157782 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 13:02:59 2006
+Table Baccarat Dominican (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: NZL10 ( $533.76 )
+Seat 6: bigtran ( $200 )
+bigtran posts small blind [$5].
+NZL10 posts big blind [$10].
+** Dealing down cards **
+bigtran calls [$5].
+NZL10 checks.
+** Dealing Flop ** [ Ac, Ah, Ks ]
+bigtran checks.
+NZL10 bets [$10].
+bigtran folds.
+** Summary **
+NZL10 collected [$29].

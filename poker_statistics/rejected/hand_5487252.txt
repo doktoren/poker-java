@@ -1,0 +1,22 @@
+#Game No : 5487252
+***** Pacific Hand History for Game 5487252 *****
+#Game No : 5487399
+***** Pacific Hand History for Game 5487399 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 28 04:26:34 2006
+Table Chi Chi (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: oompa3 ( $2000 )
+Seat 6: HadesAA ( $4250.18 )
+HadesAA posts small blind [$10].
+oompa3 posts big blind [$20].
+** Dealing down cards **
+HadesAA raises [$66].
+oompa3 calls [$56].
+** Dealing Flop ** [ 10d, 6c, 5d ]
+oompa3 checks.
+HadesAA bets [$122].
+oompa3 raises [$404].
+HadesAA folds.
+** Summary **
+oompa3 collected [$674].

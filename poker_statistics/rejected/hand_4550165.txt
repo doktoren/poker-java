@@ -1,0 +1,29 @@
+#Game No : 4550165
+***** Pacific Hand History for Game 4550165 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 03 05:09:17 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: muralt ( $1212.2 )
+Seat 2: stephank ( $1148 )
+stephank posts small blind [$5].
+muralt posts big blind [$10].
+** Dealing down cards **
+stephank raises [$15].
+muralt raises [$30].
+stephank calls [$20].
+** Dealing Flop ** [ Jd, Ac, 8d ]
+stephank checks.
+muralt bets [$20].
+stephank raises [$50].
+muralt calls [$30].
+** Dealing Turn ** [ As ]
+stephank checks.
+muralt bets [$10].
+stephank calls [$10].
+** Dealing River ** [ 5h ]
+stephank checks.
+muralt bets [$80].
+stephank folds.
+** Summary **
+muralt collected [$276].

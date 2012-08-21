@@ -1,0 +1,21 @@
+#Game No : 4545908
+***** Pacific Hand History for Game 4545908 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 03 03:12:22 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: rocice ( $1043.75 )
+Seat 6: neekage ( $556.5 )
+neekage posts small blind [$5].
+rocice posts big blind [$10].
+** Dealing down cards **
+neekage calls [$5].
+rocice checks.
+** Dealing Flop ** [ Jd, 9d, Ad ]
+neekage checks.
+rocice checks.
+** Dealing Turn ** [ 5d ]
+neekage bets [$10].
+rocice folds.
+** Summary **
+neekage collected [$29].

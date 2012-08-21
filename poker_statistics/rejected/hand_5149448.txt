@@ -1,0 +1,30 @@
+#Game No : 5149448
+***** Pacific Hand History for Game 5149448 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 07:31:40 2006
+Table Pink Kangaroo (Real Money)
+Seat 6 is the button
+Total number of players : 10
+Seat 10: chanwolf ( $1387.25 )
+Seat 1: amdrawin ( $203 )
+Seat 2: dlvaile ( $385.5 )
+Seat 3: huijgers ( $1057.5 )
+Seat 4: big101 ( $1219.75 )
+Seat 5: JM1000 ( $354.5 )
+Seat 6: GainM65 ( $469.75 )
+Seat 7: xxDRBxx ( $1326 )
+Seat 8: bgpmp ( $955.25 )
+Seat 9: CowGame ( $100 )
+xxDRBxx posts small blind [$5].
+bgpmp posts big blind [$10].
+** Dealing down cards **
+CowGame folds.
+chanwolf folds.
+amdrawin folds.
+dlvaile folds.
+huijgers folds.
+big101 folds.
+JM1000 folds.
+xxDRBxx raises [$35].
+bgpmp folds.
+** Summary **
+xxDRBxx collected [$50].

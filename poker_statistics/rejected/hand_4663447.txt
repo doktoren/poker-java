@@ -1,0 +1,24 @@
+#Game No : 4663447
+***** Pacific Hand History for Game 4663447 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 05:10:23 2006
+Table Pearl (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MrPils ( $1598.75 )
+Seat 9: timotas ( $474 )
+timotas posts small blind [$5].
+MrPils posts big blind [$10].
+** Dealing down cards **
+timotas calls [$5].
+MrPils checks.
+** Dealing Flop ** [ 7h, 4c, Js ]
+timotas checks.
+MrPils checks.
+** Dealing Turn ** [ 8s ]
+timotas bets [$20].
+MrPils calls [$20].
+** Dealing River ** [ Jh ]
+timotas bets [$60].
+MrPils folds.
+** Summary **
+timotas collected [$117].

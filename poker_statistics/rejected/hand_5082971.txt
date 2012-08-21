@@ -1,0 +1,18 @@
+#Game No : 5082971
+***** Pacific Hand History for Game 5082971 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 20:41:06 2006
+Table Anaconda (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: BIGC0CK ( $9497.5 )
+Seat 5: braffer ( $400 )
+braffer posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+braffer raises [$50].
+BIGC0CK calls [$40].
+** Dealing Flop ** [ 7s, Qd, 4d ]
+braffer bets [$60].
+BIGC0CK folds.
+** Summary **
+braffer collected [$176].

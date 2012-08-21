@@ -1,0 +1,28 @@
+#Game No : 4905121
+***** Pacific Hand History for Game 4905121 *****
+#Game No : 4905527
+***** Pacific Hand History for Game 4905527 *****
+#Game No : 4905538
+***** Pacific Hand History for Game 4905538 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 23:23:22 2006
+Table Zircon (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: couleur3 ( $201 )
+Seat 7: frodl02 ( $176.3 )
+couleur3 posts small blind [$5].
+frodl02 posts big blind [$10].
+** Dealing down cards **
+couleur3 raises [$15].
+frodl02 calls [$10].
+** Dealing Flop ** [ Ad, 10c, 10s ]
+frodl02 checks.
+couleur3 checks.
+** Dealing Turn ** [ 5h ]
+frodl02 bets [$10].
+couleur3 calls [$10].
+** Dealing River ** [ 6c ]
+frodl02 bets [$30].
+couleur3 folds.
+** Summary **
+frodl02 collected [$87].

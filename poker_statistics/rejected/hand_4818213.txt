@@ -1,0 +1,41 @@
+#Game No : 4818213
+***** Pacific Hand History for Game 4818213 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 13:06:55 2006
+Table Tigers Milk (Real Money)
+Seat 8 is the button
+Total number of players : 9
+Seat 10: Kasperis ( $1000 )
+Seat 1: DNcXVII ( $990 )
+Seat 2: galifian ( $1722.25 )
+Seat 4: sd1067 ( $990 )
+Seat 5: petike8 ( $228.57 )
+Seat 6: adybig80 ( $594.6 )
+Seat 7: marshg ( $387 )
+Seat 8: wilkinsd ( $233.2 )
+Seat 9: BLson ( $896.4 )
+BLson posts small blind [$5].
+Kasperis posts big blind [$10].
+petike8 posts big blind [$10].
+** Dealing down cards **
+DNcXVII raises [$40].
+galifian folds.
+sd1067 folds.
+petike8 raises [$60].
+adybig80 folds.
+marshg folds.
+BLson folds.
+Kasperis folds.
+DNcXVII calls [$30].
+** Dealing Flop ** [ 10c, 7s, 2s ]
+DNcXVII checks.
+petike8 bets [$10].
+DNcXVII raises [$920].
+petike8 calls [$148.57].
+** Dealing Turn ** [ Qd ]
+** Dealing River ** [ 10s ]
+** Summary **
+DNcXVII shows [ Js Jh ].
+petike8 shows [ 9s 9h ].
+DNcXVII shows [ Js Jh ].
+DNcXVII collected [$468.14].
+DNcXVII collected [$761.43].

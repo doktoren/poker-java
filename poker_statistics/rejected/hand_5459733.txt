@@ -1,0 +1,26 @@
+#Game No : 5459733
+***** Pacific Hand History for Game 5459733 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 14:02:08 2006
+Table Chi Chi (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 10: MAP914 ( $2912 )
+Seat 5: skellyb ( $5186 )
+MAP914 posts small blind [$10].
+skellyb posts big blind [$20].
+** Dealing down cards **
+MAP914 calls [$10].
+skellyb raises [$40].
+MAP914 calls [$40].
+** Dealing Flop ** [ 5d, 3h, 5h ]
+MAP914 checks.
+skellyb bets [$80].
+MAP914 calls [$80].
+** Dealing Turn ** [ 10s ]
+MAP914 bets [$220].
+skellyb calls [$220].
+** Dealing River ** [ 9h ]
+MAP914 bets [$806].
+skellyb folds.
+** Summary **
+MAP914 collected [$1522].

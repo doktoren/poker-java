@@ -1,0 +1,26 @@
+#Game No : 4921604
+***** Pacific Hand History for Game 4921604 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 09:00:16 2006
+Table Anaconda (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 10: Lydia86 ( $2388 )
+Seat 1: weeeMo ( $586 )
+Seat 2: mdiskin ( $793 )
+Seat 3: kiker777 ( $180 )
+Seat 8: BIGC0CK ( $8422.78 )
+kiker777 posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+Lydia86 folds.
+weeeMo calls [$20].
+mdiskin folds.
+kiker777 folds.
+BIGC0CK checks.
+BIGC0CK checks.
+** Dealing Flop ** [ 9d, 2s, Ac ]
+BIGC0CK checks.
+weeeMo bets [$39].
+BIGC0CK folds.
+** Summary **
+weeeMo collected [$86.5].

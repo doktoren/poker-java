@@ -1,0 +1,24 @@
+#Game No : 4851203
+***** Pacific Hand History for Game 4851203 *****
+#Game No : 4851941
+***** Pacific Hand History for Game 4851941 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 13:56:51 2006
+Table Bronx Cocktail (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DnmDemon ( $154.8 )
+Seat 3: hakker ( $1000 )
+DnmDemon posts small blind [$5].
+hakker posts big blind [$10].
+** Dealing down cards **
+DnmDemon raises [$25].
+hakker calls [$20].
+** Dealing Flop ** [ 9c, 9h, 4c ]
+hakker checks.
+DnmDemon checks.
+** Dealing Turn ** [ 10s ]
+hakker checks.
+DnmDemon bets [$20].
+hakker folds.
+** Summary **
+DnmDemon collected [$77].

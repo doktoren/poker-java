@@ -1,0 +1,36 @@
+#Game No : 5396972
+***** Pacific Hand History for Game 5396972 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 25 23:49:50 2006
+Table Tampa Sweet (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 10: Minibank ( $588 )
+Seat 1: kbkot ( $922.59 )
+Seat 2: gazza325 ( $1613 )
+Seat 3: JkrDub ( $682 )
+Seat 4: Russ888 ( $501.9 )
+Seat 6: DHeise72 ( $712 )
+Seat 7: amdrawin ( $191.45 )
+Seat 8: Ronc50 ( $533.06 )
+Seat 9: chanwolf ( $594 )
+gazza325 posts small blind [$3].
+JkrDub posts big blind [$6].
+** Dealing down cards **
+Russ888 calls [$6].
+DHeise72 folds.
+amdrawin folds.
+Ronc50 folds.
+chanwolf folds.
+Minibank folds.
+kbkot calls [$6].
+gazza325 folds.
+JkrDub checks.
+** Dealing Flop ** [ Ad, Jd, Ac ]
+JkrDub checks.
+JkrDub checks.
+Russ888 checks.
+kbkot bets [$15].
+JkrDub folds.
+Russ888 folds.
+** Summary **
+kbkot collected [$34.95].

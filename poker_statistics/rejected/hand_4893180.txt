@@ -1,0 +1,27 @@
+#Game No : 4893180
+***** Pacific Hand History for Game 4893180 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 15:47:25 2006
+Table Aventinus (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: zen2win ( $411 )
+Seat 6: bobbybo ( $911 )
+zen2win posts small blind [$5].
+bobbybo posts big blind [$10].
+** Dealing down cards **
+zen2win raises [$25].
+bobbybo calls [$20].
+** Dealing Flop ** [ As, Jd, 4s ]
+zen2win bets [$30].
+bobbybo calls [$30].
+** Dealing Turn ** [ 8h ]
+zen2win bets [$30].
+bobbybo raises [$74].
+zen2win raises [$321].
+bobbybo calls [$277].
+** Dealing River ** [ 2s ]
+** Summary **
+zen2win shows [ 10s 8c ].
+bobbybo shows [ 3s 7s ].
+bobbybo shows [ 3s 7s ].
+bobbybo collected [$818].

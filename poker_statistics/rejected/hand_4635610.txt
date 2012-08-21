@@ -1,0 +1,16 @@
+#Game No : 4635610
+***** Pacific Hand History for Game 4635610 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 13:34:46 2006
+Table Excalibur 1066 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: NLPoker ( $16136 )
+Seat 6: qwiefrgo ( $397.08 )
+qwiefrgo posts small blind [$10].
+NLPoker posts big blind [$20].
+** Dealing down cards **
+qwiefrgo calls [$10].
+NLPoker raises [$16116].
+qwiefrgo folds.
+** Summary **
+NLPoker collected [$16156].

@@ -1,0 +1,31 @@
+#Game No : 4807712
+***** Pacific Hand History for Game 4807712 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 04:33:17 2006
+Table Romeo y Julieta 1875 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 10: bukosky ( $2103.57 )
+Seat 1: hedodave ( $188.25 )
+Seat 3: bknd2me ( $1227 )
+Seat 4: ME4KINGU ( $217.4 )
+Seat 5: chanwolf ( $970 )
+Seat 6: sonval ( $88 )
+Seat 7: M8Me ( $1089.67 )
+Seat 8: gdavis70 ( $596.1 )
+Seat 9: onsided ( $211 )
+gdavis70 posts small blind [$5].
+onsided posts big blind [$10].
+** Dealing down cards **
+bukosky calls [$10].
+hedodave folds.
+bknd2me folds.
+chanwolf folds.
+sonval folds.
+M8Me folds.
+gdavis70 folds.
+onsided checks.
+** Dealing Flop ** [ 3c, 9h, Ah ]
+onsided bets [$10].
+bukosky folds.
+** Summary **
+onsided collected [$33.75].

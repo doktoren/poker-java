@@ -1,0 +1,29 @@
+#Game No : 4584866
+***** Pacific Hand History for Game 4584866 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 02:40:26 2006
+Table Black Eyed Susan (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: kogo9 ( $7038.27 )
+Seat 9: Caito ( $3198 )
+Caito posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+Caito raises [$30].
+kogo9 calls [$20].
+** Dealing Flop ** [ 8c, 10d, 2s ]
+Caito bets [$20].
+kogo9 raises [$60].
+Caito raises [$80].
+kogo9 calls [$40].
+** Dealing Turn ** [ Kc ]
+Caito bets [$20].
+kogo9 calls [$20].
+** Dealing River ** [ 2h ]
+Caito checks.
+kogo9 bets [$375].
+Caito calls [$375].
+** Summary **
+kogo9 shows [ 2c 3s ].
+Caito mucks.
+kogo9 collected [$1066].

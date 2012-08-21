@@ -1,0 +1,19 @@
+#Game No : 4533123
+***** Pacific Hand History for Game 4533123 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 20:03:30 2006
+Table Camacho SLR (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 8: denniso2 ( $450.36 )
+Seat 9: RDke ( $220 )
+RDke posts small blind [$5].
+denniso2 posts big blind [$10].
+** Dealing down cards **
+RDke raises [$15].
+denniso2 calls [$10].
+** Dealing Flop ** [ 3h, Jd, 9d ]
+RDke bets [$20].
+denniso2 raises [$60].
+RDke folds.
+** Summary **
+denniso2 collected [$116].

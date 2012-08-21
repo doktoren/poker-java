@@ -1,0 +1,18 @@
+#Game No : 5269022
+***** Pacific Hand History for Game 5269022 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 22 11:32:44 2006
+Table Muddy Water (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: 417ognok ( $425.6 )
+Seat 7: janebird ( $316.96 )
+417ognok posts small blind [$3].
+janebird posts big blind [$6].
+** Dealing down cards **
+417ognok calls [$3].
+janebird checks.
+** Dealing Flop ** [ 2s, 2c, 9d ]
+417ognok bets [$6].
+janebird folds.
+** Summary **
+417ognok collected [$17.4].

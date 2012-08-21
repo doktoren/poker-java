@@ -1,0 +1,15 @@
+#Game No : 5139703
+***** Pacific Hand History for Game 5139703 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 02:54:10 2006
+Table Pink Kangaroo (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: flopah ( $1275 )
+Seat 6: onDUBs ( $70.4 )
+onDUBs posts small blind [$5].
+flopah posts big blind [$10].
+** Dealing down cards **
+onDUBs raises [$65.4].
+flopah folds.
+** Summary **
+onDUBs collected [$80.4].

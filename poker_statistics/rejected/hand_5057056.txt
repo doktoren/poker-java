@@ -1,0 +1,37 @@
+#Game No : 5057056
+***** Pacific Hand History for Game 5057056 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 01:28:42 2006
+Table Marsh Wheeling (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 10: gamago ( $789.5 )
+Seat 1: salsolo ( $460 )
+Seat 2: fbenoit1 ( $554 )
+Seat 3: claireee ( $2232 )
+Seat 6: nixx23 ( $280 )
+Seat 7: carbons ( $2154.5 )
+Seat 8: sarasola ( $1690.7 )
+Seat 9: Phatigue ( $2604 )
+nixx23 posts small blind [$10].
+carbons posts big blind [$20].
+** Dealing down cards **
+sarasola folds.
+Phatigue calls [$20].
+gamago calls [$20].
+salsolo calls [$20].
+fbenoit1 folds.
+nixx23 folds.
+carbons checks.
+** Dealing Flop ** [ 8d, Jc, Jd ]
+carbons checks.
+Phatigue checks.
+gamago checks.
+salsolo checks.
+** Dealing Turn ** [ 7c ]
+carbons checks.
+Phatigue bets [$80].
+gamago folds.
+salsolo folds.
+carbons folds.
+** Summary **
+Phatigue collected [$166].

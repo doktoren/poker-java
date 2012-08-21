@@ -1,0 +1,20 @@
+#Game No : 4674251
+***** Pacific Hand History for Game 4674251 *****
+#Game No : 4674265
+***** Pacific Hand History for Game 4674265 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 12:18:21 2006
+Table Pearl (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: Jenog142 ( $1000 )
+Seat 3: fosion ( $179.7 )
+Jenog142 posts small blind [$5].
+fosion posts big blind [$10].
+** Dealing down cards **
+Jenog142 calls [$5].
+fosion checks.
+** Dealing Flop ** [ 10c, 6d, 7c ]
+fosion bets [$10].
+Jenog142 folds.
+** Summary **
+fosion collected [$29].

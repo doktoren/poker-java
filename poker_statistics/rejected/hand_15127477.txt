@@ -1,0 +1,17 @@
+#Game No : 15127477
+***** Pacific Hand History for Game 15127477 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 21 14:26:06 2006
+Table Silver Stallion (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 5: LAGTARD ( $394 )
+Seat 7: AndMor ( $400 )
+Seat 9: Smedster ( $224.75 )
+LAGTARD posts small blind [$2].
+AndMor posts big blind [$4].
+** Dealing down cards **
+Smedster raises [$14].
+LAGTARD folds.
+AndMor folds.
+** Summary **
+Smedster collected [$20].

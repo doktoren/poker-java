@@ -1,0 +1,37 @@
+#Game No : 5054096
+***** Pacific Hand History for Game 5054096 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 23:38:37 2006
+Table Marsh Wheeling (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 10: demonbo2 ( $835.14 )
+Seat 2: bruningj ( $680 )
+Seat 3: Tanus ( $292 )
+Seat 5: 77je ( $980 )
+Seat 6: barman8 ( $393.5 )
+Seat 7: dangb ( $2368.72 )
+Seat 8: sazeracs ( $1880 )
+Seat 9: cretin64 ( $1707.5 )
+Tanus posts small blind [$10].
+77je posts big blind [$20].
+** Dealing down cards **
+barman8 raises [$80].
+sazeracs folds.
+cretin64 folds.
+demonbo2 folds.
+bruningj calls [$80].
+Tanus folds.
+77je folds.
+** Dealing Flop ** [ 10s, 3h, Qh ]
+barman8 bets [$80].
+bruningj raises [$320].
+barman8 calls [$233.5].
+** Dealing Turn ** [ Kc ]
+** Dealing River ** [ Qc ]
+** Summary **
+bruningj shows [ 8c Jc ].
+barman8 shows [ 7s 7d ].
+bruningj shows [ 8c Jc ].
+barman8 shows [ 7s 7d ].
+barman8 collected [$813].
+bruningj collected [$6.5].

@@ -1,0 +1,14 @@
+#Game No : 5087096
+***** Pacific Hand History for Game 5087096 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 23:09:46 2006
+Table Anaconda (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: PacMann ( $2922.5 )
+Seat 2: jcc88 ( $476.3 )
+jcc88 posts small blind [$10].
+PacMann posts big blind [$20].
+** Dealing down cards **
+jcc88 folds.
+** Summary **
+PacMann collected [$30].

@@ -1,0 +1,15 @@
+#Game No : 5053510
+***** Pacific Hand History for Game 5053510 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 23:13:31 2006
+Table Marsh Wheeling (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: barman8 ( $1699 )
+Seat 8: NLPoker ( $17833.99 )
+NLPoker posts small blind [$10].
+barman8 posts big blind [$20].
+** Dealing down cards **
+NLPoker raises [$56].
+barman8 folds.
+** Summary **
+NLPoker collected [$86].

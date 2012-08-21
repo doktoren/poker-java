@@ -1,0 +1,22 @@
+#Game No : 4626327
+***** Pacific Hand History for Game 4626327 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 06:24:04 2006
+Table Bandita (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 10: tovnasy ( $26 )
+Seat 1: nrajovic ( $4657.7 )
+Seat 2: silcorp ( $1046 )
+Seat 3: kogo9 ( $4930.5 )
+Seat 6: boogie10 ( $2000 )
+Seat 9: STEALR ( $249 )
+silcorp posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+boogie10 folds.
+STEALR raises [$249].
+nrajovic folds.
+silcorp folds.
+kogo9 folds.
+** Summary **
+STEALR collected [$279].

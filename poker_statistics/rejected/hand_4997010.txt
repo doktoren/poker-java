@@ -1,0 +1,34 @@
+#Game No : 4997010
+***** Pacific Hand History for Game 4997010 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 02:21:04 2006
+Table Woodpecker Cider (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: Phatigue ( $9960.3 )
+Seat 2: mbadoo ( $21 )
+Seat 3: aaronkjo ( $1916.5 )
+Seat 4: jtchamp4 ( $1666 )
+Seat 5: dangb ( $1680 )
+Seat 7: macsta ( $1670 )
+macsta posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+mbadoo folds.
+aaronkjo calls [$20].
+jtchamp4 raises [$80].
+macsta folds.
+Phatigue raises [$160].
+aaronkjo folds.
+jtchamp4 calls [$100].
+** Dealing Flop ** [ Jc, Qs, 10c ]
+Phatigue bets [$300].
+jtchamp4 calls [$300].
+** Dealing Turn ** [ 8c ]
+Phatigue checks.
+jtchamp4 checks.
+** Dealing River ** [ 6c ]
+Phatigue checks.
+jtchamp4 bets [$350].
+Phatigue folds.
+** Summary **
+jtchamp4 collected [$1336].

@@ -1,0 +1,17 @@
+#Game No : 50685302
+***** Pacific Hand History for Game 50685302 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 09 14:34:29 2006
+Table Robins Nest (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 10: munin ( $1006.6 )
+Seat 1: majobi84 ( $136 )
+Seat 8: gdavis70 ( $508 )
+Seat 9: sd1067 ( $460.6 )
+gdavis70 posts small blind [$2].
+sd1067 posts big blind [$4].
+** Dealing down cards **
+majobi84 folds.
+gdavis70 folds.
+** Summary **
+sd1067 collected [$6].

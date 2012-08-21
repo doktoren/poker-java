@@ -1,0 +1,27 @@
+#Game No : 4579497
+***** Pacific Hand History for Game 4579497 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 00:15:31 2006
+Table Black Eyed Susan (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 10: timotas ( $1029 )
+Seat 1: Grebler ( $470 )
+Seat 2: hugo13 ( $3321.5 )
+Seat 3: demonbo2 ( $2192 )
+Seat 4: knraney ( $2362 )
+Seat 5: kogo9 ( $3699 )
+Seat 7: Curtnut ( $990.97 )
+Seat 8: Kasperis ( $3216.68 )
+Seat 9: dklars ( $2408 )
+Kasperis posts small blind [$10].
+dklars posts big blind [$20].
+** Dealing down cards **
+timotas folds.
+Grebler folds.
+hugo13 folds.
+demonbo2 folds.
+kogo9 folds.
+Curtnut folds.
+Kasperis folds.
+** Summary **
+dklars collected [$30].

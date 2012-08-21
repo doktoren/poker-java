@@ -1,0 +1,29 @@
+#Game No : 4586191
+***** Pacific Hand History for Game 4586191 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 04 03:16:35 2006
+Table Cuaba Divinos (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: TinyTnks ( $1143.5 )
+Seat 3: neekage ( $194 )
+Seat 5: swejonte ( $865.5 )
+Seat 6: jefbond ( $144.4 )
+Seat 7: huijgers ( $987.5 )
+jefbond posts small blind [$5].
+huijgers posts big blind [$10].
+** Dealing down cards **
+TinyTnks folds.
+swejonte folds.
+jefbond calls [$5].
+huijgers checks.
+** Dealing Flop ** [ 4d, Jd, Qd ]
+jefbond checks.
+huijgers checks.
+** Dealing Turn ** [ 10c ]
+jefbond checks.
+huijgers checks.
+** Dealing River ** [ 5c ]
+jefbond bets [$10].
+huijgers folds.
+** Summary **
+jefbond collected [$29].

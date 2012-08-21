@@ -1,0 +1,31 @@
+#Game No : 4623326
+***** Pacific Hand History for Game 4623326 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 04:01:26 2006
+Table Excalibur 1066 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jak0007 ( $1650 )
+Seat 2: stephank ( $2462 )
+Seat 4: tire444 ( $2335 )
+Seat 6: Haschis ( $2022 )
+Seat 7: stitch42 ( $1090 )
+Seat 9: jtchamp4 ( $2347 )
+Haschis posts small blind [$10].
+stitch42 posts big blind [$20].
+** Dealing down cards **
+jtchamp4 folds.
+stephank folds.
+tire444 folds.
+Haschis calls [$10].
+stitch42 checks.
+** Dealing Flop ** [ 3c, 6c, Kh ]
+Haschis bets [$40].
+stitch42 calls [$40].
+** Dealing Turn ** [ 2d ]
+Haschis bets [$80].
+stitch42 calls [$80].
+** Dealing River ** [ 7s ]
+Haschis bets [$100].
+stitch42 folds.
+** Summary **
+Haschis collected [$376].

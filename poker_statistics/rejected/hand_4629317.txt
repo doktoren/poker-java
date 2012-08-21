@@ -1,0 +1,29 @@
+#Game No : 4629317
+***** Pacific Hand History for Game 4629317 *****
+#Game No : 4629328
+***** Pacific Hand History for Game 4629328 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 08:35:06 2006
+Table Excalibur 1066 (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 1: nrajovic ( $3444 )
+Seat 8: boogie10 ( $2522 )
+boogie10 posts small blind [$10].
+nrajovic posts big blind [$20].
+** Dealing down cards **
+boogie10 raises [$70].
+nrajovic calls [$60].
+** Dealing Flop ** [ 7h, 4h, 10h ]
+nrajovic checks.
+boogie10 checks.
+** Dealing Turn ** [ 3h ]
+nrajovic checks.
+boogie10 checks.
+** Dealing River ** [ 7c ]
+nrajovic checks.
+boogie10 bets [$100].
+nrajovic calls [$100].
+** Summary **
+boogie10 shows [ 8h 6c ].
+nrajovic mucks.
+boogie10 collected [$356].

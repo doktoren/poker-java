@@ -1,0 +1,27 @@
+#Game No : 4655658
+***** Pacific Hand History for Game 4655658 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 00:32:49 2006
+Table Excalibur 1066 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Phatigue ( $2010 )
+Seat 6: JayPat00 ( $936 )
+JayPat00 posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+JayPat00 calls [$10].
+Phatigue checks.
+** Dealing Flop ** [ 5s, 6c, 9d ]
+JayPat00 checks.
+Phatigue bets [$30].
+JayPat00 calls [$30].
+** Dealing Turn ** [ 10h ]
+JayPat00 checks.
+Phatigue checks.
+** Dealing River ** [ Kc ]
+JayPat00 checks.
+Phatigue checks.
+** Summary **
+JayPat00 shows [ 8c 7h ].
+Phatigue mucks.
+JayPat00 collected [$96].

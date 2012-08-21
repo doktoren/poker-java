@@ -1,0 +1,21 @@
+#Game No : 4529014
+***** Pacific Hand History for Game 4529014 *****
+#Game No : 4529040
+***** Pacific Hand History for Game 4529040 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 17:50:11 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: tmac99 ( $300 )
+Seat 6: huijgers ( $1000 )
+huijgers posts small blind [$5].
+tmac99 posts big blind [$10].
+** Dealing down cards **
+huijgers calls [$5].
+tmac99 checks.
+** Dealing Flop ** [ Kh, 8c, 5d ]
+tmac99 checks.
+huijgers bets [$20].
+tmac99 folds.
+** Summary **
+huijgers collected [$39].

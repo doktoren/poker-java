@@ -1,0 +1,34 @@
+#Game No : 5387851
+***** Pacific Hand History for Game 5387851 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 20:00:13 2006
+Table Harpoon Summer (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: JayPat00 ( $976 )
+Seat 2: mjoy ( $910 )
+Seat 3: kasperi ( $2172 )
+Seat 4: hugo13 ( $2826.5 )
+Seat 5: fbenoit1 ( $1336 )
+Seat 6: big101 ( $4095 )
+Seat 7: wmwmw ( $601.91 )
+Seat 8: Kasperis ( $2616 )
+Seat 9: MANDRAKE ( $1386 )
+mjoy posts small blind [$10].
+kasperi posts big blind [$20].
+** Dealing down cards **
+hugo13 folds.
+fbenoit1 folds.
+big101 folds.
+wmwmw folds.
+Kasperis calls [$20].
+MANDRAKE folds.
+mjoy calls [$10].
+kasperi checks.
+** Dealing Flop ** [ 9s, 8s, Kd ]
+mjoy checks.
+kasperi checks.
+Kasperis bets [$40].
+mjoy folds.
+kasperi folds.
+** Summary **
+Kasperis collected [$97].

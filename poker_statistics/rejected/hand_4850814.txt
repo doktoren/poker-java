@@ -1,0 +1,37 @@
+#Game No : 4850814
+***** Pacific Hand History for Game 4850814 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 11:51:25 2006
+Table Tigers Milk (Real Money)
+Seat 8 is the button
+Total number of players : 9
+Seat 10: imhoteb ( $360 )
+Seat 2: Ringer ( $218.5 )
+Seat 3: kasperi ( $1474 )
+Seat 4: svortex ( $2185.25 )
+Seat 5: bgpmp ( $985 )
+Seat 6: ewass ( $1032.36 )
+Seat 7: MGM2008 ( $456 )
+Seat 8: einstei7 ( $175.4 )
+Seat 9: bollsta ( $1041 )
+bollsta posts small blind [$5].
+imhoteb posts big blind [$10].
+MGM2008 posts big blind [$10].
+** Dealing down cards **
+Ringer calls [$10].
+kasperi folds.
+svortex folds.
+ewass folds.
+MGM2008 checks.
+einstei7 raises [$30].
+bollsta folds.
+imhoteb folds.
+Ringer calls [$20].
+MGM2008 folds.
+** Dealing Flop ** [ 4s, 7c, 8d ]
+Ringer checks.
+einstei7 checks.
+** Dealing Turn ** [ 9c ]
+Ringer bets [$93].
+einstei7 folds.
+** Summary **
+Ringer collected [$174].

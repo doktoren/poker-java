@@ -1,0 +1,30 @@
+#Game No : 5228846
+***** Pacific Hand History for Game 5228846 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 08:37:14 2006
+Table Tootsie Roll (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 10: jv8035 ( $2308 )
+Seat 3: NaruTo00 ( $1825.5 )
+Seat 5: huijgers ( $2143 )
+Seat 7: unglee ( $2016 )
+Seat 8: noway4u ( $2195.02 )
+Seat 9: liclic ( $730.82 )
+liclic posts small blind [$10].
+jv8035 posts big blind [$20].
+** Dealing down cards **
+NaruTo00 calls [$20].
+unglee folds.
+noway4u calls [$20].
+liclic calls [$10].
+jv8035 checks.
+** Dealing Flop ** [ Ah, 4h, Ks ]
+liclic checks.
+jv8035 checks.
+NaruTo00 checks.
+noway4u bets [$60].
+liclic folds.
+jv8035 folds.
+NaruTo00 folds.
+** Summary **
+noway4u collected [$136].

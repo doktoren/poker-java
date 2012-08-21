@@ -1,0 +1,22 @@
+#Game No : 4850779
+***** Pacific Hand History for Game 4850779 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 11 11:48:05 2006
+Table Cazadores (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: bgpmp ( $740.52 )
+Seat 7: 01killer ( $632.99 )
+01killer posts small blind [$3].
+bgpmp posts big blind [$6].
+** Dealing down cards **
+01killer calls [$3].
+bgpmp checks.
+** Dealing Flop ** [ As, 9c, 3h ]
+01killer checks.
+bgpmp checks.
+** Dealing Turn ** [ 3d ]
+01killer checks.
+bgpmp bets [$6].
+01killer folds.
+** Summary **
+bgpmp collected [$17.4].

@@ -1,0 +1,23 @@
+#Game No : 58959655
+***** Pacific Hand History for Game 58959655 *****
+$2/$4 Blinds No Limit Hold'em - *** 09 03 15:49:37 2006
+Table Molsen (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: CrispinK ( $577.3 )
+Seat 5: bizad ( $465.6 )
+Seat 6: OBigO ( $526.1 )
+Seat 7: durdn ( $431.1 )
+Seat 8: DnmDemon ( $1134.77 )
+Seat 9: durex133 ( $343.6 )
+bizad posts small blind [$2].
+OBigO posts big blind [$4].
+** Dealing down cards **
+durdn folds.
+DnmDemon raises [$12].
+CrispinK raises [$32].
+bizad folds.
+OBigO folds.
+DnmDemon folds.
+** Summary **
+CrispinK collected [$50].

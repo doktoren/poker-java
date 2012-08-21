@@ -1,0 +1,14 @@
+#Game No : 4704906
+***** Pacific Hand History for Game 4704906 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 07 05:55:26 2006
+Table Partagas Lonsdales (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 10: Phatigue ( $4581.28 )
+Seat 9: NLPoker ( $19664.68 )
+Phatigue posts small blind [$10].
+NLPoker posts big blind [$20].
+** Dealing down cards **
+Phatigue folds.
+** Summary **
+NLPoker collected [$30].

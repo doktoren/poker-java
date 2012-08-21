@@ -1,0 +1,20 @@
+#Game No : 4943112
+***** Pacific Hand History for Game 4943112 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 21:34:28 2006
+Table Anaconda (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 1: BIGC0CK ( $6954 )
+Seat 5: jeter323 ( $3818.5 )
+Seat 7: bobbybo ( $774.5 )
+Seat 8: Todo1969 ( $1594 )
+Seat 9: demonbo2 ( $1008 )
+demonbo2 posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+jeter323 folds.
+Todo1969 raises [$60].
+demonbo2 folds.
+BIGC0CK folds.
+** Summary **
+Todo1969 collected [$90].

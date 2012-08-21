@@ -1,0 +1,38 @@
+#Game No : 7025709
+***** Pacific Hand History for Game 7025709 *****
+$0.5/$1 Blinds No Limit Hold'em - *** 06 18 21:00:40 2006
+Table Honolulu Hammer (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 10: tech13 ( $99 )
+Seat 1: Triplei ( $100 )
+Seat 2: SteveG87 ( $101.9 )
+Seat 3: carzie81 ( $22.35 )
+Seat 4: MarcosC ( $97 )
+Seat 5: reb51 ( $100 )
+Seat 6: th1msen ( $68.45 )
+Seat 8: adamden ( $230.3 )
+Seat 9: gm4ever ( $98.5 )
+tech13 posts small blind [$0.5].
+Triplei posts big blind [$1].
+reb51 posts big blind [$1].
+** Dealing down cards **
+SteveG87 raises [$4].
+carzie81 raises [$7].
+MarcosC folds.
+reb51 folds.
+th1msen folds.
+gm4ever folds.
+tech13 folds.
+Triplei folds.
+SteveG87 raises [$97.9].
+carzie81 calls [$15.35].
+** Dealing Flop ** [ 10c, 7d, Jc ]
+** Dealing Turn ** [ Qd ]
+** Dealing River ** [ 2s ]
+** Summary **
+SteveG87 shows [ Kh As ].
+carzie81 shows [ Ac 10h ].
+SteveG87 shows [ Kh As ].
+SteveG87 collected [$44.85].
+SteveG87 collected [$79.55].

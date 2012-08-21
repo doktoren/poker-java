@@ -1,0 +1,26 @@
+#Game No : 4675385
+***** Pacific Hand History for Game 4675385 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 13:05:42 2006
+Table Excalibur 1066 (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 3: MWT5 ( $2594 )
+Seat 8: jph0424 ( $2186 )
+MWT5 posts small blind [$10].
+jph0424 posts big blind [$20].
+** Dealing down cards **
+MWT5 calls [$10].
+jph0424 checks.
+** Dealing Flop ** [ Jh, 2c, Js ]
+MWT5 checks.
+jph0424 checks.
+** Dealing Turn ** [ Jc ]
+MWT5 checks.
+jph0424 checks.
+** Dealing River ** [ 3c ]
+MWT5 checks.
+jph0424 checks.
+** Summary **
+MWT5 shows [ Kd 7h ].
+jph0424 mucks.
+MWT5 collected [$38].

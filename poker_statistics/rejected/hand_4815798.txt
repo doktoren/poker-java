@@ -1,0 +1,23 @@
+#Game No : 4815798
+***** Pacific Hand History for Game 4815798 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 10:56:15 2006
+Table Romeo y Julieta 1875 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 10: kiyoshi8 ( $4426.52 )
+Seat 2: meggaen ( $970 )
+Seat 3: Kasperis ( $1036.5 )
+Seat 6: ewass ( $165.77 )
+Seat 7: bmt14778 ( $904.5 )
+Seat 8: reneok ( $963 )
+Seat 9: Lopponen ( $990 )
+Lopponen posts small blind [$5].
+kiyoshi8 posts big blind [$10].
+** Dealing down cards **
+meggaen folds.
+Kasperis folds.
+bmt14778 folds.
+reneok folds.
+Lopponen folds.
+** Summary **
+kiyoshi8 collected [$15].

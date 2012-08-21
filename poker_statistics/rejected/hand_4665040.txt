@@ -1,0 +1,31 @@
+#Game No : 4665040
+***** Pacific Hand History for Game 4665040 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 06 06:16:44 2006
+Table Partagas Lonsdales (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 10: boogjr ( $2132.98 )
+Seat 1: fbenoit1 ( $4833.25 )
+Seat 2: Jak0007 ( $596.34 )
+Seat 4: jtchamp4 ( $1970 )
+Seat 8: MWT5 ( $3695.84 )
+Seat 9: dgs281 ( $3962 )
+MWT5 posts small blind [$10].
+dgs281 posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+Jak0007 calls [$20].
+jtchamp4 folds.
+MWT5 folds.
+dgs281 checks.
+** Dealing Flop ** [ As, 6h, 8h ]
+dgs281 checks.
+Jak0007 checks.
+** Dealing Turn ** [ 6s ]
+dgs281 checks.
+Jak0007 checks.
+** Dealing River ** [ 6d ]
+dgs281 bets [$40].
+Jak0007 folds.
+** Summary **
+dgs281 collected [$87.5].

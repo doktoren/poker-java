@@ -1,0 +1,17 @@
+#Game No : 5461485
+***** Pacific Hand History for Game 5461485 *****
+#Game No : 5461513
+***** Pacific Hand History for Game 5461513 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 15:58:34 2006
+Table La Rica (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: hugo13 ( $2595.45 )
+Seat 7: LCK333 ( $412.55 )
+hugo13 posts small blind [$10].
+LCK333 posts big blind [$20].
+** Dealing down cards **
+hugo13 raises [$50].
+LCK333 folds.
+** Summary **
+hugo13 collected [$80].

@@ -1,0 +1,55 @@
+#Game No : 49382309
+***** Pacific Hand History for Game 49382309 *****
+$0.05/$0.1 Limit Hold'em - *** 09 06 22:19:52 2006
+Table AVO Signature (Real Money)
+Seat 8 is the button
+Total number of players : 10
+Seat 10: gigant15 ( $2.83 )
+Seat 1: wakeytom ( $5.12 )
+Seat 2: cahsse ( $19.36 )
+Seat 3: DBURGON ( $9.59 )
+Seat 4: BemBen ( $4.7 )
+Seat 5: doktoren ( $0.25 )
+Seat 6: larryhar ( $5 )
+Seat 7: nufc82 ( $2 )
+Seat 8: atomek ( $20.71 )
+Seat 9: andida ( $3.94 )
+andida posts small blind [$0.02].
+gigant15 posts big blind [$0.05].
+larryhar posts big blind [$0.05].
+nufc82 posts big blind [$0.05].
+** Dealing down cards **
+Dealt to doktoren [ Qs Jc ]
+wakeytom calls [$0.05].
+cahsse folds.
+DBURGON folds.
+BemBen calls [$0.05].
+doktoren raises [$0.1].
+larryhar folds.
+nufc82 folds.
+atomek calls [$0.1].
+andida folds.
+gigant15 folds.
+wakeytom calls [$0.05].
+BemBen calls [$0.05].
+** Dealing Flop ** [ Kc, 4d, Ah ]
+wakeytom checks.
+BemBen bets [$0.05].
+doktoren calls [$0.05].
+atomek folds.
+wakeytom calls [$0.05].
+** Dealing Turn ** [ 3c ]
+wakeytom checks.
+BemBen bets [$0.1].
+doktoren calls [$0.1].
+wakeytom calls [$0.1].
+** Dealing River ** [ 9h ]
+wakeytom checks.
+BemBen bets [$0.1].
+wakeytom folds.
+** Summary **
+BemBen shows [ As 4c ].
+doktoren shows [ Qs Jc ].
+BemBen shows [ As 4c ].
+BemBen collected [$0.96].
+BemBen collected [$0.1].

@@ -1,0 +1,35 @@
+#Game No : 5027176
+***** Pacific Hand History for Game 5027176 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 16 00:55:25 2006
+Table Carlos Torano Exodus Silver (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 10: kbywjra ( $425.18 )
+Seat 2: timotas ( $372 )
+Seat 5: malibu23 ( $657.69 )
+Seat 6: reggy ( $481.8 )
+Seat 7: RCJIII ( $598.45 )
+Seat 8: MugOfAle ( $87 )
+timotas posts small blind [$3].
+malibu23 posts big blind [$6].
+** Dealing down cards **
+reggy folds.
+RCJIII folds.
+MugOfAle raises [$18].
+timotas folds.
+malibu23 calls [$12].
+** Dealing Flop ** [ Ks, 2d, 9d ]
+malibu23 checks.
+MugOfAle bets [$19].
+malibu23 calls [$19].
+** Dealing Turn ** [ 10c ]
+malibu23 checks.
+MugOfAle bets [$50].
+malibu23 calls [$50].
+** Dealing River ** [ 4d ]
+** Summary **
+malibu23 shows [ Jc Jh ].
+MugOfAle shows [ Qh Kd ].
+malibu23 shows [ Jc Jh ].
+MugOfAle shows [ Qh Kd ].
+MugOfAle collected [$173].

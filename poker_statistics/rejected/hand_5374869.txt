@@ -1,0 +1,27 @@
+#Game No : 5374869
+***** Pacific Hand History for Game 5374869 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 25 09:10:23 2006
+Table Michelob Light (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 10: claireee ( $2480.81 )
+Seat 1: wheel05 ( $207.87 )
+Seat 2: bollie1 ( $1009 )
+Seat 3: TinyTnks ( $1192.5 )
+Seat 8: RocketsJ ( $2319.01 )
+Seat 9: sheaf ( $1117 )
+RocketsJ posts small blind [$5].
+sheaf posts big blind [$10].
+** Dealing down cards **
+wheel05 calls [$10].
+bollie1 calls [$10].
+TinyTnks folds.
+RocketsJ calls [$5].
+sheaf checks.
+** Dealing Flop ** [ Jd, 4h, 5s ]
+RocketsJ bets [$40].
+sheaf folds.
+wheel05 folds.
+bollie1 folds.
+** Summary **
+RocketsJ collected [$78].

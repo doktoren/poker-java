@@ -1,0 +1,29 @@
+#Game No : 5173701
+***** Pacific Hand History for Game 5173701 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 21:50:53 2006
+Table Punch Gran Puro (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: HadesAA ( $4226 )
+Seat 4: PacMann ( $4502.5 )
+Seat 5: fbenoit1 ( $1490 )
+Seat 6: RocketsJ ( $3608 )
+Seat 7: Phatigue ( $2086 )
+Seat 8: Monkbox ( $1860 )
+Monkbox posts small blind [$10].
+HadesAA posts big blind [$20].
+** Dealing down cards **
+PacMann folds.
+fbenoit1 folds.
+Phatigue calls [$20].
+Monkbox folds.
+HadesAA checks.
+** Dealing Flop ** [ 8c, 3s, 5s ]
+HadesAA bets [$60].
+Phatigue calls [$60].
+** Dealing Turn ** [ 2d ]
+HadesAA checks.
+Phatigue bets [$120].
+HadesAA folds.
+** Summary **
+Phatigue collected [$286].

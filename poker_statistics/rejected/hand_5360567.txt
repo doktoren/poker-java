@@ -1,0 +1,21 @@
+#Game No : 5360567
+***** Pacific Hand History for Game 5360567 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 25 01:12:10 2006
+Table Gin and Tonic (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 10: sazeracs ( $2112 )
+Seat 5: wooder2 ( $1796.5 )
+Seat 7: Saalis ( $10069.5 )
+Seat 8: BIGC0CK ( $2708 )
+Seat 9: Kasperis ( $2007.5 )
+Saalis posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+sazeracs folds.
+wooder2 calls [$20].
+Saalis folds.
+BIGC0CK raises [$80].
+wooder2 folds.
+** Summary **
+BIGC0CK collected [$130].

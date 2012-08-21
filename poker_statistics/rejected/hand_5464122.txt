@@ -1,0 +1,28 @@
+#Game No : 5464122
+***** Pacific Hand History for Game 5464122 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 17:31:11 2006
+Table Chi Chi (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: BUSTY17 ( $4598.6 )
+Seat 3: 2500 ( $2998 )
+Seat 5: galifian ( $2691.5 )
+Seat 6: Kasperis ( $2000 )
+Seat 7: stephank ( $2000 )
+Seat 8: Sauty ( $2596.5 )
+2500 posts small blind [$10].
+galifian posts big blind [$20].
+stephank posts big blind [$20].
+** Dealing down cards **
+Kasperis folds.
+stephank checks.
+Sauty raises [$80].
+2500 folds.
+galifian folds.
+stephank calls [$60].
+** Dealing Flop ** [ 6d, 5c, Qc ]
+stephank checks.
+Sauty bets [$129].
+stephank folds.
+** Summary **
+Sauty collected [$315].

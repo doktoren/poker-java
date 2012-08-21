@@ -1,0 +1,25 @@
+#Game No : 4996008
+***** Pacific Hand History for Game 4996008 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 01:49:30 2006
+Table Woodpecker Cider (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Phatigue ( $8085.5 )
+Seat 4: logbil ( $1112 )
+logbil posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+logbil raises [$50].
+Phatigue raises [$140].
+logbil raises [$435].
+Phatigue raises [$2922].
+logbil calls [$617].
+** Dealing Flop ** [ Jd, 6c, 4h ]
+** Dealing Turn ** [ Ac ]
+** Dealing River ** [ 8c ]
+** Summary **
+Phatigue shows [ Kc Ad ].
+logbil shows [ Qh As ].
+Phatigue shows [ Kc Ad ].
+Phatigue collected [$2220].
+Phatigue collected [$1970].

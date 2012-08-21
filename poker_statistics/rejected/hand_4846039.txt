@@ -1,0 +1,31 @@
+#Game No : 4846039
+***** Pacific Hand History for Game 4846039 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 07:19:45 2006
+Table Bronx Cocktail (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 1: TheFist2 ( $946 )
+Seat 3: cooljok3 ( $1713.66 )
+Seat 4: darby09 ( $1028.29 )
+Seat 7: KH0801 ( $274.83 )
+Seat 8: NZL10 ( $1372.59 )
+TheFist2 posts small blind [$5].
+cooljok3 posts big blind [$10].
+** Dealing down cards **
+darby09 folds.
+KH0801 folds.
+TheFist2 calls [$5].
+cooljok3 checks.
+** Dealing Flop ** [ 5s, 8c, 8d ]
+TheFist2 checks.
+cooljok3 checks.
+** Dealing Turn ** [ 9s ]
+TheFist2 checks.
+cooljok3 checks.
+** Dealing River ** [ 3s ]
+TheFist2 checks.
+cooljok3 checks.
+** Summary **
+TheFist2 shows [ 5h Ks ].
+cooljok3 mucks.
+TheFist2 collected [$19].

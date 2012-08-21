@@ -1,0 +1,22 @@
+#Game No : 4662181
+***** Pacific Hand History for Game 4662181 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 04:16:27 2006
+Table Pearl (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 10: GainM65 ( $226.9 )
+Seat 2: MrPils ( $960 )
+Seat 3: kbkot ( $996.25 )
+Seat 5: WSOP0731 ( $1362.5 )
+Seat 6: interrr ( $935.62 )
+Seat 7: PacMann ( $1026.5 )
+GainM65 posts small blind [$5].
+MrPils posts big blind [$10].
+** Dealing down cards **
+kbkot folds.
+WSOP0731 raises [$40].
+PacMann folds.
+GainM65 folds.
+MrPils folds.
+** Summary **
+WSOP0731 collected [$55].

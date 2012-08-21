@@ -1,0 +1,18 @@
+#Game No : 4704130
+***** Pacific Hand History for Game 4704130 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 07 05:27:18 2006
+Table Cusano Corojo 97 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 10: gazza325 ( $1917 )
+Seat 1: TinyTnks ( $520 )
+Seat 3: sazeracs ( $918.25 )
+Seat 5: phatsky ( $500 )
+sazeracs posts small blind [$5].
+phatsky posts big blind [$10].
+** Dealing down cards **
+TinyTnks folds.
+sazeracs raises [$35].
+phatsky folds.
+** Summary **
+sazeracs collected [$50].

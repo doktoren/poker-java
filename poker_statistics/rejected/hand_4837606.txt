@@ -1,0 +1,24 @@
+#Game No : 4837606
+***** Pacific Hand History for Game 4837606 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 11 01:07:19 2006
+Table Tequila Slammer (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Saalis ( $1981 )
+Seat 3: xxDRBxx ( $2714 )
+xxDRBxx posts small blind [$10].
+Saalis posts big blind [$20].
+** Dealing down cards **
+xxDRBxx calls [$10].
+Saalis checks.
+** Dealing Flop ** [ Ac, As, Qs ]
+xxDRBxx checks.
+Saalis checks.
+** Dealing Turn ** [ 9s ]
+xxDRBxx checks.
+Saalis checks.
+** Dealing River ** [ Qh ]
+xxDRBxx bets [$20].
+Saalis folds.
+** Summary **
+xxDRBxx collected [$58].

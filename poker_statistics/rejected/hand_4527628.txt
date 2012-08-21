@@ -1,0 +1,24 @@
+#Game No : 4527628
+***** Pacific Hand History for Game 4527628 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 16:47:39 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: TafaT ( $954.25 )
+Seat 5: QuickC ( $1398 )
+Seat 6: jtchamp4 ( $718.5 )
+Seat 7: galifian ( $944.25 )
+Seat 8: ace1142 ( $181.53 )
+galifian posts small blind [$5].
+ace1142 posts big blind [$10].
+** Dealing down cards **
+TafaT folds.
+jtchamp4 folds.
+galifian calls [$5].
+ace1142 checks.
+** Dealing Flop ** [ Ac, 7h, 7c ]
+galifian checks.
+ace1142 bets [$20].
+galifian folds.
+** Summary **
+ace1142 collected [$39].

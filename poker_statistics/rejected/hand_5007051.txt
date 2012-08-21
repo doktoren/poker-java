@@ -1,0 +1,16 @@
+#Game No : 5007051
+***** Pacific Hand History for Game 5007051 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 09:35:57 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Phatigue ( $6480.46 )
+Seat 7: Lmpn ( $1932 )
+Lmpn posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+Lmpn calls [$10].
+Phatigue raises [$80].
+Lmpn folds.
+** Summary **
+Phatigue collected [$120].

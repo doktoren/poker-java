@@ -1,0 +1,19 @@
+#Game No : 5020255
+***** Pacific Hand History for Game 5020255 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 20:37:36 2006
+Table Anaconda (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: hosen ( $3024.3 )
+Seat 8: stephank ( $2456 )
+stephank posts small blind [$10].
+hosen posts big blind [$20].
+** Dealing down cards **
+stephank calls [$10].
+hosen checks.
+** Dealing Flop ** [ 7c, 5s, 8c ]
+stephank checks.
+hosen bets [$20].
+stephank folds.
+** Summary **
+hosen collected [$58].

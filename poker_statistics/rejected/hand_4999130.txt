@@ -1,0 +1,23 @@
+#Game No : 4999130
+***** Pacific Hand History for Game 4999130 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 03:24:59 2006
+Table McEwans (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 10: fbenoit1 ( $3957 )
+Seat 1: Chrilles ( $3601 )
+Seat 3: logbil ( $2182 )
+Seat 4: sarasola ( $1768 )
+Seat 5: karski21 ( $556.8 )
+Seat 7: salsolo ( $476 )
+Seat 8: awaara ( $253 )
+salsolo posts small blind [$10].
+awaara posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+Chrilles folds.
+logbil folds.
+sarasola folds.
+salsolo folds.
+** Summary **
+awaara collected [$30].

@@ -1,0 +1,25 @@
+#Game No : 5259386
+***** Pacific Hand History for Game 5259386 *****
+#Game No : 5259973
+***** Pacific Hand History for Game 5259973 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 22 04:35:55 2006
+Table San Sebastian (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: henryg44 ( $200 )
+Seat 5: PitBrett ( $300 )
+henryg44 posts small blind [$5].
+PitBrett posts big blind [$10].
+** Dealing down cards **
+henryg44 raises [$15].
+PitBrett calls [$10].
+** Dealing Flop ** [ 5d, 2s, 7h ]
+PitBrett checks.
+henryg44 checks.
+** Dealing Turn ** [ 3s ]
+PitBrett checks.
+henryg44 bets [$30].
+PitBrett raises [$60].
+henryg44 folds.
+** Summary **
+PitBrett collected [$126].

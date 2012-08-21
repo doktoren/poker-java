@@ -1,0 +1,25 @@
+#Game No : 4794211
+***** Pacific Hand History for Game 4794211 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 09 19:41:30 2006
+Table Tequila Slammer (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: JThomsen ( $1870 )
+Seat 4: E31C0 ( $876 )
+Seat 5: EEpen ( $1245.5 )
+Seat 6: demonbo2 ( $749 )
+Seat 7: fbenoit1 ( $1838.64 )
+Seat 8: sonval ( $500 )
+Seat 9: wmwmw ( $1816 )
+demonbo2 posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+sonval folds.
+JThomsen folds.
+E31C0 calls [$20].
+EEpen raises [$60].
+demonbo2 folds.
+fbenoit1 folds.
+E31C0 folds.
+** Summary **
+EEpen collected [$110].

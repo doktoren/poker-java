@@ -1,0 +1,36 @@
+#Game No : 5470745
+***** Pacific Hand History for Game 5470745 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 27 21:13:40 2006
+Table Chi Chi (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 10: JThomsen ( $1990 )
+Seat 5: BUSTY17 ( $3640.5 )
+Seat 6: RAJ315 ( $97.65 )
+Seat 7: reneok ( $1533 )
+Seat 8: Kasperis ( $2498 )
+Seat 9: Saalis ( $3100 )
+reneok posts small blind [$10].
+Kasperis posts big blind [$20].
+** Dealing down cards **
+Saalis folds.
+JThomsen folds.
+RAJ315 calls [$20].
+reneok calls [$10].
+Kasperis checks.
+** Dealing Flop ** [ 5d, Qd, Ad ]
+reneok checks.
+Kasperis checks.
+RAJ315 bets [$20].
+reneok raises [$80].
+Kasperis folds.
+RAJ315 calls [$57.65].
+** Dealing Turn ** [ 6c ]
+** Dealing River ** [ Qh ]
+** Summary **
+RAJ315 shows [ Qc 10d ].
+reneok shows [ Jd Ah ].
+reneok shows [ Jd Ah ].
+RAJ315 shows [ Qc 10d ].
+RAJ315 collected [$211.3].
+reneok collected [$2.35].

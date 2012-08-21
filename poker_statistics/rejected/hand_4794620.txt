@@ -1,0 +1,19 @@
+#Game No : 4794620
+***** Pacific Hand History for Game 4794620 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 09 19:55:30 2006
+Table Taviano (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Rkoo ( $1114.45 )
+Seat 5: tomjoo ( $485.5 )
+Seat 6: rxpspd ( $1032.45 )
+Seat 7: XiboY ( $584.8 )
+Seat 8: win0815 ( $330.6 )
+XiboY posts small blind [$3].
+win0815 posts big blind [$6].
+** Dealing down cards **
+Rkoo folds.
+tomjoo folds.
+XiboY folds.
+** Summary **
+win0815 collected [$9].

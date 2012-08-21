@@ -1,0 +1,43 @@
+#Game No : 4831248
+***** Pacific Hand History for Game 4831248 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 22:03:47 2006
+Table Tigers Milk (Real Money)
+Seat 10 is the button
+Total number of players : 10
+Seat 10: R0N7655 ( $1139.17 )
+Seat 1: chanwolf ( $948 )
+Seat 2: reneok ( $1050.75 )
+Seat 3: kim194 ( $757.5 )
+Seat 4: dagent44 ( $896.57 )
+Seat 5: Churchii ( $665.17 )
+Seat 6: mcdouble ( $145 )
+Seat 7: Gamble91 ( $158.75 )
+Seat 8: MrMr82 ( $375 )
+Seat 9: CowGame ( $100.5 )
+chanwolf posts small blind [$5].
+reneok posts big blind [$10].
+** Dealing down cards **
+dagent44 calls [$10].
+Churchii folds.
+mcdouble folds.
+Gamble91 folds.
+MrMr82 calls [$10].
+CowGame folds.
+R0N7655 folds.
+chanwolf folds.
+reneok checks.
+** Dealing Flop ** [ Qc, 2c, Ks ]
+reneok checks.
+dagent44 bets [$30].
+MrMr82 folds.
+reneok calls [$30].
+** Dealing Turn ** [ 8c ]
+reneok checks.
+dagent44 checks.
+** Dealing River ** [ Ac ]
+reneok checks.
+dagent44 checks.
+** Summary **
+reneok shows [ 9c 5c ].
+dagent44 mucks.
+reneok collected [$91].

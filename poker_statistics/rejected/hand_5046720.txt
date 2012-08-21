@@ -1,0 +1,16 @@
+#Game No : 5046720
+***** Pacific Hand History for Game 5046720 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 17:46:21 2006
+Table Anaconda (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: cps99 ( $1304.45 )
+Seat 7: dagent44 ( $1700 )
+cps99 posts small blind [$10].
+dagent44 posts big blind [$20].
+** Dealing down cards **
+cps99 calls [$10].
+dagent44 raises [$80].
+cps99 folds.
+** Summary **
+dagent44 collected [$120].

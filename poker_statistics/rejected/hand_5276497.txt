@@ -1,0 +1,41 @@
+#Game No : 5276497
+***** Pacific Hand History for Game 5276497 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 22 18:17:14 2006
+Table Archbishop (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 10: qtee1 ( $588.65 )
+Seat 1: Jenog142 ( $2326.85 )
+Seat 2: huijgers ( $1244.75 )
+Seat 4: bxlefty ( $1331 )
+Seat 5: dpescod ( $790.1 )
+Seat 6: Gamble91 ( $615 )
+Seat 7: amdrawin ( $241 )
+Seat 8: krisch ( $990 )
+Seat 9: MSK78 ( $746.5 )
+dpescod posts small blind [$5].
+Gamble91 posts big blind [$10].
+** Dealing down cards **
+amdrawin folds.
+krisch folds.
+MSK78 folds.
+qtee1 calls [$10].
+huijgers folds.
+bxlefty raises [$45].
+dpescod calls [$40].
+Gamble91 folds.
+qtee1 calls [$35].
+** Dealing Flop ** [ 10h, 5d, 4c ]
+dpescod checks.
+qtee1 checks.
+bxlefty bets [$100].
+dpescod calls [$100].
+qtee1 folds.
+** Dealing Turn ** [ 8c ]
+dpescod checks.
+bxlefty checks.
+** Dealing River ** [ Qd ]
+dpescod bets [$240].
+bxlefty folds.
+** Summary **
+dpescod collected [$581].

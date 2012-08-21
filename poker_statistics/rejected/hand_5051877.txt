@@ -1,0 +1,21 @@
+#Game No : 5051877
+***** Pacific Hand History for Game 5051877 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 21:57:47 2006
+Table Anaconda (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: demonbo2 ( $1172 )
+Seat 6: pablo130 ( $960 )
+demonbo2 posts small blind [$10].
+pablo130 posts big blind [$20].
+** Dealing down cards **
+demonbo2 calls [$10].
+pablo130 checks.
+** Dealing Flop ** [ 3h, Ad, 7c ]
+demonbo2 checks.
+pablo130 checks.
+** Dealing Turn ** [ 8d ]
+demonbo2 bets [$40].
+pablo130 folds.
+** Summary **
+demonbo2 collected [$78].

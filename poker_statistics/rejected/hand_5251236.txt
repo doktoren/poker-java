@@ -1,0 +1,30 @@
+#Game No : 5251236
+***** Pacific Hand History for Game 5251236 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 21 23:32:09 2006
+Table Creamy Orange (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3: dipollo ( $233.9 )
+Seat 4: CrispinK ( $591 )
+Seat 5: DSWoody2 ( $771.05 )
+Seat 6: stephank ( $692.25 )
+Seat 8: uwhomp ( $826.4 )
+Seat 9: FishLovr ( $586.95 )
+stephank posts small blind [$3].
+uwhomp posts big blind [$6].
+** Dealing down cards **
+FishLovr calls [$6].
+dipollo folds.
+CrispinK folds.
+DSWoody2 folds.
+stephank calls [$3].
+uwhomp checks.
+** Dealing Flop ** [ 7c, 4c, Jc ]
+stephank checks.
+stephank checks.
+uwhomp checks.
+FishLovr bets [$6].
+stephank folds.
+uwhomp folds.
+** Summary **
+FishLovr collected [$23.1].

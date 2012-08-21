@@ -1,0 +1,16 @@
+#Game No : 5003379
+***** Pacific Hand History for Game 5003379 *****
+#Game No : 5003426
+***** Pacific Hand History for Game 5003426 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 15 05:56:40 2006
+Table McEwans (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: fbenoit1 ( $2000 )
+Seat 1: Mambobam ( $1980 )
+fbenoit1 posts small blind [$10].
+Mambobam posts big blind [$20].
+** Dealing down cards **
+fbenoit1 folds.
+** Summary **
+Mambobam collected [$30].

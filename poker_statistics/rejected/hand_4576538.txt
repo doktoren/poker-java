@@ -1,0 +1,26 @@
+#Game No : 4576538
+***** Pacific Hand History for Game 4576538 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 03 23:03:05 2006
+Table Black Eyed Susan (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 10: timotas ( $950 )
+Seat 1: fbenoit1 ( $361 )
+Seat 3: demonbo2 ( $500 )
+Seat 5: kogo9 ( $3757 )
+Seat 6: begme ( $1522.73 )
+Seat 7: JM10 ( $378.18 )
+Seat 8: Kasperis ( $3554.18 )
+Seat 9: sleepyyy ( $1960 )
+timotas posts small blind [$10].
+fbenoit1 posts big blind [$20].
+** Dealing down cards **
+demonbo2 folds.
+kogo9 raises [$60].
+begme folds.
+Kasperis folds.
+sleepyyy folds.
+timotas folds.
+fbenoit1 folds.
+** Summary **
+kogo9 collected [$90].

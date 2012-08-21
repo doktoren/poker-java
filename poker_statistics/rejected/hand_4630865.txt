@@ -1,0 +1,18 @@
+#Game No : 4630865
+***** Pacific Hand History for Game 4630865 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 05 09:41:27 2006
+Table Red Snapper (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 1: JM1000 ( $700.65 )
+Seat 4: ZACK323 ( $1000.42 )
+Seat 5: timotas ( $379.96 )
+Seat 9: wrexk ( $1235.2 )
+timotas posts small blind [$3].
+wrexk posts big blind [$6].
+** Dealing down cards **
+JM1000 folds.
+timotas raises [$15].
+wrexk folds.
+** Summary **
+timotas collected [$24].

@@ -1,0 +1,15 @@
+#Game No : 4532232
+***** Pacific Hand History for Game 4532232 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 19:37:28 2006
+Table H. Upmann Royal Coronas (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: MWT5 ( $1508.87 )
+Seat 7: Kasperis ( $1280.5 )
+Kasperis posts small blind [$5].
+MWT5 posts big blind [$10].
+** Dealing down cards **
+Kasperis raises [$35].
+MWT5 folds.
+** Summary **
+Kasperis collected [$50].

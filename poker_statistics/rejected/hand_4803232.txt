@@ -1,0 +1,27 @@
+#Game No : 4803232
+***** Pacific Hand History for Game 4803232 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 01:37:32 2006
+Table Citron Dream (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Flamez13 ( $1151 )
+Seat 6: bobbybo ( $995 )
+bobbybo posts small blind [$5].
+Flamez13 posts big blind [$10].
+** Dealing down cards **
+bobbybo raises [$25].
+Flamez13 calls [$20].
+** Dealing Flop ** [ 6d, 2h, Ac ]
+Flamez13 checks.
+bobbybo bets [$30].
+Flamez13 calls [$30].
+** Dealing Turn ** [ Ks ]
+Flamez13 checks.
+bobbybo checks.
+** Dealing River ** [ 6s ]
+Flamez13 bets [$100].
+bobbybo calls [$100].
+bobbybo folds.
+** Summary **
+Flamez13 shows [ 5h 6h ].
+Flamez13 collected [$316].

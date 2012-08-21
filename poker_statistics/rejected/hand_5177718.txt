@@ -1,0 +1,30 @@
+#Game No : 5177718
+***** Pacific Hand History for Game 5177718 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 00:02:19 2006
+Table Punch Gran Puro (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: skellyb ( $4044.5 )
+Seat 2: logbil ( $2417 )
+Seat 4: StackYa ( $1970 )
+Seat 5: sheaf ( $1314 )
+Seat 7: Phatigue ( $3611.5 )
+Seat 8: Monkbox ( $6020.5 )
+sheaf posts small blind [$10].
+Phatigue posts big blind [$20].
+** Dealing down cards **
+Monkbox calls [$20].
+logbil folds.
+StackYa raises [$80].
+sheaf folds.
+Phatigue folds.
+Monkbox calls [$60].
+** Dealing Flop ** [ Jd, Ad, Jh ]
+Monkbox checks.
+StackYa checks.
+** Dealing Turn ** [ Qh ]
+Monkbox checks.
+StackYa bets [$120].
+Monkbox folds.
+** Summary **
+StackYa collected [$306].

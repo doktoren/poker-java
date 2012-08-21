@@ -1,0 +1,25 @@
+#Game No : 5212111
+***** Pacific Hand History for Game 5212111 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 23:46:07 2006
+Table La Flor de Murias (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 10: Monkbox ( $1950 )
+Seat 1: sucKJs ( $1880 )
+Seat 2: fogden ( $839.5 )
+Seat 3: calej ( $208 )
+Seat 4: sarasola ( $2667.5 )
+Seat 5: sonval ( $151 )
+Seat 6: Caito ( $4593.5 )
+Seat 7: zojari ( $2471.5 )
+zojari posts small blind [$10].
+Monkbox posts big blind [$20].
+** Dealing down cards **
+sucKJs folds.
+fogden folds.
+calej folds.
+sarasola folds.
+sonval folds.
+zojari folds.
+** Summary **
+Monkbox collected [$30].

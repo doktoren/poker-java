@@ -1,0 +1,22 @@
+#Game No : 4679255
+***** Pacific Hand History for Game 4679255 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 06 16:20:29 2006
+Table Pearl (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jenog142 ( $980 )
+Seat 3: theison2 ( $561.25 )
+Seat 5: Tuttu ( $1051 )
+Seat 6: jeter323 ( $1361.33 )
+Seat 8: harikir3 ( $43 )
+Seat 9: Eve69 ( $1804.75 )
+Jenog142 posts small blind [$5].
+theison2 posts big blind [$10].
+** Dealing down cards **
+Tuttu folds.
+jeter323 folds.
+Eve69 folds.
+Jenog142 raises [$35].
+theison2 folds.
+** Summary **
+Jenog142 collected [$50].

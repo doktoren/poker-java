@@ -1,0 +1,14 @@
+#Game No : 4532907
+***** Pacific Hand History for Game 4532907 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 02 19:56:20 2006
+Table Kamikaze (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: galifian ( $753.5 )
+Seat 9: denniso2 ( $314.61 )
+galifian posts small blind [$5].
+denniso2 posts big blind [$10].
+** Dealing down cards **
+galifian folds.
+** Summary **
+denniso2 collected [$15].

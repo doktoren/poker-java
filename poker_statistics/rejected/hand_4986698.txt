@@ -1,0 +1,43 @@
+#Game No : 4986698
+***** Pacific Hand History for Game 4986698 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 21:56:14 2006
+Table Tropical Breeze (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 10: holly71 ( $120 )
+Seat 1: SDBuckO ( $415.25 )
+Seat 2: demonbo2 ( $480 )
+Seat 3: karski21 ( $300 )
+Seat 4: SAMMYNJ ( $712 )
+Seat 5: newhome7 ( $191 )
+Seat 7: aaronkjo ( $5782.88 )
+Seat 8: fbenoit1 ( $340 )
+Seat 9: Chrilles ( $1872 )
+demonbo2 posts small blind [$10].
+karski21 posts big blind [$20].
+** Dealing down cards **
+SAMMYNJ calls [$20].
+newhome7 calls [$20].
+fbenoit1 folds.
+Chrilles folds.
+holly71 raises [$120].
+SDBuckO folds.
+demonbo2 folds.
+karski21 folds.
+SAMMYNJ calls [$100].
+newhome7 calls [$100].
+** Dealing Flop ** [ 9h, 2c, 5d ]
+SAMMYNJ checks.
+newhome7 checks.
+** Dealing Turn ** [ 8h ]
+SAMMYNJ bets [$60].
+newhome7 raises [$71].
+SAMMYNJ calls [$11].
+** Dealing River ** [ Ks ]
+** Summary **
+holly71 shows [ 8d Ad ].
+SAMMYNJ shows [ 3d Kh ].
+newhome7 shows [ 6h Qh ].
+SAMMYNJ shows [ 3d Kh ].
+SAMMYNJ collected [$386].
+SAMMYNJ collected [$142].

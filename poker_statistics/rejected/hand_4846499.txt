@@ -1,0 +1,19 @@
+#Game No : 4846499
+***** Pacific Hand History for Game 4846499 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 11 07:45:42 2006
+Table Bronx Cocktail (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: darby09 ( $170 )
+Seat 6: theison2 ( $481.75 )
+darby09 posts small blind [$5].
+theison2 posts big blind [$10].
+** Dealing down cards **
+darby09 calls [$5].
+theison2 checks.
+** Dealing Flop ** [ 8c, 2h, Kc ]
+darby09 checks.
+theison2 bets [$20].
+darby09 folds.
+** Summary **
+theison2 collected [$39].

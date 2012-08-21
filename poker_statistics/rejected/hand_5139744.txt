@@ -1,0 +1,17 @@
+#Game No : 5139744
+***** Pacific Hand History for Game 5139744 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 19 02:55:42 2006
+Table BMW (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 10: BIGC0CK ( $2191 )
+Seat 2: ltgcty ( $2000 )
+Seat 6: djigga ( $650 )
+djigga posts small blind [$10].
+BIGC0CK posts big blind [$20].
+** Dealing down cards **
+djigga calls [$10].
+BIGC0CK raises [$80].
+djigga folds.
+** Summary **
+BIGC0CK collected [$120].

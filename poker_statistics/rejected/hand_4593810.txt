@@ -1,0 +1,32 @@
+#Game No : 4593810
+***** Pacific Hand History for Game 4593810 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 04 09:36:15 2006
+Table Amethyst (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 4: gbernard ( $1203 )
+Seat 5: StackYa ( $2424 )
+Seat 6: hugo13 ( $6558.6 )
+Seat 7: boogie10 ( $3180.58 )
+Seat 8: mcdubb ( $1860 )
+Seat 9: MWT5 ( $3852.5 )
+boogie10 posts small blind [$10].
+mcdubb posts big blind [$20].
+** Dealing down cards **
+MWT5 calls [$20].
+gbernard folds.
+StackYa folds.
+hugo13 folds.
+boogie10 calls [$10].
+mcdubb checks.
+** Dealing Flop ** [ Qc, 3c, 8c ]
+boogie10 checks.
+mcdubb checks.
+mcdubb checks.
+MWT5 checks.
+** Dealing Turn ** [ 2d ]
+boogie10 bets [$60].
+mcdubb folds.
+MWT5 folds.
+** Summary **
+boogie10 collected [$117].

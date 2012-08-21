@@ -1,0 +1,35 @@
+#Game No : 4818773
+***** Pacific Hand History for Game 4818773 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 10 13:47:35 2006
+Table Acapulco (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 10: jtchamp4 ( $1887 )
+Seat 1: DNcXVII ( $2171 )
+Seat 3: bobb0704 ( $1402.3 )
+Seat 5: Marsh99 ( $504 )
+Seat 7: miniphat ( $1782.5 )
+Seat 9: hugo13 ( $2362.5 )
+miniphat posts small blind [$10].
+hugo13 posts big blind [$20].
+** Dealing down cards **
+jtchamp4 folds.
+DNcXVII calls [$20].
+bobb0704 raises [$40].
+miniphat folds.
+hugo13 calls [$20].
+DNcXVII calls [$20].
+** Dealing Flop ** [ 10c, 10h, 3d ]
+hugo13 bets [$40].
+DNcXVII folds.
+bobb0704 calls [$40].
+** Dealing Turn ** [ 10s ]
+hugo13 bets [$80].
+bobb0704 calls [$80].
+** Dealing River ** [ 10d ]
+hugo13 checks.
+bobb0704 checks.
+** Summary **
+hugo13 shows [ 3c Kd ].
+bobb0704 mucks.
+hugo13 collected [$366].

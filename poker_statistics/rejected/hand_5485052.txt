@@ -1,0 +1,26 @@
+#Game No : 5485052
+***** Pacific Hand History for Game 5485052 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 28 03:13:09 2006
+Table Chi Chi (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: oompa3 ( $2014 )
+Seat 3: jcc88 ( $468 )
+Seat 5: Oskaart ( $2686 )
+Seat 6: HadesAA ( $3969.68 )
+Seat 7: big101 ( $1960 )
+big101 posts small blind [$10].
+oompa3 posts big blind [$20].
+** Dealing down cards **
+Oskaart folds.
+HadesAA raises [$77].
+big101 folds.
+oompa3 calls [$57].
+** Dealing Flop ** [ 7s, 5h, 7c ]
+oompa3 bets [$80].
+HadesAA calls [$80].
+** Dealing Turn ** [ Qh ]
+oompa3 bets [$220].
+HadesAA folds.
+** Summary **
+oompa3 collected [$540].

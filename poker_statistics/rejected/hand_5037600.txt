@@ -1,0 +1,24 @@
+#Game No : 5037600
+***** Pacific Hand History for Game 5037600 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 08:34:35 2006
+Table Havannah (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 10: weeeMo ( $1035.54 )
+Seat 2: aaronkjo ( $828.75 )
+Seat 3: GainM65 ( $345.75 )
+Seat 7: TheHazem ( $1263.25 )
+Seat 8: ACDC74 ( $319.5 )
+GainM65 posts small blind [$5].
+TheHazem posts big blind [$10].
+** Dealing down cards **
+ACDC74 raises [$40].
+weeeMo folds.
+GainM65 folds.
+TheHazem calls [$30].
+** Dealing Flop ** [ 6h, 8c, Kh ]
+TheHazem checks.
+ACDC74 bets [$40].
+TheHazem folds.
+** Summary **
+ACDC74 collected [$121].

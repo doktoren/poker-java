@@ -1,0 +1,27 @@
+#Game No : 4873451
+***** Pacific Hand History for Game 4873451 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 02:00:24 2006
+Table Aventinus (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: jeter323 ( $2288.92 )
+Seat 7: MarcoBoy ( $489.25 )
+jeter323 posts small blind [$5].
+MarcoBoy posts big blind [$10].
+** Dealing down cards **
+jeter323 calls [$5].
+MarcoBoy raises [$30].
+jeter323 calls [$30].
+** Dealing Flop ** [ 8h, 3s, Qh ]
+jeter323 checks.
+MarcoBoy checks.
+** Dealing Turn ** [ 2d ]
+jeter323 checks.
+MarcoBoy checks.
+** Dealing River ** [ Ks ]
+jeter323 checks.
+MarcoBoy checks.
+** Summary **
+jeter323 shows [ As 7d ].
+MarcoBoy mucks.
+jeter323 collected [$76].

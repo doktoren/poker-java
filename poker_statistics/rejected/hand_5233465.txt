@@ -1,0 +1,33 @@
+#Game No : 5233465
+***** Pacific Hand History for Game 5233465 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 21 12:39:56 2006
+Table Tootsie Roll (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: tuanh06 ( $2000 )
+Seat 2: NaruTo00 ( $1206.3 )
+Seat 3: HadesAA ( $2305.5 )
+Seat 5: M8Me ( $3530.22 )
+Seat 6: huijgers ( $5598.1 )
+Seat 7: Phatigue ( $2341 )
+HadesAA posts small blind [$10].
+M8Me posts big blind [$20].
+tuanh06 posts big blind [$20].
+** Dealing down cards **
+huijgers folds.
+Phatigue folds.
+tuanh06 checks.
+NaruTo00 calls [$20].
+HadesAA calls [$10].
+M8Me checks.
+** Dealing Flop ** [ 10c, 3s, 10d ]
+HadesAA checks.
+HadesAA checks.
+M8Me checks.
+tuanh06 checks.
+NaruTo00 bets [$40].
+HadesAA folds.
+M8Me folds.
+tuanh06 folds.
+** Summary **
+NaruTo00 collected [$116].

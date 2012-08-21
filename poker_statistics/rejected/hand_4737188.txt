@@ -1,0 +1,24 @@
+#Game No : 4737188
+***** Pacific Hand History for Game 4737188 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 01:18:14 2006
+Table Almodine (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: vinny76 ( $2083.5 )
+Seat 2: kogo9 ( $2348 )
+Seat 3: Kasperis ( $2222 )
+Seat 4: athorn ( $2368 )
+Seat 5: fbenoit1 ( $2085 )
+Seat 6: logbil ( $2213 )
+Seat 9: pmchayn ( $934 )
+vinny76 posts small blind [$10].
+kogo9 posts big blind [$20].
+** Dealing down cards **
+athorn folds.
+fbenoit1 raises [$60].
+logbil folds.
+pmchayn folds.
+vinny76 folds.
+kogo9 folds.
+** Summary **
+fbenoit1 collected [$90].

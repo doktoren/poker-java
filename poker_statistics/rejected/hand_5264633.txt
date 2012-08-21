@@ -1,0 +1,14 @@
+#Game No : 5264633
+***** Pacific Hand History for Game 5264633 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 22 08:15:06 2006
+Table 7 (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: unglee ( $499 )
+Seat 9: scsdms1 ( $1071.25 )
+scsdms1 posts small blind [$5].
+unglee posts big blind [$10].
+** Dealing down cards **
+scsdms1 folds.
+** Summary **
+unglee collected [$15].

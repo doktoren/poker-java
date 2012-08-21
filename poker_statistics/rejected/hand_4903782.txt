@@ -1,0 +1,25 @@
+#Game No : 4903782
+***** Pacific Hand History for Game 4903782 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 12 22:24:57 2006
+Table Scorpion (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 10: Chrilles ( $3936 )
+Seat 2: eve98 ( $630.1 )
+Seat 5: bgpmp ( $2883 )
+Seat 6: PacMann ( $2704.5 )
+Seat 7: huijgers ( $1930 )
+Seat 8: jonutenh ( $2112 )
+Seat 9: kielbax ( $1980 )
+Chrilles posts small blind [$10].
+eve98 posts big blind [$20].
+** Dealing down cards **
+bgpmp calls [$20].
+PacMann folds.
+jonutenh folds.
+kielbax raises [$90].
+Chrilles folds.
+eve98 folds.
+bgpmp folds.
+** Summary **
+kielbax collected [$140].

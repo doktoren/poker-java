@@ -1,0 +1,18 @@
+#Game No : 4752545
+***** Pacific Hand History for Game 4752545 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 08 11:40:00 2006
+Table Excalibur 1066 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: boogie10 ( $7609.5 )
+Seat 6: donbosco ( $523.79 )
+donbosco posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+donbosco calls [$10].
+boogie10 checks.
+** Dealing Flop ** [ As, 9d, Jd ]
+donbosco bets [$20].
+boogie10 folds.
+** Summary **
+donbosco collected [$58].

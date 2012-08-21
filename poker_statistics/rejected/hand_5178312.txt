@@ -1,0 +1,18 @@
+#Game No : 5178312
+***** Pacific Hand History for Game 5178312 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 20 00:22:02 2006
+Table La Herencia Cubana (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 2: Phatigue ( $5606.04 )
+Seat 8: dogspot ( $1970 )
+Phatigue posts small blind [$10].
+dogspot posts big blind [$20].
+** Dealing down cards **
+Phatigue calls [$10].
+dogspot checks.
+** Dealing Flop ** [ 8c, 4s, Kd ]
+Phatigue bets [$26].
+dogspot folds.
+** Summary **
+Phatigue collected [$64].

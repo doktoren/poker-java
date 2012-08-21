@@ -1,0 +1,19 @@
+#Game No : 5160770
+***** Pacific Hand History for Game 5160770 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 19 15:56:37 2006
+Table Baccarat Dominican (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 10: wcjt17 ( $1215 )
+Seat 1: Jenog142 ( $973.5 )
+Seat 5: zojari ( $1058 )
+Seat 6: huijgers ( $1151 )
+Jenog142 posts small blind [$5].
+zojari posts big blind [$10].
+** Dealing down cards **
+huijgers folds.
+Jenog142 calls [$5].
+zojari raises [$30].
+Jenog142 folds.
+** Summary **
+zojari collected [$50].

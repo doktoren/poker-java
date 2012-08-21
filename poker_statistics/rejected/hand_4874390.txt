@@ -1,0 +1,47 @@
+#Game No : 4874390
+***** Pacific Hand History for Game 4874390 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 12 02:37:17 2006
+Table Smirnoff Ice (Real Money)
+Seat 9 is the button
+Total number of players : 10
+Seat 10: Ringer ( $181 )
+Seat 1: R0N7655 ( $126 )
+Seat 2: sleepyyy ( $1413.75 )
+Seat 3: nixx23 ( $817.75 )
+Seat 4: gazza325 ( $900 )
+Seat 5: niteboy ( $71.58 )
+Seat 6: MGM2008 ( $622.98 )
+Seat 7: dklars ( $1153 )
+Seat 8: xxDRBxx ( $2215.64 )
+Seat 9: AceKckr ( $220 )
+Ringer posts small blind [$5].
+R0N7655 posts big blind [$10].
+** Dealing down cards **
+sleepyyy folds.
+nixx23 calls [$10].
+niteboy folds.
+MGM2008 calls [$10].
+dklars folds.
+xxDRBxx folds.
+AceKckr folds.
+Ringer calls [$5].
+R0N7655 checks.
+** Dealing Flop ** [ Ad, 4c, Js ]
+Ringer checks.
+R0N7655 checks.
+nixx23 bets [$20].
+MGM2008 raises [$40].
+Ringer folds.
+R0N7655 folds.
+nixx23 calls [$20].
+** Dealing Turn ** [ 6c ]
+nixx23 checks.
+MGM2008 bets [$30].
+nixx23 calls [$30].
+** Dealing River ** [ 3s ]
+nixx23 checks.
+MGM2008 checks.
+** Summary **
+nixx23 shows [ Jc Kh ].
+MGM2008 shows [ 9c Ah ].
+MGM2008 collected [$176].

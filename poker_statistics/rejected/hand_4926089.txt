@@ -1,0 +1,18 @@
+#Game No : 4926089
+***** Pacific Hand History for Game 4926089 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 13 12:25:35 2006
+Table Woodpecker Cider (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: PixFrank ( $2368 )
+Seat 5: BIGC0CK ( $1670 )
+BIGC0CK posts small blind [$10].
+PixFrank posts big blind [$20].
+** Dealing down cards **
+BIGC0CK raises [$70].
+PixFrank calls [$60].
+** Dealing Flop ** [ 7d, 10h, 8s ]
+BIGC0CK bets [$120].
+PixFrank folds.
+** Summary **
+BIGC0CK collected [$276].

@@ -1,0 +1,33 @@
+#Game No : 5031188
+***** Pacific Hand History for Game 5031188 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 16 03:47:18 2006
+Table Havannah (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: PNT2006 ( $402.5 )
+Seat 4: MANDRAKE ( $145.12 )
+Seat 5: pablo130 ( $1136.29 )
+Seat 7: Squamou ( $225.13 )
+Seat 8: ppelican ( $72 )
+Seat 9: RCJIII ( $1135.49 )
+pablo130 posts small blind [$5].
+Squamou posts big blind [$10].
+** Dealing down cards **
+ppelican folds.
+PNT2006 folds.
+MANDRAKE folds.
+pablo130 calls [$5].
+Squamou checks.
+** Dealing Flop ** [ Kh, Jh, Qd ]
+pablo130 checks.
+Squamou checks.
+** Dealing Turn ** [ Ad ]
+pablo130 bets [$20].
+Squamou calls [$20].
+** Dealing River ** [ Ah ]
+pablo130 bets [$20].
+Squamou calls [$20].
+** Summary **
+pablo130 shows [ 2c Kc ].
+Squamou shows [ 5d Ac ].
+Squamou collected [$96].

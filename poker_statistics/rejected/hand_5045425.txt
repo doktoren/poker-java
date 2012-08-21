@@ -1,0 +1,19 @@
+#Game No : 5045425
+***** Pacific Hand History for Game 5045425 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 16:39:16 2006
+Table Anaconda (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: boogie10 ( $5035.35 )
+Seat 6: hosen ( $3378 )
+hosen posts small blind [$10].
+boogie10 posts big blind [$20].
+** Dealing down cards **
+hosen calls [$10].
+boogie10 checks.
+** Dealing Flop ** [ Js, 5c, 2s ]
+hosen checks.
+boogie10 bets [$80].
+hosen folds.
+** Summary **
+boogie10 collected [$118].

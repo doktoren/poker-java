@@ -1,0 +1,29 @@
+#Game No : 5576754
+***** Pacific Hand History for Game 5576754 *****
+#Game No : 5576853
+***** Pacific Hand History for Game 5576853 *****
+#Game No : 5576888
+***** Pacific Hand History for Game 5576888 *****
+#Game No : 5577109
+***** Pacific Hand History for Game 5577109 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 30 18:50:39 2006
+Table Jasper (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: jentao13 ( $500 )
+Seat 6: Ph1984 ( $100.45 )
+jentao13 posts small blind [$5].
+Ph1984 posts big blind [$10].
+** Dealing down cards **
+jentao13 raises [$495].
+Ph1984 calls [$90.45].
+** Dealing Flop ** [ 2d, 4s, Qd ]
+** Dealing Turn ** [ 10s ]
+** Dealing River ** [ 8d ]
+** Summary **
+jentao13 shows [ As 2h ].
+Ph1984 shows [ 10c 7c ].
+jentao13 shows [ As 2h ].
+Ph1984 shows [ 10c 7c ].
+Ph1984 collected [$196.9].
+jentao13 collected [$399.55].

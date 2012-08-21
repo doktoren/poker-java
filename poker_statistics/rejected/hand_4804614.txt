@@ -1,0 +1,18 @@
+#Game No : 4804614
+***** Pacific Hand History for Game 4804614 *****
+#Game No : 4804618
+***** Pacific Hand History for Game 4804618 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 10 02:33:45 2006
+Table Citron Dream (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: awaara ( $100 )
+Seat 6: neekage ( $300 )
+neekage posts small blind [$5].
+awaara posts big blind [$10].
+** Dealing down cards **
+neekage calls [$5].
+awaara raises [$36].
+neekage folds.
+** Summary **
+awaara collected [$56].

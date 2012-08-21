@@ -1,0 +1,16 @@
+#Game No : 4630554
+***** Pacific Hand History for Game 4630554 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 05 09:26:56 2006
+Table Bandita (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: TURK92 ( $1116.5 )
+Seat 7: Lydia86 ( $1322 )
+TURK92 posts small blind [$10].
+Lydia86 posts big blind [$20].
+** Dealing down cards **
+TURK92 calls [$10].
+Lydia86 raises [$60].
+TURK92 folds.
+** Summary **
+Lydia86 collected [$100].

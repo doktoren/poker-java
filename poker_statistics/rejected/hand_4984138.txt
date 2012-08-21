@@ -1,0 +1,15 @@
+#Game No : 4984138
+***** Pacific Hand History for Game 4984138 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 14 20:44:29 2006
+Table Tropical Breeze (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kielbax ( $2836 )
+Seat 5: M8Me ( $2000 )
+M8Me posts small blind [$10].
+kielbax posts big blind [$20].
+** Dealing down cards **
+M8Me raises [$50].
+kielbax folds.
+** Summary **
+M8Me collected [$80].

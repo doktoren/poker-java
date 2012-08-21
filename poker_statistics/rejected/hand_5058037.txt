@@ -1,0 +1,23 @@
+#Game No : 5058037
+***** Pacific Hand History for Game 5058037 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 17 02:07:15 2006
+Table Marsh Wheeling (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: fbenoit1 ( $379 )
+Seat 3: OzBugsy ( $1627.28 )
+Seat 5: Ringer ( $542 )
+Seat 6: A604Guy ( $1066 )
+Seat 7: carbons ( $2803 )
+Seat 8: sarasola ( $2658.7 )
+Seat 9: JSTLRNED ( $1906.6 )
+carbons posts small blind [$10].
+sarasola posts big blind [$20].
+** Dealing down cards **
+JSTLRNED folds.
+OzBugsy folds.
+Ringer folds.
+A604Guy folds.
+carbons folds.
+** Summary **
+sarasola collected [$30].

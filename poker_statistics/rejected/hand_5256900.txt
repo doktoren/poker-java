@@ -1,0 +1,29 @@
+#Game No : 5256900
+***** Pacific Hand History for Game 5256900 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 22 02:26:07 2006
+Table Skydiver (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 3: claireee ( $2852.63 )
+Seat 4: kiffjr65 ( $1446.23 )
+Seat 5: gazza325 ( $985 )
+Seat 6: tballace ( $1003.5 )
+Seat 7: PNT2006 ( $401.42 )
+Seat 8: Kasperis ( $1407.75 )
+claireee posts small blind [$5].
+kiffjr65 posts big blind [$10].
+** Dealing down cards **
+gazza325 folds.
+tballace folds.
+Kasperis calls [$10].
+claireee folds.
+kiffjr65 checks.
+** Dealing Flop ** [ 2d, 3h, 2s ]
+kiffjr65 checks.
+Kasperis checks.
+** Dealing Turn ** [ Qs ]
+kiffjr65 checks.
+Kasperis bets [$20].
+kiffjr65 folds.
+** Summary **
+Kasperis collected [$43.75].

@@ -1,0 +1,24 @@
+#Game No : 5047032
+***** Pacific Hand History for Game 5047032 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 18:03:14 2006
+Table Marsh Wheeling (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Kasperis ( $2000 )
+Seat 3: hosen ( $1834 )
+Seat 4: boogjr ( $1775.5 )
+Seat 5: demonbo2 ( $547 )
+Seat 7: avago14 ( $3524.5 )
+demonbo2 posts small blind [$10].
+avago14 posts big blind [$20].
+** Dealing down cards **
+hosen folds.
+boogjr raises [$70].
+demonbo2 folds.
+avago14 calls [$50].
+** Dealing Flop ** [ 8h, 8s, 9h ]
+avago14 checks.
+boogjr bets [$100].
+avago14 folds.
+** Summary **
+boogjr collected [$246].

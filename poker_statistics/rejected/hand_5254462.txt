@@ -1,0 +1,29 @@
+#Game No : 5254462
+***** Pacific Hand History for Game 5254462 *****
+#Game No : 5254472
+***** Pacific Hand History for Game 5254472 *****
+$5/$10 Blinds No Limit Hold'em - *** 09 22 00:58:37 2006
+Table San Sebastian (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 10: kiffjr65 ( $165.99 )
+Seat 6: skanis ( $1000 )
+skanis posts small blind [$5].
+kiffjr65 posts big blind [$10].
+** Dealing down cards **
+skanis calls [$5].
+kiffjr65 checks.
+** Dealing Flop ** [ 8d, 7c, 10d ]
+kiffjr65 checks.
+skanis checks.
+** Dealing Turn ** [ 6s ]
+kiffjr65 checks.
+skanis checks.
+** Dealing River ** [ Ah ]
+kiffjr65 checks.
+skanis checks.
+** Summary **
+kiffjr65 shows [ Kc 2s ].
+skanis shows [ Kh 5s ].
+kiffjr65 collected [$9.5].
+skanis collected [$9.5].

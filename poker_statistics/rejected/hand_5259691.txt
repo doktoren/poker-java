@@ -1,0 +1,20 @@
+#Game No : 5259691
+***** Pacific Hand History for Game 5259691 *****
+$3/$6 Blinds No Limit Hold'em - *** 09 22 04:15:58 2006
+Table Muddy Water (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 10: xxDRBxx ( $597.95 )
+Seat 2: niteboy ( $37.65 )
+Seat 5: mike9701 ( $944.4 )
+Seat 6: AndMor ( $835.5 )
+Seat 9: stephank ( $1440.05 )
+stephank posts small blind [$3].
+xxDRBxx posts big blind [$6].
+** Dealing down cards **
+mike9701 raises [$18].
+AndMor folds.
+stephank folds.
+xxDRBxx folds.
+** Summary **
+mike9701 collected [$27].

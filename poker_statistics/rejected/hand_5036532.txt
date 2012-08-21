@@ -1,0 +1,18 @@
+#Game No : 5036532
+***** Pacific Hand History for Game 5036532 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 16 07:46:57 2006
+Table McEwans (Real Money)
+Seat 8 is the button
+Total number of players : 2
+Seat 3: kogo9 ( $2684.08 )
+Seat 8: aaronkjo ( $2661 )
+kogo9 posts small blind [$10].
+aaronkjo posts big blind [$20].
+** Dealing down cards **
+kogo9 raises [$50].
+aaronkjo calls [$40].
+** Dealing Flop ** [ Qc, 7c, Kc ]
+kogo9 bets [$80].
+aaronkjo folds.
+** Summary **
+kogo9 collected [$196].

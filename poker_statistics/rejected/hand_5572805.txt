@@ -1,0 +1,19 @@
+#Game No : 5572805
+***** Pacific Hand History for Game 5572805 *****
+$10/$20 Blinds No Limit Hold'em - *** 09 30 14:28:05 2006
+Table Taviano (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 10: MAP914 ( $1810 )
+Seat 9: jnkydawg ( $1520.49 )
+jnkydawg posts small blind [$10].
+MAP914 posts big blind [$20].
+** Dealing down cards **
+jnkydawg calls [$10].
+MAP914 checks.
+** Dealing Flop ** [ Kh, Kd, Kc ]
+jnkydawg checks.
+MAP914 bets [$100].
+jnkydawg folds.
+** Summary **
+MAP914 collected [$138].
